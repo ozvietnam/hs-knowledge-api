@@ -1,0 +1,13 @@
+{
+  "name": "hs-knowledge-api",
+  "version": "1.0.0",
+  "description": "HS Code Knowledge Graph API — 9 tầng dữ liệu",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3"
+  }
+}

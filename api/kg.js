@@ -1,0 +1,53 @@
+// API: /api/kg?hs=85167100
+// Tra cứu knowledge graph đầy đủ 9 tầng theo mã HS
+
+export const config = { api: { responseLimit: '8mb' } };
+
+export default async function handler(req, res) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+
+  const { hs, fields } = req.query;
+  if (!hs) {
+    return res.status(400).json({ 
+      error: 'Thiếu tham số hs. Ví dụ: /api/kg?hs=85167100',
+      tip: 'Thêm ?fields=fact_layer,legal_layer để lấy tầng cụ thể'
+    });
+  }
+
+  const code = hs.replace(/\./g, '').trim().padEnd(8, '0').slice(0, 8);
+  const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
+
+  try {
+    const chapterData = await import(`../data/kg/chapter_${chapter}.json`);
+    const record = chapterData.default?.[code] || chapterData[code];
+
+    if (!record) {
+      // Tìm mã gần nhất
+      const prefix6 = code.slice(0, 6);
+      const related = Object.entries(chapterData.default || chapterData)
+        .filter(([k]) => k.startsWith(prefix6))
+        .slice(0, 5)
+        .map(([k, v]) => ({ hs: k, vn: v.fact_layer.vn }));
+
+      return res.status(404).json({
+        found: false,
+        message: `Không tìm thấy mã ${code}`,
+        go_y_ma_lien_quan: related
+      });
+    }
+
+    // Lọc fields nếu có yêu cầu
+    if (fields) {
+      const fieldList = fields.split(',').map(f => f.trim());
+      const filtered = { hs: record.hs, chapter: record.chapter };
+      fieldList.forEach(f => { if (record[f]) filtered[f] = record[f]; });
+      return res.status(200).json({ found: true, ...filtered });
+    }
+
+    return res.status(200).json({ found: true, ...record });
+
+  } catch (e) {
+    return res.status(500).json({ error: `Lỗi đọc dữ liệu chapter ${chapter}`, detail: e.message });
+  }
+}
