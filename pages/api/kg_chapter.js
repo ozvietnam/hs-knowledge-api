@@ -1,7 +1,10 @@
 // pages/api/kg_chapter.js
+import fs from 'fs';
+import path from 'path';
+
 export const config = { api: { responseLimit: '8mb' } };
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   const { chapter, status } = req.query;
@@ -12,8 +15,9 @@ export default async function handler(req, res) {
   const chap = String(parseInt(chapter)).padStart(2, '0');
 
   try {
-    const chapterData = await import(`../../data/kg/chapter_${chap}.json`);
-    let records = Object.values(chapterData.default || chapterData);
+    const filePath = path.join(process.cwd(), 'data', 'kg', `chapter_${chap}.json`);
+    const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    let records = Object.values(chapterData);
     if (status) records = records.filter(r => r.meta.status === status);
 
     return res.status(200).json({
@@ -21,7 +25,7 @@ export default async function handler(req, res) {
       total: records.length,
       records
     });
-  } catch(e) {
-    return res.status(404).json({ error: `Không có dữ liệu Chapter ${chapter}` });
+  } catch (e) {
+    return res.status(404).json({ error: `Không có dữ liệu Chapter ${chapter}`, detail: e.message });
   }
 }

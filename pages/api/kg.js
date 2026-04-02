@@ -1,13 +1,16 @@
 // pages/api/kg.js
+import fs from 'fs';
+import path from 'path';
+
 export const config = { api: { responseLimit: '8mb' } };
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
   const { hs, fields } = req.query;
   if (!hs) {
-    return res.status(400).json({ 
+    return res.status(400).json({
       error: 'Thiếu tham số hs. Ví dụ: /api/kg?hs=85167100',
       tip: 'Thêm ?fields=fact_layer,legal_layer để lấy tầng cụ thể'
     });
@@ -17,12 +20,13 @@ export default async function handler(req, res) {
   const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
 
   try {
-    const chapterData = await import(`../../data/kg/chapter_${chapter}.json`);
-    const record = chapterData.default?.[code] || chapterData[code];
+    const filePath = path.join(process.cwd(), 'data', 'kg', `chapter_${chapter}.json`);
+    const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const record = chapterData[code];
 
     if (!record) {
       const prefix6 = code.slice(0, 6);
-      const related = Object.entries(chapterData.default || chapterData)
+      const related = Object.entries(chapterData)
         .filter(([k]) => k.startsWith(prefix6))
         .slice(0, 5)
         .map(([k, v]) => ({ hs: k, vn: v.fact_layer.vn }));
