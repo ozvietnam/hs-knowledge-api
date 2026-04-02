@@ -1,4 +1,4 @@
-// pages/api/kg_search.js
+// pages/api/search.js
 import fs from 'fs';
 import path from 'path';
 

@@ -1,4 +1,4 @@
-// pages/api/kg_chapter.js
+// pages/api/chapter.js
 import fs from 'fs';
 import path from 'path';
 
@@ -9,7 +9,7 @@ export default function handler(req, res) {
 
   const { chapter, status } = req.query;
   if (!chapter) {
-    return res.status(400).json({ error: 'Thiếu tham số chapter. Ví dụ: /api/kg_chapter?chapter=85' });
+    return res.status(400).json({ error: 'Thiếu tham số chapter. Ví dụ: /api/chapter?chapter=85' });
   }
 
   const chap = String(parseInt(chapter)).padStart(2, '0');

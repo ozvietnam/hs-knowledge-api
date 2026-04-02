@@ -1,4 +1,4 @@
-// pages/api/kg_stats.js
+// pages/api/stats.js
 import fs from 'fs';
 import path from 'path';
 
