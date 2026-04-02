@@ -1,4 +1,4 @@
-// pages/api/kg.js
+// pages/api/hs.js — tra cứu 9 tầng theo mã HS
 import fs from 'fs';
 import path from 'path';
 
@@ -11,7 +11,7 @@ export default function handler(req, res) {
   const { hs, fields } = req.query;
   if (!hs) {
     return res.status(400).json({
-      error: 'Thiếu tham số hs. Ví dụ: /api/kg?hs=85167100',
+      error: 'Thiếu tham số hs. Ví dụ: /api/hs?hs=85167100',
       tip: 'Thêm ?fields=fact_layer,legal_layer để lấy tầng cụ thể'
     });
   }
