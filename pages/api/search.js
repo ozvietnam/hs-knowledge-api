@@ -1,8 +1,9 @@
 // pages/api/search.js
-import fs from 'fs';
-import path from 'path';
+const CDN_BASE = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : 'http://localhost:3000';
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   const { q, limit = '20', canh_bao, loai_khac, chapter } = req.query;
@@ -11,8 +12,9 @@ export default function handler(req, res) {
   }
 
   try {
-    const filePath = path.join(process.cwd(), 'public', 'kg', 'kg_index.json');
-    const indexData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const response = await fetch(`${CDN_BASE}/kg/kg_index.json`);
+    if (!response.ok) throw new Error('Index not found');
+    const indexData = await response.json();
 
     const keyword = q.trim().toLowerCase();
     const limitNum = Math.min(parseInt(limit) || 20, 100);
@@ -26,12 +28,7 @@ export default function handler(req, res) {
       return item.vn.toLowerCase().includes(keyword);
     }).slice(0, limitNum);
 
-    return res.status(200).json({
-      keyword: q,
-      total: results.length,
-      filters: { canh_bao, loai_khac, chapter },
-      results
-    });
+    return res.status(200).json({ keyword: q, total: results.length, filters: { canh_bao, loai_khac, chapter }, results });
   } catch (e) {
     return res.status(500).json({ error: 'Lỗi đọc index', detail: e.message });
   }

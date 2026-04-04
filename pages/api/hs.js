@@ -1,28 +1,16 @@
 // pages/api/hs.js — tra cứu 9 tầng theo mã HS
-// Data in public/kg/ — read via fs from build output
-import fs from 'fs';
-import path from 'path';
+// Fetch data from Vercel static CDN (public/kg/) via absolute URL
 
-export const config = { api: { responseLimit: '8mb' } };
+export const config = {
+  api: { responseLimit: '8mb' },
+};
 
-function getChapterData(chapter) {
-  // In Vercel, public/ files are copied to .next/server/ or accessible via process.cwd()
-  const possiblePaths = [
-    path.join(process.cwd(), 'public', 'kg', `chapter_${chapter}.json`),
-    path.join(process.cwd(), '.next', 'static', 'kg', `chapter_${chapter}.json`),
-  ];
+// Production URL - static files served from CDN
+const CDN_BASE = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : 'http://localhost:3000';
 
-  for (const p of possiblePaths) {
-    try {
-      if (fs.existsSync(p)) {
-        return JSON.parse(fs.readFileSync(p, 'utf8'));
-      }
-    } catch (e) { /* try next */ }
-  }
-  return null;
-}
-
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
@@ -38,11 +26,16 @@ export default function handler(req, res) {
   const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
 
   try {
-    const chapterData = getChapterData(chapter);
-    if (!chapterData) {
-      return res.status(404).json({ error: `Chapter ${chapter} không tồn tại` });
+    const dataUrl = `${CDN_BASE}/kg/chapter_${chapter}.json`;
+    const response = await fetch(dataUrl, {
+      headers: { 'User-Agent': 'hs-knowledge-api-internal' }
+    });
+
+    if (!response.ok) {
+      return res.status(404).json({ error: `Chapter ${chapter} không tồn tại`, debug_url: dataUrl });
     }
 
+    const chapterData = await response.json();
     const record = chapterData[code];
 
     if (!record) {

@@ -1,13 +1,15 @@
 // pages/api/stats.js
-import fs from 'fs';
-import path from 'path';
+const CDN_BASE = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : 'http://localhost:3000';
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   try {
-    const filePath = path.join(process.cwd(), 'public', 'kg', 'kg_index.json');
-    const indexData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const response = await fetch(`${CDN_BASE}/kg/kg_index.json`);
+    if (!response.ok) throw new Error('Index not found');
+    const indexData = await response.json();
 
     const stats = {
       tong_ma_hs: indexData.length,
