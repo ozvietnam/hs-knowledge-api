@@ -1,9 +1,8 @@
 // pages/api/chapter.js
 export const config = { api: { responseLimit: '8mb' } };
 
-const CDN_BASE = process.env.VERCEL_URL
-  ? `https://${process.env.VERCEL_URL}`
-  : 'http://localhost:3000';
+const CDN_BASE = process.env.PRODUCTION_URL
+  || 'https://hs-knowledge-api.vercel.app';
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');

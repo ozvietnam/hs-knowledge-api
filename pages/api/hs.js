@@ -6,9 +6,9 @@ export const config = {
 };
 
 // Production URL - static files served from CDN
-const CDN_BASE = process.env.VERCEL_URL
-  ? `https://${process.env.VERCEL_URL}`
-  : 'http://localhost:3000';
+// Use production domain (not VERCEL_URL which points to preview/auth-protected URL)
+const CDN_BASE = process.env.PRODUCTION_URL
+  || 'https://hs-knowledge-api.vercel.app';
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
