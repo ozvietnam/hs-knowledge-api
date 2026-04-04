@@ -77,7 +77,7 @@ export default function handler(req, res) {
       if (fs.existsSync(tbPath)) {
         const tbData = JSON.parse(fs.readFileSync(tbPath, 'utf8'));
         const tbResults = tbData.filter(item => {
-          const searchText = [item.hs || '', item.ten_hang || '', item.so_tb || ''].join(' ').toLowerCase();
+          const searchText = [item.hs || '', item.ten_sp || '', item.ten_kt || '', item.so_hieu || '', item.ma_hs || ''].join(' ').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
           return multiKeywordMatch(searchText, keywords);
         }).slice(0, limitNum);
@@ -93,12 +93,12 @@ export default function handler(req, res) {
       if (fs.existsSync(bgPath)) {
         const bgData = JSON.parse(fs.readFileSync(bgPath, 'utf8'));
         const bgResults = bgData.filter(item => {
-          const searchText = (item.text || '').toLowerCase();
+          const searchText = (item.t || '').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
           return multiKeywordMatch(searchText, keywords);
         }).slice(0, limitNum).map(item => ({
           ...item,
-          snippet: extractSnippet(item.text || '', keywords)
+          snippet: extractSnippet(item.t || '', keywords)
         }));
         response.results.bao_gom = { total: bgResults.length, items: bgResults };
       } else {
@@ -112,7 +112,7 @@ export default function handler(req, res) {
       if (fs.existsSync(cfPath)) {
         const cfData = JSON.parse(fs.readFileSync(cfPath, 'utf8'));
         const cfResults = cfData.filter(item => {
-          const searchText = [item.hs || '', item.mo_ta || '', (item.ma_de_nham || []).join(' ')].join(' ').toLowerCase();
+          const searchText = [item.hs || '', item.ly_do || '', item.mau_thuan || '', (item.ma_de_nham || []).join(' ')].join(' ').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
           return multiKeywordMatch(searchText, keywords);
         }).slice(0, limitNum);
