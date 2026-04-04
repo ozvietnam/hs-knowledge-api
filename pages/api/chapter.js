@@ -1,10 +1,8 @@
 // pages/api/chapter.js
-import fs from 'fs';
-import path from 'path';
 
 export const config = { api: { responseLimit: '8mb' } };
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   const { chapter, status } = req.query;
@@ -15,10 +13,13 @@ export default function handler(req, res) {
   const chap = String(parseInt(chapter)).padStart(2, '0');
 
   try {
-    const filePath = path.join(process.cwd(), 'data', 'kg', `chapter_${chap}.json`);
-    const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const baseUrl = `${req.headers['x-forwarded-proto'] || 'https'}://${req.headers.host}`;
+    const response = await fetch(`${baseUrl}/kg/chapter_${chap}.json`);
+    if (!response.ok) throw new Error('Not found');
+
+    const chapterData = await response.json();
     let records = Object.values(chapterData);
-    if (status) records = records.filter(r => r.meta.status === status);
+    if (status) records = records.filter(r => r.meta && r.meta.status === status);
 
     return res.status(200).json({
       chapter: parseInt(chapter),

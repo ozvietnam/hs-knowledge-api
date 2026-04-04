@@ -1,8 +1,6 @@
 // pages/api/search.js
-import fs from 'fs';
-import path from 'path';
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   const { q, limit = '20', canh_bao, loai_khac, chapter } = req.query;
@@ -11,8 +9,11 @@ export default function handler(req, res) {
   }
 
   try {
-    const filePath = path.join(process.cwd(), 'data', 'kg_index.json');
-    const indexData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const baseUrl = `${req.headers['x-forwarded-proto'] || 'https'}://${req.headers.host}`;
+    const response = await fetch(`${baseUrl}/kg/kg_index.json`);
+    if (!response.ok) throw new Error('Index not found');
+
+    const indexData = await response.json();
 
     const keyword = q.trim().toLowerCase();
     const limitNum = Math.min(parseInt(limit) || 20, 100);

@@ -1,10 +1,9 @@
 // pages/api/hs.js — tra cứu 9 tầng theo mã HS
-import fs from 'fs';
-import path from 'path';
+// Data served from public/kg/ (static files) to avoid 250MB serverless limit
 
 export const config = { api: { responseLimit: '8mb' } };
 
-export default function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
@@ -20,8 +19,16 @@ export default function handler(req, res) {
   const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
 
   try {
-    const filePath = path.join(process.cwd(), 'data', 'kg', `chapter_${chapter}.json`);
-    const chapterData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    // Fetch from public/kg/ static files
+    const baseUrl = `${req.headers['x-forwarded-proto'] || 'https'}://${req.headers.host}`;
+    const dataUrl = `${baseUrl}/kg/chapter_${chapter}.json`;
+    const response = await fetch(dataUrl);
+
+    if (!response.ok) {
+      return res.status(404).json({ error: `Chapter ${chapter} không tồn tại` });
+    }
+
+    const chapterData = await response.json();
     const record = chapterData[code];
 
     if (!record) {
