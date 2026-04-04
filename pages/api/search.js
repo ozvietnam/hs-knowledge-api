@@ -1,84 +1,134 @@
 // pages/api/search.js
-// 1 CALL = QUÉT 4 NGUỒN: biểu thuế + TB-TCHQ + bao_gom/SEN + conflict
-// Hỗ trợ tiếng Việt có dấu & không dấu
+// v2.0 — Multi-source search + Multi-keyword AND matching
+import fs from 'fs';
+import path from 'path';
 
-const CDN_BASE = process.env.PRODUCTION_URL
-  || 'https://hs-knowledge-api.vercel.app';
-
-function removeDiacritics(str) {
-  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D');
+// Helper: multi-keyword AND match
+function multiKeywordMatch(text, keywords) {
+  const lowerText = text.toLowerCase();
+  return keywords.every(kw => lowerText.includes(kw));
 }
 
-function textMatch(text, kw, kwNorm) {
-  const lower = text.toLowerCase();
-  if (lower.includes(kw)) return true;
-  return removeDiacritics(lower).includes(kwNorm);
+// Helper: extract snippet around first keyword match
+function extractSnippet(text, keywords, maxLen = 120) {
+  const lowerText = text.toLowerCase();
+  let firstIdx = -1;
+  for (const kw of keywords) {
+    const idx = lowerText.indexOf(kw);
+    if (idx !== -1 && (firstIdx === -1 || idx < firstIdx)) {
+      firstIdx = idx;
+    }
+  }
+  if (firstIdx === -1) return text.slice(0, maxLen);
+  const start = Math.max(0, firstIdx - 30);
+  const end = Math.min(text.length, firstIdx + maxLen - 30);
+  return (start > 0 ? '...' : '') + text.slice(start, end) + (end < text.length ? '...' : '');
 }
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  const { q, limit = '20', canh_bao, loai_khac, chapter } = req.query;
+
+  const { q, limit = '20', canh_bao, loai_khac, chapter, source } = req.query;
   if (!q || q.trim().length < 2) {
-    return res.status(400).json({ error: 'Tham số q phải có ít nhất 2 ký tự' });
+    return res.status(400).json({
+      error: 'Tham số q phải có ít nhất 2 ký tự',
+      sources: ['bieu_thue', 'tb_tchq', 'bao_gom', 'conflict'],
+      vi_du: '/api/search?q=bàn+chải+điện&limit=10'
+    });
   }
 
+  const keyword = q.trim().toLowerCase();
+  const keywords = keyword.split(/\s+/).filter(w => w.length >= 1);
+  const limitNum = Math.min(parseInt(limit) || 20, 100);
+  const isHSQuery = /^\d{4,}/.test(keyword);
+
+  const validSources = ['bieu_thue', 'tb_tchq', 'bao_gom', 'conflict'];
+  const requestedSources = source
+    ? source.split(',').filter(s => validSources.includes(s))
+    : validSources;
+
+  const response = {
+    keyword: q,
+    search_mode: keywords.length > 1 ? 'multi_keyword_AND' : 'substring',
+    sources_searched: requestedSources,
+    results: {}
+  };
+
   try {
-    // Fetch 4 index song song
-    const [r1, r2, r3, r4] = await Promise.all([      fetch(`${CDN_BASE}/kg/kg_index.json`),
-      fetch(`${CDN_BASE}/kg/tb_tchq_index.json`),
-      fetch(`${CDN_BASE}/kg/bao_gom_index.json`),
-      fetch(`${CDN_BASE}/kg/conflict_index.json`)
-    ]);
+    // ── SOURCE 1: Biểu thuế (kg_index.json) ──
+    if (requestedSources.includes('bieu_thue')) {
+      const indexPath = path.join(process.cwd(), 'data', 'kg_index.json');
+      const indexData = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 
-    const bieuThue = r1.ok ? await r1.json() : [];
-    const tbTchq   = r2.ok ? await r2.json() : [];
-    const baoGom   = r3.ok ? await r3.json() : [];
-    const conflict = r4.ok ? await r4.json() : [];
+      const btResults = indexData.filter(item => {
+        if (canh_bao && item.muc_canh_bao !== canh_bao) return false;
+        if (loai_khac === '1' && !item.la_hang_loai_khac) return false;
+        if (chapter && item.chapter !== parseInt(chapter)) return false;
+        if (isHSQuery) return item.hs.startsWith(keyword.replace(/\./g, ''));
+        return multiKeywordMatch(item.vn, keywords);
+      }).slice(0, limitNum);
 
-    const kw = q.trim().toLowerCase();
-    const kwNorm = removeDiacritics(kw);
-    const lim = Math.min(parseInt(limit) || 20, 100);
-    const isHS = /^\d{4,}/.test(kw);
+      response.results.bieu_thue = { total: btResults.length, items: btResults };
+    }
 
-    // 1. Biểu thuế
-    const btResults = bieuThue.filter(item => {
-      if (canh_bao && item.muc_canh_bao !== canh_bao) return false;
-      if (loai_khac === '1' && !item.la_hang_loai_khac) return false;
-      if (chapter && item.chapter !== parseInt(chapter)) return false;
-      if (isHS) return item.hs.startsWith(kw.replace(/\./g, ''));
-      return textMatch(item.vn, kw, kwNorm);
-    }).slice(0, lim);
-    // 2. TB-TCHQ — search tên sản phẩm + tên kỹ thuật
-    const tbResults = isHS ? [] : tbTchq.filter(tb =>
-      textMatch(tb.ten_sp || '', kw, kwNorm) ||
-      textMatch(tb.ten_kt || '', kw, kwNorm)
-    ).slice(0, lim);
+    // ── SOURCE 2: TB-TCHQ (tb_tchq_index.json) ──
+    if (requestedSources.includes('tb_tchq')) {
+      const tbPath = path.join(process.cwd(), 'data', 'tb_tchq_index.json');
+      if (fs.existsSync(tbPath)) {
+        const tbData = JSON.parse(fs.readFileSync(tbPath, 'utf8'));
+        const tbResults = tbData.filter(item => {
+          const searchText = [item.hs || '', item.ten_hang || '', item.so_tb || ''].join(' ').toLowerCase();
+          if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
+          return multiKeywordMatch(searchText, keywords);
+        }).slice(0, limitNum);
+        response.results.tb_tchq = { total: tbResults.length, items: tbResults };
+      } else {
+        response.results.tb_tchq = { total: 0, items: [], note: 'Index chưa có' };
+      }
+    }
 
-    // 3. Bao gồm / SEN — search trong chú giải liệt kê hàng hóa
-    const bgResults = isHS ? [] : baoGom.filter(bg =>
-      textMatch(bg.t || '', kw, kwNorm)
-    ).map(bg => {
-      const lower = bg.t.toLowerCase();
-      const idx = lower.indexOf(kw) >= 0 ? lower.indexOf(kw) : removeDiacritics(lower).indexOf(kwNorm);
-      const start = Math.max(0, idx - 30);
-      const end = Math.min(bg.t.length, idx + kw.length + 80);
-      return { hs: bg.hs, snippet: '...' + bg.t.slice(start, end) + '...' };
-    }).slice(0, lim);
+    // ── SOURCE 3: Bao gồm / SEN (bao_gom_index.json) ──
+    if (requestedSources.includes('bao_gom')) {
+      const bgPath = path.join(process.cwd(), 'data', 'bao_gom_index.json');
+      if (fs.existsSync(bgPath)) {
+        const bgData = JSON.parse(fs.readFileSync(bgPath, 'utf8'));
+        const bgResults = bgData.filter(item => {
+          const searchText = (item.text || '').toLowerCase();
+          if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
+          return multiKeywordMatch(searchText, keywords);
+        }).slice(0, limitNum).map(item => ({
+          ...item,
+          snippet: extractSnippet(item.text || '', keywords)
+        }));
+        response.results.bao_gom = { total: bgResults.length, items: bgResults };
+      } else {
+        response.results.bao_gom = { total: 0, items: [], note: 'Index chưa có' };
+      }
+    }
 
-    // 4. Conflict — mã dễ nhầm (chỉ search khi query là mã HS)
-    const cfResults = !isHS ? [] : conflict.filter(cf =>
-      cf.hs.startsWith(kw.replace(/\./g, '')) ||
-      (cf.ma_de_nham || []).some(m => m.startsWith(kw.replace(/\./g, '')))
-    ).slice(0, 10);
+    // ── SOURCE 4: Conflict (conflict_index.json) ──
+    if (requestedSources.includes('conflict')) {
+      const cfPath = path.join(process.cwd(), 'data', 'conflict_index.json');
+      if (fs.existsSync(cfPath)) {
+        const cfData = JSON.parse(fs.readFileSync(cfPath, 'utf8'));
+        const cfResults = cfData.filter(item => {
+          const searchText = [item.hs || '', item.mo_ta || '', (item.ma_de_nham || []).join(' ')].join(' ').toLowerCase();
+          if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
+          return multiKeywordMatch(searchText, keywords);
+        }).slice(0, limitNum);
+        response.results.conflict = { total: cfResults.length, items: cfResults };
+      } else {
+        response.results.conflict = { total: 0, items: [], note: 'Index chưa có' };
+      }
+    }
 
-    return res.status(200).json({
-      keyword: q,
-      bieu_thue: { total: btResults.length, results: btResults },
-      tb_tchq: tbResults.length > 0 ? { total: tbResults.length, results: tbResults } : undefined,
-      chu_giai_bao_gom: bgResults.length > 0 ? { total: bgResults.length, results: bgResults } : undefined,
-      conflict: cfResults.length > 0 ? { total: cfResults.length, results: cfResults } : undefined,
-    });
+    // Summary
+    const totalAll = Object.values(response.results).reduce((sum, r) => sum + r.total, 0);
+    response.total_all_sources = totalAll;
+
+    return res.status(200).json(response);
+
   } catch (e) {
-    return res.status(500).json({ error: 'Lỗi search', detail: e.message });
+    return res.status(500).json({ error: 'Lỗi đọc index', detail: e.message });
   }
 }
