@@ -1,9 +1,28 @@
 // pages/api/hs.js — tra cứu 9 tầng theo mã HS
-// Data served from public/kg/ (static files) to avoid 250MB serverless limit
+// Data in public/kg/ — read via fs from build output
+import fs from 'fs';
+import path from 'path';
 
 export const config = { api: { responseLimit: '8mb' } };
 
-export default async function handler(req, res) {
+function getChapterData(chapter) {
+  // In Vercel, public/ files are copied to .next/server/ or accessible via process.cwd()
+  const possiblePaths = [
+    path.join(process.cwd(), 'public', 'kg', `chapter_${chapter}.json`),
+    path.join(process.cwd(), '.next', 'static', 'kg', `chapter_${chapter}.json`),
+  ];
+
+  for (const p of possiblePaths) {
+    try {
+      if (fs.existsSync(p)) {
+        return JSON.parse(fs.readFileSync(p, 'utf8'));
+      }
+    } catch (e) { /* try next */ }
+  }
+  return null;
+}
+
+export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
 
@@ -19,16 +38,11 @@ export default async function handler(req, res) {
   const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
 
   try {
-    // Fetch from public/kg/ static files
-    const baseUrl = `${req.headers['x-forwarded-proto'] || 'https'}://${req.headers.host}`;
-    const dataUrl = `${baseUrl}/kg/chapter_${chapter}.json`;
-    const response = await fetch(dataUrl);
-
-    if (!response.ok) {
+    const chapterData = getChapterData(chapter);
+    if (!chapterData) {
       return res.status(404).json({ error: `Chapter ${chapter} không tồn tại` });
     }
 
-    const chapterData = await response.json();
     const record = chapterData[code];
 
     if (!record) {

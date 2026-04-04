@@ -1,14 +1,13 @@
 // pages/api/stats.js
+import fs from 'fs';
+import path from 'path';
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   try {
-    const baseUrl = `${req.headers['x-forwarded-proto'] || 'https'}://${req.headers.host}`;
-    const response = await fetch(`${baseUrl}/kg/kg_index.json`);
-    if (!response.ok) throw new Error('Index not found');
-
-    const indexData = await response.json();
+    const filePath = path.join(process.cwd(), 'public', 'kg', 'kg_index.json');
+    const indexData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
     const stats = {
       tong_ma_hs: indexData.length,
