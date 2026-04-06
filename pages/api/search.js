@@ -3,10 +3,22 @@
 import fs from 'fs';
 import path from 'path';
 
-// Helper: multi-keyword AND match
-function multiKeywordMatch(text, keywords) {
+// Helper: strip Vietnamese diacritics
+function removeDiacritics(str) {
+  return str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/đ/g, 'd')
+    .replace(/Đ/g, 'D');
+}
+
+// Helper: multi-keyword AND match (supports diacritics-insensitive)
+function multiKeywordMatch(text, keywords, keywordsNoDiacritics) {
   const lowerText = text.toLowerCase();
-  return keywords.every(kw => lowerText.includes(kw));
+  const lowerNoDiacritics = removeDiacritics(lowerText);
+  return keywords.every((kw, i) =>
+    lowerText.includes(kw) || lowerNoDiacritics.includes(keywordsNoDiacritics[i])
+  );
 }
 
 // Helper: extract snippet around first keyword match
@@ -39,6 +51,7 @@ export default function handler(req, res) {
 
   const keyword = q.trim().toLowerCase();
   const keywords = keyword.split(/\s+/).filter(w => w.length >= 1);
+  const keywordsNoDiacritics = keywords.map(kw => removeDiacritics(kw));
   const limitNum = Math.min(parseInt(limit) || 20, 100);
   const isHSQuery = /^\d{4,}/.test(keyword);
 
@@ -65,7 +78,7 @@ export default function handler(req, res) {
         if (loai_khac === '1' && !item.la_hang_loai_khac) return false;
         if (chapter && item.chapter !== parseInt(chapter)) return false;
         if (isHSQuery) return item.hs.startsWith(keyword.replace(/\./g, ''));
-        return multiKeywordMatch(item.vn, keywords);
+        return multiKeywordMatch(item.vn, keywords, keywordsNoDiacritics);
       }).slice(0, limitNum);
 
       response.results.bieu_thue = { total: btResults.length, items: btResults };
@@ -79,7 +92,7 @@ export default function handler(req, res) {
         const tbResults = tbData.filter(item => {
           const searchText = [item.hs || '', item.ten_sp || '', item.ten_kt || '', item.so_hieu || '', item.ma_hs || ''].join(' ').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
-          return multiKeywordMatch(searchText, keywords);
+          return multiKeywordMatch(searchText, keywords, keywordsNoDiacritics);
         }).slice(0, limitNum);
         response.results.tb_tchq = { total: tbResults.length, items: tbResults };
       } else {
@@ -95,7 +108,7 @@ export default function handler(req, res) {
         const bgResults = bgData.filter(item => {
           const searchText = (item.t || '').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
-          return multiKeywordMatch(searchText, keywords);
+          return multiKeywordMatch(searchText, keywords, keywordsNoDiacritics);
         }).slice(0, limitNum).map(item => ({
           ...item,
           snippet: extractSnippet(item.t || '', keywords)
@@ -114,7 +127,7 @@ export default function handler(req, res) {
         const cfResults = cfData.filter(item => {
           const searchText = [item.hs || '', item.ly_do || '', item.mau_thuan || '', (item.ma_de_nham || []).join(' ')].join(' ').toLowerCase();
           if (isHSQuery) return (item.hs || '').startsWith(keyword.replace(/\./g, ''));
-          return multiKeywordMatch(searchText, keywords);
+          return multiKeywordMatch(searchText, keywords, keywordsNoDiacritics);
         }).slice(0, limitNum);
         response.results.conflict = { total: cfResults.length, items: cfResults };
       } else {
