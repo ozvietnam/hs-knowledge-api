@@ -1,0 +1,2713 @@
+{
+  "63011000": {
+    "hs": "63011000",
+    "ten": "- Chăn điện",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63012000": {
+    "hs": "63012000",
+    "ten": "- Chăn (trừ chăn điện) và chăn du lịch, từ lông cừu hoặc lông động vật loại mịn",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63013010": {
+    "hs": "63013010",
+    "ten": "- - Được in bằng phương pháp batik truyền thống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63013090": {
+    "hs": "63013090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63014010": {
+    "hs": "63014010",
+    "ten": "- - Vải không dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63014090": {
+    "hs": "63014090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63019010": {
+    "hs": "63019010",
+    "ten": "- - Vải không dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63019090": {
+    "hs": "63019090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63021000": {
+    "hs": "63021000",
+    "ten": "- Vỏ ga, vỏ gối, khăn trải giường (bed linen), dệt kim hoặc móc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63022100": {
+    "hs": "63022100",
+    "ten": "- - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63022210": {
+    "hs": "63022210",
+    "ten": "- - - Vải không dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63022290": {
+    "hs": "63022290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63022900": {
+    "hs": "63022900",
+    "ten": "- - Từ các vật liệu dệt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63023100": {
+    "hs": "63023100",
+    "ten": "- - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63023210": {
+    "hs": "63023210",
+    "ten": "- - - Vải không dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63023290": {
+    "hs": "63023290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63023900": {
+    "hs": "63023900",
+    "ten": "- - Từ các vật liệu dệt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63024000": {
+    "hs": "63024000",
+    "ten": "- Khăn trải bàn, dệt kim hoặc móc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63025110": {
+    "hs": "63025110",
+    "ten": "- - - Được in bằng phương pháp batik truyền thống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63025190": {
+    "hs": "63025190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63025300": {
+    "hs": "63025300",
+    "ten": "- - Từ sợi nhân tạo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63025910": {
+    "hs": "63025910",
+    "ten": "- - - Từ lanh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63025990": {
+    "hs": "63025990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63026000": {
+    "hs": "63026000",
+    "ten": "- Khăn trong phòng vệ sinh và khăn nhà bếp, từ vải dệt vòng lông hoặc các loại vải dệt vòng lông tương tự, từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63029100": {
+    "hs": "63029100",
+    "ten": "- - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63029300": {
+    "hs": "63029300",
+    "ten": "- - Từ sợi nhân tạo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63029910": {
+    "hs": "63029910",
+    "ten": "- - - Từ lanh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63029990": {
+    "hs": "63029990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63031200": {
+    "hs": "63031200",
+    "ten": "- - Từ sợi tổng hợp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63031910": {
+    "hs": "63031910",
+    "ten": "- - - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63031990": {
+    "hs": "63031990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63039100": {
+    "hs": "63039100",
+    "ten": "- - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63039200": {
+    "hs": "63039200",
+    "ten": "- - Từ sợi tổng hợp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63039900": {
+    "hs": "63039900",
+    "ten": "- - Từ các vật liệu dệt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63041100": {
+    "hs": "63041100",
+    "ten": "- - Dệt kim hoặc móc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63041910": {
+    "hs": "63041910",
+    "ten": "- - - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63041920": {
+    "hs": "63041920",
+    "ten": "- - - Loại khác, không dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63041990": {
+    "hs": "63041990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63042000": {
+    "hs": "63042000",
+    "ten": "- Màn ngủ được chi tiết tại Chú giải Phân nhóm 1 Chương này",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63049110": {
+    "hs": "63049110",
+    "ten": "- - - Màn chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "63049190": {
+    "hs": "63049190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63049200": {
+    "hs": "63049200",
+    "ten": "- - Không dệt kim hoặc móc, từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63049300": {
+    "hs": "63049300",
+    "ten": "- - Không dệt kim hoặc móc, từ sợi tổng hợp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63049900": {
+    "hs": "63049900",
+    "ten": "- - Không dệt kim hoặc móc, từ các vật liệu dệt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63071010": {
+    "hs": "63071010",
+    "ten": "- - Từ vải không dệt trừ phớt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63071020": {
+    "hs": "63071020",
+    "ten": "- - Từ phớt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63071090": {
+    "hs": "63071090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63079061": {
+    "hs": "63079061",
+    "ten": "- - - Phù hợp dùng trong công nghiệp",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "63079069": {
+    "hs": "63079069",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "63079070": {
+    "hs": "63079070",
+    "ten": "- - Quạt và màn che kéo bằng tay",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63079090": {
+    "hs": "63079090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63080000": {
+    "hs": "63080000",
+    "ten": "Bộ vải bao gồm vải dệt thoi và chỉ, có hoặc không có phụ kiện, dùng để làm chăn, thảm trang trí, khăn trải bàn hoặc khăn ăn đã thêu, hoặc các sản phẩm dệt tương tự, đóng gói sẵn để bán lẻ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "63090000": {
+    "hs": "63090000",
+    "ten": "Quần áo và các sản phẩm dệt may đã qua sử dụng khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  }
+}

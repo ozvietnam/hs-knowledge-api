@@ -1,0 +1,457 @@
+{
+  "65010000": {
+    "hs": "65010000",
+    "ten": "Các loại thân mũ hình nón, hình chuông bằng phớt (nỉ, dạ), chưa dựng theo khuôn, chưa làm vành; thân mũ chóp bằng và thân mũ hình trụ (kể cả thân mũ hình trụ đa giác), bằng phớt (nỉ, dạ)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65020000": {
+    "hs": "65020000",
+    "ten": "Các loại thân mũ, được làm bằng cách tết hoặc ghép các dải làm bằng vật liệu bất kỳ, chưa dựng theo khuôn, chưa làm vành, chưa có lót, chưa có trang trí",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65040000": {
+    "hs": "65040000",
+    "ten": "Các loại mũ và các vật đội đầu khác, được làm bằng cách tết hoặc ghép các dải làm bằng chất liệu bất kỳ, đã hoặc chưa có lót hoặc trang trí",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65050010": {
+    "hs": "65050010",
+    "ten": "- Mũ và các vật đội đầu sử dụng cho mục đích tôn giáo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65050020": {
+    "hs": "65050020",
+    "ten": "- Lưới bao tóc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65050090": {
+    "hs": "65050090",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "65061010": {
+    "hs": "65061010",
+    "ten": "- - Mũ bảo hiểm cho người đi xe máy",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "65061020": {
+    "hs": "65061020",
+    "ten": "- - Mũ bảo hộ công nghiệp và mũ bảo hiểm cho lính cứu hỏa, trừ mũ bảo hộ bằng thép",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "65061030": {
+    "hs": "65061030",
+    "ten": "- - Mũ bảo hộ bằng thép",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "65061040": {
+    "hs": "65061040",
+    "ten": "- - Mũ dùng trong chơi water-polo",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "65061090": {
+    "hs": "65061090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA",
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "65069100": {
+    "hs": "65069100",
+    "ten": "- - Bằng cao su hoặc plastic",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "65069910": {
+    "hs": "65069910",
+    "ten": "- - - Bằng da lông",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "65069990": {
+    "hs": "65069990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  }
+}

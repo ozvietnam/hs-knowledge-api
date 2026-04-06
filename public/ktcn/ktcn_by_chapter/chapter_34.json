@@ -1,0 +1,242 @@
+{
+  "34011140": {
+    "hs": "34011140",
+    "ten": "- - - Xà phòng đã tẩm thuốc kể cả xà phòng sát khuẩn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34011150": {
+    "hs": "34011150",
+    "ten": "- - - Xà phòng khác kể cả xà phòng tắm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34012099": {
+    "hs": "34012099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34013000": {
+    "hs": "34013000",
+    "ten": "- Các sản phẩm và chế phẩm hữu cơ hoạt động bề mặt dùng để làm sạch da, dạng lỏng hoặc dạng kem và đã được đóng gói để bán lẻ, có hoặc không chứa xà phòng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Mỹ phẩm XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM14",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34024100": {
+    "hs": "34024100",
+    "ten": "- - Dạng cation",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34024290": {
+    "hs": "34024290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34042000": {
+    "hs": "34042000",
+    "ten": "- Từ poly(oxyetylen) (polyetylen glycol)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "34049090": {
+    "hs": "34049090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  }
+}

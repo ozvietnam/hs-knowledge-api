@@ -1,0 +1,358 @@
+{
+  "70010000": {
+    "hs": "70010000",
+    "ten": "Thủy tinh vụn và thủy tinh phế liệu và mảnh vụn khác, trừ thủy tinh từ ống đèn tia ca-tốt hoặc thủy tinh hoạt tính khác thuộc nhóm 85.49; thủy tinh ở dạng khối",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+        "van_ban": "13/2023/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "70052920": {
+    "hs": "70052920",
+    "ten": "- - - Loại khác, hình vuông hoặc hình chữ nhật, đã hoặc chưa cắt một hoặc nhiều góc (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế CBPG Một số SP kính nổi không màu (ID, MA)",
+        "van_ban": "2093/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "70052990": {
+    "hs": "70052990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế CBPG Một số SP kính nổi không màu (ID, MA)",
+        "van_ban": "2093/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "70131000": {
+    "hs": "70131000",
+    "ten": "- Bằng gốm thủy tinh",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70132200": {
+    "hs": "70132200",
+    "ten": "- - Bằng pha lê chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70132800": {
+    "hs": "70132800",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70133300": {
+    "hs": "70133300",
+    "ten": "- - Bằng pha lê chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70133700": {
+    "hs": "70133700",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70134100": {
+    "hs": "70134100",
+    "ten": "- - Bằng pha lê chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70134200": {
+    "hs": "70134200",
+    "ten": "- - Bằng thủy tinh có hệ số giãn nở tuyến tính không quá 5 x 10-6 độ Kelvin khi ở nhiệt độ từ 0oC đến 300oC",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70134900": {
+    "hs": "70134900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70139100": {
+    "hs": "70139100",
+    "ten": "- - Bằng pha lê chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "70139900": {
+    "hs": "70139900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  }
+}

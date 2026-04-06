@@ -1,0 +1,362 @@
+{
+  "78011000": {
+    "hs": "78011000",
+    "ten": "- Chì tinh luyện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78019100": {
+    "hs": "78019100",
+    "ten": "- - Có hàm lượng antimon tính theo khối lượng là lớn nhất so với hàm lượng của các nguyên tố khác ngoài chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78019900": {
+    "hs": "78019900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78020000": {
+    "hs": "78020000",
+    "ten": "Phế liệu và mảnh vụn chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78041110": {
+    "hs": "78041110",
+    "ten": "- - - Chiều dày không quá 0,15 mm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78041190": {
+    "hs": "78041190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78041900": {
+    "hs": "78041900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78042000": {
+    "hs": "78042000",
+    "ten": "- Bột và vảy chì",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78060020": {
+    "hs": "78060020",
+    "ten": "- Thanh, que, dạng hình và dây",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78060030": {
+    "hs": "78060030",
+    "ten": "- Các loại ống, ống dẫn và phụ kiện để ghép nối của ống hoặc ống dẫn (ví dụ, khớp nối đôi, nối khuỷu, măng sông)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78060040": {
+    "hs": "78060040",
+    "ten": "- Len chì; vòng đệm; tấm điện a-nốt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "78060090": {
+    "hs": "78060090",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  }
+}

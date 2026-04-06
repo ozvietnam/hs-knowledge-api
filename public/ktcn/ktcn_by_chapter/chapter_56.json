@@ -1,0 +1,1522 @@
+{
+  "56012100": {
+    "hs": "56012100",
+    "ten": "- - Từ bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56012210": {
+    "hs": "56012210",
+    "ten": "- - - Tô (tow) đầu lọc thuốc lá (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56012290": {
+    "hs": "56012290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56012900": {
+    "hs": "56012900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56013010": {
+    "hs": "56013010",
+    "ten": "- - Xơ vụn polyamit ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56013020": {
+    "hs": "56013020",
+    "ten": "- - Xơ vụn bằng polypropylen",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56013090": {
+    "hs": "56013090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56021000": {
+    "hs": "56021000",
+    "ten": "- Phớt, nỉ xuyên kim và vải khâu đính",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56022100": {
+    "hs": "56022100",
+    "ten": "- - Từ lông cừu hoặc lông động vật loại mịn",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56022900": {
+    "hs": "56022900",
+    "ten": "- - Từ các vật liệu dệt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56029000": {
+    "hs": "56029000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56031100": {
+    "hs": "56031100",
+    "ten": "- - Định lượng không quá 25 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56031200": {
+    "hs": "56031200",
+    "ten": "- - Định lượng trên 25 g/m2 nhưng không quá 70 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56031300": {
+    "hs": "56031300",
+    "ten": "- - Định lượng trên 70 g/m2 nhưng không quá 150 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56031400": {
+    "hs": "56031400",
+    "ten": "- - Định lượng trên 150 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56039100": {
+    "hs": "56039100",
+    "ten": "- - Định lượng không quá 25 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56039200": {
+    "hs": "56039200",
+    "ten": "- - Định lượng trên 25 g/m2 nhưng không quá 70 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56039300": {
+    "hs": "56039300",
+    "ten": "- - Định lượng trên 70 g/m2 nhưng không quá 150 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56039400": {
+    "hs": "56039400",
+    "ten": "- - Định lượng trên 150 g/m2",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56041000": {
+    "hs": "56041000",
+    "ten": "- Chỉ cao su và sợi (cord) cao su, được bọc bằng vật liệu dệt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56049010": {
+    "hs": "56049010",
+    "ten": "- - Chỉ giả catgut, bằng sợi tơ tằm",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56049020": {
+    "hs": "56049020",
+    "ten": "- - Sợi dệt được ngâm tẩm cao su",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56049030": {
+    "hs": "56049030",
+    "ten": "- - Sợi có độ bền cao từ polyeste, ni lông hoặc polyamit khác hoặc từ viscose rayon",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56049090": {
+    "hs": "56049090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56050000": {
+    "hs": "56050000",
+    "ten": "Sợi trộn kim loại, có hoặc không quấn bọc, là loại sợi dệt, hoặc dải hoặc dạng tương tự thuộc nhóm 54.04 hoặc 54.05, được kết hợp với kim loại ở dạng dây, dải hoặc bột hoặc phủ bằng kim loại",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56060000": {
+    "hs": "56060000",
+    "ten": "Sợi cuốn bọc, và dải và dạng tương tự thuộc nhóm 54.04 hoặc 54.05, đã quấn bọc (trừ các loại thuộc nhóm 56.05 và sợi quấn bọc lông đuôi hoặc bờm ngựa); sợi sơnin (chenille) (kể cả sợi sơnin xù); sợi sùi vòng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56072100": {
+    "hs": "56072100",
+    "ten": "- - Dây xe để buộc hoặc đóng kiện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56072900": {
+    "hs": "56072900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56074100": {
+    "hs": "56074100",
+    "ten": "- - Dây xe để buộc hoặc đóng kiện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56074900": {
+    "hs": "56074900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56075010": {
+    "hs": "56075010",
+    "ten": "- - Sợi bện (cord) cho dây đai chữ V làm từ xơ nhân tạo đã xử lý bằng resorcinol formaldehyde; sợi polyamit và sợi polytetrafloro-ethylen có độ mảnh lớn hơn 10.000 decitex, dùng để làm kín các loại bơm, van và các sản phẩm tương tự",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56075090": {
+    "hs": "56075090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56079010": {
+    "hs": "56079010",
+    "ten": "- - Từ các xơ tái tạo",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56079021": {
+    "hs": "56079021",
+    "ten": "- - - Từ xơ chuối abaca (Manila hemp hoặc Musa textilis Nee)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56079022": {
+    "hs": "56079022",
+    "ten": "- - - Từ các xơ (lá thực vật) cứng khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56079030": {
+    "hs": "56079030",
+    "ten": "- - Từ đay hoặc các loại xơ libe dệt khác thuộc nhóm 53.03",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56079090": {
+    "hs": "56079090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56081100": {
+    "hs": "56081100",
+    "ten": "- - Lưới đánh cá thành phẩm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56081920": {
+    "hs": "56081920",
+    "ten": "- - - Túi lưới",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56081990": {
+    "hs": "56081990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56089010": {
+    "hs": "56089010",
+    "ten": "- - Túi lưới",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "56089090": {
+    "hs": "56089090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "56090000": {
+    "hs": "56090000",
+    "ten": "Các sản phẩm làm từ sợi, dải hoặc dạng tương tự thuộc nhóm 54.04 hoặc 54.05, dây xe, chão bện (cordage), thừng hoặc cáp, chưa được chi tiết hoặc ghi ở nơi khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  }
+}

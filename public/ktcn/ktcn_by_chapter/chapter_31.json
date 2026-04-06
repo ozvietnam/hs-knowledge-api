@@ -1,0 +1,244 @@
+{
+  "31021000": {
+    "hs": "31021000",
+    "ten": "- Urê, có hoặc không ở trong dung dịch nước",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "31023000": {
+    "hs": "31023000",
+    "ten": "- Amoni nitrat, có hoặc không ở trong dung dịch nước",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL4",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31051020": {
+    "hs": "31051020",
+    "ten": "- - Phân khoáng hoặc phân hóa học có chứa hai hoặc ba trong số các nguyên tố cấu thành phân bón là nitơ, phospho và kali",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31051090": {
+    "hs": "31051090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31052000": {
+    "hs": "31052000",
+    "ten": "-  Phân khoáng hoặc phân hóa học có chứa ba nguyên tố cấu thành phân bón là nitơ, phospho và kali",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31053000": {
+    "hs": "31053000",
+    "ten": "-  Diamoni hydro orthophosphat (diamoni phosphat)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31054000": {
+    "hs": "31054000",
+    "ten": "- Amoni dihydro orthophosphat (monoamoni phosphat) và hỗn hợp của nó với diamoni hydro orthophosphat (diamoni phosphat)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31055100": {
+    "hs": "31055100",
+    "ten": "- - Chứa nitrat và phosphat",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31055900": {
+    "hs": "31055900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "31059000": {
+    "hs": "31059000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+        "van_ban": "715/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  }
+}

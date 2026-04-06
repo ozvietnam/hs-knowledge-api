@@ -1,0 +1,692 @@
+{
+  "91011100": {
+    "hs": "91011100",
+    "ten": "- - Chỉ có mặt hiển thị bằng cơ học",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91011900": {
+    "hs": "91011900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91012100": {
+    "hs": "91012100",
+    "ten": "- - Có bộ phận lên giây tự động",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91012900": {
+    "hs": "91012900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91019100": {
+    "hs": "91019100",
+    "ten": "- - Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91019900": {
+    "hs": "91019900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91021100": {
+    "hs": "91021100",
+    "ten": "- - Chỉ có mặt hiển thị bằng cơ học",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91021200": {
+    "hs": "91021200",
+    "ten": "- - Chỉ có mặt hiển thị bằng quang điện tử",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91021900": {
+    "hs": "91021900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91022100": {
+    "hs": "91022100",
+    "ten": "- - Có bộ phận lên giây tự động",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91022900": {
+    "hs": "91022900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91029100": {
+    "hs": "91029100",
+    "ten": "- - Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91029900": {
+    "hs": "91029900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91031000": {
+    "hs": "91031000",
+    "ten": "- Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91039000": {
+    "hs": "91039000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91051100": {
+    "hs": "91051100",
+    "ten": "- - Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91051900": {
+    "hs": "91051900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91052100": {
+    "hs": "91052100",
+    "ten": "- - Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91052900": {
+    "hs": "91052900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91059110": {
+    "hs": "91059110",
+    "ten": "- - - Đồng hồ hàng hải đo thời gian ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91059190": {
+    "hs": "91059190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91059910": {
+    "hs": "91059910",
+    "ten": "- - - Đồng hồ hàng hải đo thời gian ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "91059990": {
+    "hs": "91059990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  }
+}

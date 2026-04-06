@@ -1,0 +1,2185 @@
+{
+  "04011010": {
+    "hs": "04011010",
+    "ten": "- - Dạng lỏng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04011090": {
+    "hs": "04011090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04012010": {
+    "hs": "04012010",
+    "ten": "- - Dạng lỏng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04012090": {
+    "hs": "04012090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04014010": {
+    "hs": "04014010",
+    "ten": "- - Sữa dạng lỏng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04014020": {
+    "hs": "04014020",
+    "ten": "- - Sữa dạng đông lạnh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04014090": {
+    "hs": "04014090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04015010": {
+    "hs": "04015010",
+    "ten": "- - Dạng lỏng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04015090": {
+    "hs": "04015090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021041": {
+    "hs": "04021041",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 20 kg trở lên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021042": {
+    "hs": "04021042",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 2 kg trở xuống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021049": {
+    "hs": "04021049",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021091": {
+    "hs": "04021091",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 20 kg trở lên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021092": {
+    "hs": "04021092",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 2 kg trở xuống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04021099": {
+    "hs": "04021099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022120": {
+    "hs": "04022120",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 20 kg trở lên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022130": {
+    "hs": "04022130",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 2 kg trở xuống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022190": {
+    "hs": "04022190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022920": {
+    "hs": "04022920",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 20 kg trở lên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022930": {
+    "hs": "04022930",
+    "ten": "- - - Đóng gói với khối lượng tịnh từ 2 kg trở xuống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04022990": {
+    "hs": "04022990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04029100": {
+    "hs": "04029100",
+    "ten": "- - Chưa pha thêm đường hoặc chất tạo ngọt khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04029900": {
+    "hs": "04029900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04032011": {
+    "hs": "04032011",
+    "ten": "- - - Đã thêm hương liệu hoặc thêm hoa quả (kể cả thịt quả và mứt), quả hạch (nuts) hoặc ca cao",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04032019": {
+    "hs": "04032019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04032091": {
+    "hs": "04032091",
+    "ten": "- - - Đã thêm hương liệu hoặc thêm hoa quả (kể cả thịt quả và mứt), quả hạch (nuts) hoặc ca cao",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04032099": {
+    "hs": "04032099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04039010": {
+    "hs": "04039010",
+    "ten": "- - Buttermilk",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04039090": {
+    "hs": "04039090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04041011": {
+    "hs": "04041011",
+    "ten": "- - - Whey, thích hợp sử dụng cho người (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04041019": {
+    "hs": "04041019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04041091": {
+    "hs": "04041091",
+    "ten": "- - - Whey, thích hợp sử dụng cho người (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04041099": {
+    "hs": "04041099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04049000": {
+    "hs": "04049000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04051000": {
+    "hs": "04051000",
+    "ten": "- Bơ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04052000": {
+    "hs": "04052000",
+    "ten": "- Chất phết từ bơ sữa ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04059010": {
+    "hs": "04059010",
+    "ten": "- - Chất béo khan của bơ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04059020": {
+    "hs": "04059020",
+    "ten": "- - Dầu bơ (butteroil)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04059030": {
+    "hs": "04059030",
+    "ten": "- - Ghee",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04059090": {
+    "hs": "04059090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04061010": {
+    "hs": "04061010",
+    "ten": "- - Pho mát tươi (chưa ủ chín hoặc chưa xử lý), kể cả pho mát whey",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04061020": {
+    "hs": "04061020",
+    "ten": "- - Curd",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04062010": {
+    "hs": "04062010",
+    "ten": "- - Đóng gói với trọng lượng cả bì trên 20 kg",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04062090": {
+    "hs": "04062090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04063000": {
+    "hs": "04063000",
+    "ten": "- Pho mát đã chế biến, chưa xát nhỏ hoặc chưa làm thành bột",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04064000": {
+    "hs": "04064000",
+    "ten": "- Pho mát vân xanh và pho mát khác có vân được sản xuất từ men Penicillium roqueforti",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04069000": {
+    "hs": "04069000",
+    "ten": "- Pho mát loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071110": {
+    "hs": "04071110",
+    "ten": "- - - Để nhân giống",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071190": {
+    "hs": "04071190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071911": {
+    "hs": "04071911",
+    "ten": "- - - - Để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071919": {
+    "hs": "04071919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071991": {
+    "hs": "04071991",
+    "ten": "- - - - Để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04071999": {
+    "hs": "04071999",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04072100": {
+    "hs": "04072100",
+    "ten": "- - Của gà thuộc loài Gallus domesticus ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04072910": {
+    "hs": "04072910",
+    "ten": "- - - Của vịt, ngan",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04072990": {
+    "hs": "04072990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04079010": {
+    "hs": "04079010",
+    "ten": "- - Của gà thuộc loài Gallus domesticus",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04079020": {
+    "hs": "04079020",
+    "ten": "- - Của vịt, ngan",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04079090": {
+    "hs": "04079090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04081100": {
+    "hs": "04081100",
+    "ten": "- - Đã làm khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04081900": {
+    "hs": "04081900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04089100": {
+    "hs": "04089100",
+    "ten": "- - Đã làm khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04089900": {
+    "hs": "04089900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04090000": {
+    "hs": "04090000",
+    "ten": "Mật ong tự nhiên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04101000": {
+    "hs": "04101000",
+    "ten": "- Côn trùng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04109010": {
+    "hs": "04109010",
+    "ten": "- - Tổ yến",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04109020": {
+    "hs": "04109020",
+    "ten": "- - Trứng rùa",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "04109090": {
+    "hs": "04109090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  }
+}

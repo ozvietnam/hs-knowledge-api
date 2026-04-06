@@ -1,0 +1,2579 @@
+{
+  "09011120": {
+    "hs": "09011120",
+    "ten": "- - - Arabica (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09011130": {
+    "hs": "09011130",
+    "ten": "- - - Robusta (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09011190": {
+    "hs": "09011190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09011220": {
+    "hs": "09011220",
+    "ten": "- - - Arabica (SEN) hoặc Robusta (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09011290": {
+    "hs": "09011290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09012111": {
+    "hs": "09012111",
+    "ten": "- - - - Arabica (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09012112": {
+    "hs": "09012112",
+    "ten": "- - - - Robusta (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09012119": {
+    "hs": "09012119",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09012120": {
+    "hs": "09012120",
+    "ten": "- - - Đã xay",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09012210": {
+    "hs": "09012210",
+    "ten": "- - - Chưa xay",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09012220": {
+    "hs": "09012220",
+    "ten": "- - - Đã xay",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09019010": {
+    "hs": "09019010",
+    "ten": "- - Vỏ quả và vỏ lụa cà phê",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09019020": {
+    "hs": "09019020",
+    "ten": "- - Các chất thay thế có chứa cà phê",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09021010": {
+    "hs": "09021010",
+    "ten": "- - Lá chè",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09021090": {
+    "hs": "09021090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09022010": {
+    "hs": "09022010",
+    "ten": "- - Lá chè",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09022090": {
+    "hs": "09022090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09023010": {
+    "hs": "09023010",
+    "ten": "- - Lá chè",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09023090": {
+    "hs": "09023090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09024010": {
+    "hs": "09024010",
+    "ten": "- - Lá chè",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09024090": {
+    "hs": "09024090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09030000": {
+    "hs": "09030000",
+    "ten": "Chè Paragoay (Maté)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09041110": {
+    "hs": "09041110",
+    "ten": "- - - Trắng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09041120": {
+    "hs": "09041120",
+    "ten": "- - - Đen",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09041190": {
+    "hs": "09041190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09041210": {
+    "hs": "09041210",
+    "ten": "- - - Trắng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09041220": {
+    "hs": "09041220",
+    "ten": "- - - Đen",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09041290": {
+    "hs": "09041290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09042110": {
+    "hs": "09042110",
+    "ten": "- - - Quả ớt (chillies) (quả thuộc chi Capsicum)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09042190": {
+    "hs": "09042190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09042210": {
+    "hs": "09042210",
+    "ten": "- - - Quả ớt (chillies) (quả thuộc chi Capsicum)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09042290": {
+    "hs": "09042290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09051000": {
+    "hs": "09051000",
+    "ten": "- Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09052000": {
+    "hs": "09052000",
+    "ten": "- Đã xay hoặc nghiền",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09061100": {
+    "hs": "09061100",
+    "ten": "- - Quế (Cinnamomum zeylanicum Blume)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09061900": {
+    "hs": "09061900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09062000": {
+    "hs": "09062000",
+    "ten": "- Đã xay hoặc nghiền",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "09071000": {
+    "hs": "09071000",
+    "ten": "- Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09072000": {
+    "hs": "09072000",
+    "ten": "- Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09081100": {
+    "hs": "09081100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09081200": {
+    "hs": "09081200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09082100": {
+    "hs": "09082100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09082200": {
+    "hs": "09082200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09083100": {
+    "hs": "09083100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09083200": {
+    "hs": "09083200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09092100": {
+    "hs": "09092100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09092200": {
+    "hs": "09092200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09093100": {
+    "hs": "09093100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09093200": {
+    "hs": "09093200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096110": {
+    "hs": "09096110",
+    "ten": "- - - Của hoa hồi anise (tiểu hồi)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096120": {
+    "hs": "09096120",
+    "ten": "- - - Của hoa hồi badian (đại hồi)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096130": {
+    "hs": "09096130",
+    "ten": "- - - Của cây ca-rum (caraway)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096190": {
+    "hs": "09096190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096210": {
+    "hs": "09096210",
+    "ten": "- - - Của hoa hồi anise (tiểu hồi)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096220": {
+    "hs": "09096220",
+    "ten": "- - - Của hoa hồi badian (đại hồi)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096230": {
+    "hs": "09096230",
+    "ten": "- - - Của cây ca-rum (caraway)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09096290": {
+    "hs": "09096290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09101100": {
+    "hs": "09101100",
+    "ten": "- - Chưa xay hoặc chưa nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09101200": {
+    "hs": "09101200",
+    "ten": "- - Đã xay hoặc nghiền",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09102000": {
+    "hs": "09102000",
+    "ten": "- Nghệ tây",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09103000": {
+    "hs": "09103000",
+    "ten": "- Nghệ (curcuma)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09109110": {
+    "hs": "09109110",
+    "ten": "- - - Cà ri (curry)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09109190": {
+    "hs": "09109190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09109910": {
+    "hs": "09109910",
+    "ten": "- - - Húng tây, cỏ xạ hương; lá nguyệt quế",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "09109990": {
+    "hs": "09109990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  }
+}

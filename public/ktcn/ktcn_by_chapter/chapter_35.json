@@ -1,0 +1,245 @@
+{
+  "35011000": {
+    "hs": "35011000",
+    "ten": "- Casein",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "35021100": {
+    "hs": "35021100",
+    "ten": "- - Đã làm khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "35021900": {
+    "hs": "35021900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "35022000": {
+    "hs": "35022000",
+    "ten": "- Albumin sữa, kể cả các chất cô đặc của hai hoặc nhiều whey protein",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "35030049": {
+    "hs": "35030049",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "35040000": {
+    "hs": "35040000",
+    "ten": "Pepton và các dẫn xuất của chúng; protein khác và các dẫn xuất của chúng, chưa được chi tiết hoặc ghi ở nơi khác; bột da sống, đã hoặc chưa crom hóa",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "35051010": {
+    "hs": "35051010",
+    "ten": "- - Dextrin; tinh bột tan hoặc tinh bột đã rang",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "35051090": {
+    "hs": "35051090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "35079000": {
+    "hs": "35079000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  }
+}

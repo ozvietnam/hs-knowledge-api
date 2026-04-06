@@ -1,0 +1,667 @@
+{
+  "93011000": {
+    "hs": "93011000",
+    "ten": "- Vũ khí pháo binh (ví dụ, súng, súng cối và súng moóc trê)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93012000": {
+    "hs": "93012000",
+    "ten": "- Bệ phóng tên lửa; súng phun lửa; súng phóng lựu đạn; ống phóng ngư lôi và các loại súng phóng tương tự",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93019000": {
+    "hs": "93019000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93020000": {
+    "hs": "93020000",
+    "ten": "Súng lục ổ quay và súng lục, trừ các loại thuộc nhóm 93.03 hoặc 93.04",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93032090": {
+    "hs": "93032090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93033090": {
+    "hs": "93033090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93039090": {
+    "hs": "93039090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93040090": {
+    "hs": "93040090",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93051000": {
+    "hs": "93051000",
+    "ten": "- Của súng lục ổ quay hoặc súng lục",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93052000": {
+    "hs": "93052000",
+    "ten": "- Của súng shotgun hoặc súng trường thuộc nhóm 93.03",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059110": {
+    "hs": "93059110",
+    "ten": "- - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059190": {
+    "hs": "93059190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059911": {
+    "hs": "93059911",
+    "ten": "- - - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059919": {
+    "hs": "93059919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059991": {
+    "hs": "93059991",
+    "ten": "- - - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93059999": {
+    "hs": "93059999",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93062100": {
+    "hs": "93062100",
+    "ten": "- - Đạn cát tút (cartridge)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93062900": {
+    "hs": "93062900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93063011": {
+    "hs": "93063011",
+    "ten": "- - - Đạn cỡ .22",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93063019": {
+    "hs": "93063019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93063020": {
+    "hs": "93063020",
+    "ten": "- - Đạn dùng cho súng bắn đinh hoặc dụng cụ tương tự hoặc cho súng bắn gia súc giết mổ và các bộ phận của chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93063030": {
+    "hs": "93063030",
+    "ten": "- - Dùng cho súng thể thao, súng săn hoặc súng bắn bia, súng trường và súng cacbin, trừ súng shotgun",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93063091": {
+    "hs": "93063091",
+    "ten": "- - - Đạn cỡ 22",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93063099": {
+    "hs": "93063099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "93069010": {
+    "hs": "93069010",
+    "ten": "- - Bom, lựu đạn, ngư lôi, mìn, tên lửa và các loại đạn dược tương tự và bộ phận của chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "93069090": {
+    "hs": "93069090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,750 @@
+{
+  "32019000": {
+    "hs": "32019000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "32030010": {
+    "hs": "32030010",
+    "ten": "- Loại sử dụng trong công nghiệp thực phẩm hoặc đồ uống",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "32041110": {
+    "hs": "32041110",
+    "ten": "- - - Dạng thô (SEN)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041190": {
+    "hs": "32041190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041210": {
+    "hs": "32041210",
+    "ten": "- - - Thuốc nhuộm axit ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041290": {
+    "hs": "32041290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041300": {
+    "hs": "32041300",
+    "ten": "- - Thuốc nhuộm bazơ và các chế phẩm từ chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "32041400": {
+    "hs": "32041400",
+    "ten": "- - Thuốc nhuộm trực tiếp và các chế phẩm từ chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041500": {
+    "hs": "32041500",
+    "ten": "- - Thuốc nhuộm chàm (kể cả loại có thể dùng như thuốc màu) và các chế phẩm từ chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041600": {
+    "hs": "32041600",
+    "ten": "- - Thuốc nhuộm hoạt tính và các chế phẩm từ chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041710": {
+    "hs": "32041710",
+    "ten": "- - - Thuốc màu hữu cơ tổng hợp ở dạng bột",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041790": {
+    "hs": "32041790",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041800": {
+    "hs": "32041800",
+    "ten": " - - Các chất màu carotenoit và các chế phẩm từ chúng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32041900": {
+    "hs": "32041900",
+    "ten": "- - Loại khác, kể cả hỗn hợp chất màu từ hai phân nhóm trở lên của các phân nhóm từ 3204.11 đến 3204.19",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32042000": {
+    "hs": "32042000",
+    "ten": "- Các sản phẩm hữu cơ tổng hợp được dùng như tác nhân tăng sáng huỳnh quang",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCA",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "32049000": {
+    "hs": "32049000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ]
+  },
+  "32061110": {
+    "hs": "32061110",
+    "ten": "- - - Thuốc màu",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32061190": {
+    "hs": "32061190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32061910": {
+    "hs": "32061910",
+    "ten": "- - - Thuốc màu",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32061990": {
+    "hs": "32061990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32062010": {
+    "hs": "32062010",
+    "ten": "- - Màu vàng crom, màu xanh crom và màu da cam molybdat hoặc màu đỏ molybdat từ hợp chất crom",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32062090": {
+    "hs": "32062090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064110": {
+    "hs": "32064110",
+    "ten": "- - - Các chế phẩm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064190": {
+    "hs": "32064190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064210": {
+    "hs": "32064210",
+    "ten": "- - - Các chế phẩm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064290": {
+    "hs": "32064290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064911": {
+    "hs": "32064911",
+    "ten": "- - - - Của các chất màu vô cơ từ hợp chất cađimi hoặc hexacyanoferrates (ferrocyanides và ferricyanides)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064919": {
+    "hs": "32064919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32064990": {
+    "hs": "32064990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32065010": {
+    "hs": "32065010",
+    "ten": "- - Các chế phẩm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32065090": {
+    "hs": "32065090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "32129021": {
+    "hs": "32129021",
+    "ten": "- - - Loại sử dụng trong công nghiệp thực phẩm hoặc đồ uống",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  }
+}

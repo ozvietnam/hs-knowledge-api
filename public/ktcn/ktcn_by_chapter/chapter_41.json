@@ -1,0 +1,1647 @@
+{
+  "41012000": {
+    "hs": "41012000",
+    "ten": "- Da sống nguyên con, chưa xẻ, khối lượng da một con không quá 8 kg khi làm khô đơn giản, 10 kg khi muối khô, hoặc 16 kg ở dạng tươi, dạng muối ướt hoặc được bảo quản cách khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41015000": {
+    "hs": "41015000",
+    "ten": "- Da sống nguyên con, khối lượng trên 16 kg",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41019010": {
+    "hs": "41019010",
+    "ten": "- - Đã được chuẩn bị để thuộc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41019090": {
+    "hs": "41019090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41021000": {
+    "hs": "41021000",
+    "ten": "- Loại còn lông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41022100": {
+    "hs": "41022100",
+    "ten": "- - Đã được axit hóa",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41022900": {
+    "hs": "41022900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41032000": {
+    "hs": "41032000",
+    "ten": "- Của loài bò sát",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41033000": {
+    "hs": "41033000",
+    "ten": "- Của lợn",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41039000": {
+    "hs": "41039000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "41041110": {
+    "hs": "41041110",
+    "ten": "- - - Của động vật họ trâu bò, đã thuộc thực vật",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41041190": {
+    "hs": "41041190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41041900": {
+    "hs": "41041900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41044100": {
+    "hs": "41044100",
+    "ten": "- - Da cật, chưa xẻ; da váng có mặt cật (da lộn)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41044900": {
+    "hs": "41044900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41051000": {
+    "hs": "41051000",
+    "ten": "- Ở dạng ướt (kể cả phèn xanh)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41053000": {
+    "hs": "41053000",
+    "ten": "- Ở dạng khô (mộc)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41062100": {
+    "hs": "41062100",
+    "ten": "- - Ở dạng ướt (kể cả phèn xanh)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41062200": {
+    "hs": "41062200",
+    "ten": "- - Ở dạng khô (mộc)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41063100": {
+    "hs": "41063100",
+    "ten": "- - Ở dạng ướt (kể cả phèn xanh)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41063200": {
+    "hs": "41063200",
+    "ten": "- - Ở dạng khô (mộc)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41064000": {
+    "hs": "41064000",
+    "ten": "- Của loài bò sát",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41069100": {
+    "hs": "41069100",
+    "ten": "- - Ở dạng ướt (kể cả phèn xanh)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41069200": {
+    "hs": "41069200",
+    "ten": "- - Ở dạng khô (mộc)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41071100": {
+    "hs": "41071100",
+    "ten": "- - Da cật, chưa xẻ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41071200": {
+    "hs": "41071200",
+    "ten": "- - Da váng có mặt cật (da lộn)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41071900": {
+    "hs": "41071900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41079100": {
+    "hs": "41079100",
+    "ten": "- - Da cật, chưa xẻ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41079200": {
+    "hs": "41079200",
+    "ten": "- - Da váng có mặt cật (da lộn)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41079900": {
+    "hs": "41079900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41120000": {
+    "hs": "41120000",
+    "ten": "Da thuộc đã được gia công thêm sau khi thuộc hoặc làm mộc, kể cả da giấy, của cừu hoặc cừu non, không có lông, đã hoặc chưa xẻ, trừ da thuộc nhóm 41.14",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41131000": {
+    "hs": "41131000",
+    "ten": "- Của dê hoặc dê non",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41132000": {
+    "hs": "41132000",
+    "ten": "- Của lợn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41133000": {
+    "hs": "41133000",
+    "ten": "- Của loài bò sát",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41139000": {
+    "hs": "41139000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41141000": {
+    "hs": "41141000",
+    "ten": "- Da thuộc dầu (kể cả da thuộc dầu kết hợp)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41142000": {
+    "hs": "41142000",
+    "ten": "- Da láng và da láng bằng màng mỏng được tạo trước; da nhũ kim loại",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41151000": {
+    "hs": "41151000",
+    "ten": "- Da thuộc tổng hợp với thành phần cơ bản là da thuộc hoặc sợi da thuộc, dạng tấm, tấm mỏng hoặc dạng dải, có hoặc không ở dạng cuộn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "41152000": {
+    "hs": "41152000",
+    "ten": "- Da vụn và phế liệu khác từ da thuộc hoặc da tổng hợp, không phù hợp dùng cho sản xuất hàng da; bụi da, các loại bột da",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  }
+}

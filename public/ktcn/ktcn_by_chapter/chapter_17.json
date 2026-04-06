@@ -1,0 +1,296 @@
+{
+  "17011300": {
+    "hs": "17011300",
+    "ten": "- - Đường mía đã nêu trong Chú giải phân nhóm 2 của Chương này",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17011400": {
+    "hs": "17011400",
+    "ten": "- - Các loại đường mía khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17019100": {
+    "hs": "17019100",
+    "ten": "- - Đã pha thêm hương liệu hoặc chất màu",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17019910": {
+    "hs": "17019910",
+    "ten": "- - - Đường đã tinh luyện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17019990": {
+    "hs": "17019990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17021100": {
+    "hs": "17021100",
+    "ten": "- - Có hàm lượng lactoza khan từ 99% trở lên, tính theo khối lượng chất khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "17021900": {
+    "hs": "17021900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "17023010": {
+    "hs": "17023010",
+    "ten": "- - Glucoza",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "17029040": {
+    "hs": "17029040",
+    "ten": "- - Đường caramen",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "17029091": {
+    "hs": "17029091",
+    "ten": "- - - Xi rô đường",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế chống bán phá giá và chống trợ cấp đối với Đường (TH)",
+        "van_ban": "2105/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 4
+      }
+    ]
+  },
+  "17041000": {
+    "hs": "17041000",
+    "ten": "- Kẹo cao su, đã hoặc chưa bọc đường",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "17049010": {
+    "hs": "17049010",
+    "ten": "- - Kẹo và viên ngậm ho ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "17049020": {
+    "hs": "17049020",
+    "ten": "- - Sô cô la trắng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "17049091": {
+    "hs": "17049091",
+    "ten": "- - - Dẻo, có chứa gelatin (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "17049099": {
+    "hs": "17049099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  }
+}

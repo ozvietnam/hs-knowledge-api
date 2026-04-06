@@ -1,0 +1,1799 @@
+{
+  "30012000": {
+    "hs": "30012000",
+    "ten": "- Chiết xuất từ các tuyến hoặc các bộ phận cơ thể khác hoặc từ các dịch tiết của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30019000": {
+    "hs": "30019000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30021210": {
+    "hs": "30021210",
+    "ten": "- - - Kháng huyết thanh; dung dịch đạm huyết thanh; bột hemoglobin",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30021290": {
+    "hs": "30021290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30021300": {
+    "hs": "30021300",
+    "ten": "- - Các sản phẩm miễn dịch, chưa được pha trộn, chưa đóng gói theo liều lượng hoặc làm thành dạng nhất định hoặc đóng gói để bán lẻ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30021400": {
+    "hs": "30021400",
+    "ten": "- - Các sản phẩm miễn dịch, được pha trộn, chưa đóng gói theo liều lượng hoặc làm thành dạng nhất định hoặc đóng gói để bán lẻ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30021500": {
+    "hs": "30021500",
+    "ten": "- - Các sản phẩm miễn dịch, đóng gói theo liều lượng hoặc làm thành dạng nhất định hoặc đóng gói để bán lẻ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30024110": {
+    "hs": "30024110",
+    "ten": "- - - Vắc xin uốn ván",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30024120": {
+    "hs": "30024120",
+    "ten": "- - - Vắc xin ho gà, sởi, viêm màng não hoặc bại liệt",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Vắc xin XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM10",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30024190": {
+    "hs": "30024190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Vắc xin XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM10",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30024200": {
+    "hs": "30024200",
+    "ten": "- - Vắc xin thú y",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30024900": {
+    "hs": "30024900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30025100": {
+    "hs": "30025100",
+    "ten": "- - Các sản phẩm liệu pháp tế bào",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30025900": {
+    "hs": "30025900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "30029000": {
+    "hs": "30029000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất cấm",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL3",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30031010": {
+    "hs": "30031010",
+    "ten": "- - Chứa amoxicillin (INN) hoặc muối của nó",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30041015": {
+    "hs": "30041015",
+    "ten": "- - - Chứa penicillin G (trừ penicillin G benzathin), phenoxymethyl penicillin hoặc muối của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30041016": {
+    "hs": "30041016",
+    "ten": "- - - Chứa ampicillin, amoxycillin hoặc muối của chúng, dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30041019": {
+    "hs": "30041019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30041020": {
+    "hs": "30041020",
+    "ten": "- - Chứa các streptomycin hoặc các dẫn xuất của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042010": {
+    "hs": "30042010",
+    "ten": "- - Chứa gentamycin, lincomycin, sulphamethoxazole hoặc các dẫn xuất của chúng, dạng uống (*) hoặc dạng mỡ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042031": {
+    "hs": "30042031",
+    "ten": "- - - Dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042032": {
+    "hs": "30042032",
+    "ten": "- - - Dạng mỡ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042039": {
+    "hs": "30042039",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042071": {
+    "hs": "30042071",
+    "ten": "- - - Dạng uống (*) hoặc dạng mỡ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc, dược chất XK, NK thuộc chất cấm sử dụng trong một số ngành, lĩnh vực",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM5",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042079": {
+    "hs": "30042079",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc, dược chất XK, NK thuộc chất cấm sử dụng trong một số ngành, lĩnh vực",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM5",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042091": {
+    "hs": "30042091",
+    "ten": "- - - Dạng uống (*) hoặc dạng mỡ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc, dược chất XK, NK thuộc chất cấm sử dụng trong một số ngành, lĩnh vực",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM5",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30042099": {
+    "hs": "30042099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30043100": {
+    "hs": "30043100",
+    "ten": "- - Chứa insulin",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30043210": {
+    "hs": "30043210",
+    "ten": "- - - Chứa dexamethasone hoặc các dẫn xuất của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30043240": {
+    "hs": "30043240",
+    "ten": "- - - Chứa hydrocortisone natri succinate hoặc fluocinolone acetonide",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30043290": {
+    "hs": "30043290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30043900": {
+    "hs": "30043900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044100": {
+    "hs": "30044100",
+    "ten": "- - Chứa ephedrine hoặc muối của nó",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044200": {
+    "hs": "30044200",
+    "ten": "- - Chứa pseudoephedrine (INN) hoặc muối của nó",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044911": {
+    "hs": "30044911",
+    "ten": "- - - - Dạng uống (*) hoặc tiêm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044919": {
+    "hs": "30044919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044951": {
+    "hs": "30044951",
+    "ten": "- - - - Dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044959": {
+    "hs": "30044959",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044960": {
+    "hs": "30044960",
+    "ten": "- - - Chứa theophylline, dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044970": {
+    "hs": "30044970",
+    "ten": "- - - Chứa atropine sulphate",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044980": {
+    "hs": "30044980",
+    "ten": "- - - Chứa quinine hydrochloride hoặc dihydroquinine chloride, dùng để tiêm; Chứa quinine sulphate hoặc bisulphate, dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30044990": {
+    "hs": "30044990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30045010": {
+    "hs": "30045010",
+    "ten": "- - Loại phù hợp cho trẻ em, dạng xirô",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30045021": {
+    "hs": "30045021",
+    "ten": "- - - Dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30045029": {
+    "hs": "30045029",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30045091": {
+    "hs": "30045091",
+    "ten": "- - - Chứa vitamin A, B hoặc C",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30045099": {
+    "hs": "30045099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK (09/2024/TT-BYT-DM8)Thuốc độc, NL độc làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM1",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30046010": {
+    "hs": "30046010",
+    "ten": "- - Chứa artemisinin kết hợp với các thành phần có hoạt tính dược khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30046020": {
+    "hs": "30046020",
+    "ten": "- - Chứa artesunate hoặc chloroquine",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049010": {
+    "hs": "30049010",
+    "ten": "- - Miếng thẩm thấu qua da dùng điều trị bệnh ung thư hoặc bệnh tim",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049020": {
+    "hs": "30049020",
+    "ten": "- - Nước vô trùng đóng kín để xông, loại dược phẩm (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049030": {
+    "hs": "30049030",
+    "ten": "- - Thuốc sát trùng (Antiseptics)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049041": {
+    "hs": "30049041",
+    "ten": "- - - Chứa procain hydroclorua",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049049": {
+    "hs": "30049049",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049051": {
+    "hs": "30049051",
+    "ten": "- - - Chứa axit acetylsalicylic, paracetamol hoặc dipyrone (INN), dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049053": {
+    "hs": "30049053",
+    "ten": "- - - Chứa diclofenac, dạng uống (*)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049054": {
+    "hs": "30049054",
+    "ten": "- - - Chứa piroxicam (INN) hoặc ibuprofen",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049055": {
+    "hs": "30049055",
+    "ten": "- - - Loại khác, dạng dầu xoa bóp",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049059": {
+    "hs": "30049059",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049062": {
+    "hs": "30049062",
+    "ten": "- - - Chứa primaquine",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049064": {
+    "hs": "30049064",
+    "ten": "- - - Chứa artemisinin trừ các loại thuộc phân nhóm 3004.60.10",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049065": {
+    "hs": "30049065",
+    "ten": "- - - - Thuốc đông y từ thảo dược (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049069": {
+    "hs": "30049069",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049071": {
+    "hs": "30049071",
+    "ten": "- - - Chứa piperazine hoặc mebendazole (INN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049072": {
+    "hs": "30049072",
+    "ten": "- - - - Thuốc đông y từ thảo dược (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049079": {
+    "hs": "30049079",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049081": {
+    "hs": "30049081",
+    "ten": "- - - Chứa deferoxamine, dạng tiêm (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049082": {
+    "hs": "30049082",
+    "ten": "- - - Thuốc chống HIV/AIDS (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049089": {
+    "hs": "30049089",
+    "ten": "- - - Loại khác (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049091": {
+    "hs": "30049091",
+    "ten": "- - - Chứa natri clorua hoặc glucose, dạng truyền",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049092": {
+    "hs": "30049092",
+    "ten": "- - - Chứa sorbitol hoặc salbutamol, dạng truyền",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049093": {
+    "hs": "30049093",
+    "ten": "- - - Chứa sorbitol hoặc salbutamol, ở dạng khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049094": {
+    "hs": "30049094",
+    "ten": "- - - Chứa cimetidine (INN) hoặc ranitidine (INN) trừ dạng tiêm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049095": {
+    "hs": "30049095",
+    "ten": "- - - Chứa phenobarbital, diazepam hoặc chlorpromazine, trừ dạng tiêm hoặc dạng truyền",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049096": {
+    "hs": "30049096",
+    "ten": "- - - Thuốc nhỏ mũi có chứa naphazoline, xylometazoline hoặc oxymetazoline",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049098": {
+    "hs": "30049098",
+    "ten": "- - - - Thuốc đông y từ thảo dược (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30049099": {
+    "hs": "30049099",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc chỉ chứa 01 thành phần dược chất XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM8",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "30051010": {
+    "hs": "30051010",
+    "ten": "- - Đã tráng phủ hoặc thấm tẩm dược chất",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thuốc dạng phối hợp XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM9",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  }
+}

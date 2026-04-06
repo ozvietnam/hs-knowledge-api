@@ -1,0 +1,315 @@
+{
+  "88021100": {
+    "hs": "88021100",
+    "ten": "- - Trọng lượng không tải không quá 2.000 kg",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88021200": {
+    "hs": "88021200",
+    "ten": "- - Trọng lượng không tải trên 2.000 kg",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88022010": {
+    "hs": "88022010",
+    "ten": "- - Máy bay",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88022090": {
+    "hs": "88022090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88023010": {
+    "hs": "88023010",
+    "ten": "- - Máy bay",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88023090": {
+    "hs": "88023090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88024010": {
+    "hs": "88024010",
+    "ten": "- - Máy bay",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88024090": {
+    "hs": "88024090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88026000": {
+    "hs": "88026000",
+    "ten": "- Tàu vũ trụ (kể cả vệ tinh) và tàu bay trong quỹ đạo và phương tiện đẩy để phóng tàu vũ trụ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "88062100": {
+    "hs": "88062100",
+    "ten": "- - Trọng lượng cất cánh tối đa không quá 250 g",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "88062200": {
+    "hs": "88062200",
+    "ten": "- - Trọng lượng cất cánh tối đa trên 250 g nhưng không quá 7 kg",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "88062300": {
+    "hs": "88062300",
+    "ten": "- - Trọng lượng cất cánh tối đa trên 7 kg nhưng không quá 25 kg",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "88062400": {
+    "hs": "88062400",
+    "ten": "- - Trọng lượng cất cánh tối đa trên 25 kg nhưng không quá 150 kg",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "88062900": {
+    "hs": "88062900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  }
+}

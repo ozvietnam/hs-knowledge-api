@@ -1,0 +1,862 @@
+{
+  "81041100": {
+    "hs": "81041100",
+    "ten": "- - Có chứa hàm lượng magiê ít nhất 99,8% tính theo khối lượng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81041900": {
+    "hs": "81041900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81042000": {
+    "hs": "81042000",
+    "ten": "- Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81043000": {
+    "hs": "81043000",
+    "ten": "- Mạt giũa, phoi tiện và hạt, đã được phân loại theo kích cỡ; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81049000": {
+    "hs": "81049000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81052010": {
+    "hs": "81052010",
+    "ten": "- - Coban chưa gia công",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL4",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81052090": {
+    "hs": "81052090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL4",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81082000": {
+    "hs": "81082000",
+    "ten": "- Titan chưa gia công; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81089000": {
+    "hs": "81089000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81092100": {
+    "hs": "81092100",
+    "ten": "- - Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81092900": {
+    "hs": "81092900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81093100": {
+    "hs": "81093100",
+    "ten": "- - Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81093900": {
+    "hs": "81093900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81099100": {
+    "hs": "81099100",
+    "ten": "- - Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81099900": {
+    "hs": "81099900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81110010": {
+    "hs": "81110010",
+    "ten": "- Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+        "van_ban": "13/2023/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "81121200": {
+    "hs": "81121200",
+    "ten": "- - Chưa gia công; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL4",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81121300": {
+    "hs": "81121300",
+    "ten": "- - Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81121900": {
+    "hs": "81121900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81122100": {
+    "hs": "81122100",
+    "ten": "- - Chưa gia công; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81122200": {
+    "hs": "81122200",
+    "ten": "- - Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81122900": {
+    "hs": "81122900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81123100": {
+    "hs": "81123100",
+    "ten": "- - Chưa gia công; phế liệu và mảnh vụn; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81123900": {
+    "hs": "81123900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81124100": {
+    "hs": "81124100",
+    "ten": "- - Chưa gia công; phế liệu và mảnh vụn; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81124900": {
+    "hs": "81124900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81125100": {
+    "hs": "81125100",
+    "ten": "- - Chưa gia công; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81125200": {
+    "hs": "81125200",
+    "ten": "- - Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81125900": {
+    "hs": "81125900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81126100": {
+    "hs": "81126100",
+    "ten": "- - Phế liệu và mảnh vụn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81126910": {
+    "hs": "81126910",
+    "ten": "- - - Chưa gia công; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81126990": {
+    "hs": "81126990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81129200": {
+    "hs": "81129200",
+    "ten": "- - Chưa gia công; phế liệu và mảnh vụn; bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất SX KD có ĐK trong lĩnh vực CN",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "81129900": {
+    "hs": "81129900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  }
+}

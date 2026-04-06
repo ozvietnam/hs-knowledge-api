@@ -1,0 +1,2555 @@
+{
+  "12011000": {
+    "hs": "12011000",
+    "ten": "- Hạt giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12019000": {
+    "hs": "12019000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12023000": {
+    "hs": "12023000",
+    "ten": "- Hạt giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12024100": {
+    "hs": "12024100",
+    "ten": "- - Chưa bóc vỏ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12024200": {
+    "hs": "12024200",
+    "ten": "- - Lạc nhân, đã hoặc chưa vỡ mảnh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12030000": {
+    "hs": "12030000",
+    "ten": "Cùi (cơm) dừa khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12040000": {
+    "hs": "12040000",
+    "ten": "Hạt lanh, đã hoặc chưa vỡ mảnh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12051000": {
+    "hs": "12051000",
+    "ten": "- Hạt cải dầu có hàm lượng axit eruxic thấp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12059000": {
+    "hs": "12059000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12060000": {
+    "hs": "12060000",
+    "ten": "Hạt hướng dương, đã hoặc chưa vỡ mảnh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12071010": {
+    "hs": "12071010",
+    "ten": "- - Hạt cọ phù hợp để gieo/trồng (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12071030": {
+    "hs": "12071030",
+    "ten": "- - Nhân hạt cọ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12071090": {
+    "hs": "12071090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "12072100": {
+    "hs": "12072100",
+    "ten": "- - Hạt giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12072900": {
+    "hs": "12072900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12073000": {
+    "hs": "12073000",
+    "ten": "- Hạt thầu dầu",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12074010": {
+    "hs": "12074010",
+    "ten": "- - Loại ăn được",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12074090": {
+    "hs": "12074090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12075000": {
+    "hs": "12075000",
+    "ten": "- Hạt mù tạt",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12076000": {
+    "hs": "12076000",
+    "ten": "- Hạt rum (Carthamus tinctorius) ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12077000": {
+    "hs": "12077000",
+    "ten": "- Hạt dưa (melon seeds)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12079100": {
+    "hs": "12079100",
+    "ten": "- - Hạt thuốc phiện",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12079940": {
+    "hs": "12079940",
+    "ten": "- - - Hạt illipe (quả hạch illipe)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12079950": {
+    "hs": "12079950",
+    "ten": "- - - Chùm quả tươi của cây cọ dầu",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12079990": {
+    "hs": "12079990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Nguồn gen cây trồng cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M12",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12081000": {
+    "hs": "12081000",
+    "ten": "- Từ đậu tương",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12089000": {
+    "hs": "12089000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12091000": {
+    "hs": "12091000",
+    "ten": "- Hạt củ cải đường (sugar beet)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092100": {
+    "hs": "12092100",
+    "ten": "- - Hạt cỏ linh lăng (alfalfa)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092200": {
+    "hs": "12092200",
+    "ten": "- - Hạt cỏ ba lá (Trifolium spp.) ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092300": {
+    "hs": "12092300",
+    "ten": "- - Hạt cỏ đuôi trâu",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092400": {
+    "hs": "12092400",
+    "ten": "- - Hạt cỏ kentucky màu xanh da trời (Poa pratensis L.)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092500": {
+    "hs": "12092500",
+    "ten": "- - Hạt cỏ mạch đen (Lolium multiflorum Lam., Lolium perenne L.) ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092910": {
+    "hs": "12092910",
+    "ten": "- - - Hạt cỏ đuôi mèo (Phleum pratense)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12092990": {
+    "hs": "12092990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12093000": {
+    "hs": "12093000",
+    "ten": "- Hạt của các loại cây thân cỏ trồng chủ yếu để lấy hoa",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12099110": {
+    "hs": "12099110",
+    "ten": "- - - Hạt hành tây",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12099190": {
+    "hs": "12099190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12099920": {
+    "hs": "12099920",
+    "ten": "- - - Hạt cây cao su",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12099930": {
+    "hs": "12099930",
+    "ten": "- - - Hạt cây kenaf",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12099990": {
+    "hs": "12099990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12101000": {
+    "hs": "12101000",
+    "ten": "- Hublong, chưa nghiền và chưa xay thành bột và chưa ở dạng viên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12112010": {
+    "hs": "12112010",
+    "ten": "- - Tươi hoặc khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12112090": {
+    "hs": "12112090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12113000": {
+    "hs": "12113000",
+    "ten": "- Lá coca",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12114000": {
+    "hs": "12114000",
+    "ten": "- Thân cây anh túc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12115000": {
+    "hs": "12115000",
+    "ten": "- Cây ma hoàng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12116000": {
+    "hs": "12116000",
+    "ten": "- Vỏ cây anh đào Châu Phi (Prunus africana)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "12119011": {
+    "hs": "12119011",
+    "ten": "- - - Cây gai dầu, đã cắt, nghiền hoặc dạng bột",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119012": {
+    "hs": "12119012",
+    "ten": "- - - Cây gai dầu, ở dạng khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119013": {
+    "hs": "12119013",
+    "ten": "- - - Rễ cây ba gạc hoa đỏ (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119015": {
+    "hs": "12119015",
+    "ten": "- - - Rễ cây cam thảo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119017": {
+    "hs": "12119017",
+    "ten": "- - - Loại khác, tươi hoặc khô, đã cắt, nghiền hoặc dạng bột",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119018": {
+    "hs": "12119018",
+    "ten": "- - - Loại khác, đã cắt, nghiền hoặc dạng bột",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119019": {
+    "hs": "12119019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Nguồn gen cây trồng cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M12",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119091": {
+    "hs": "12119091",
+    "ten": "- - - Cây kim cúc, đã cắt, nghiền hoặc dạng bột ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119092": {
+    "hs": "12119092",
+    "ten": "- - - Cây kim cúc, ở dạng khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119094": {
+    "hs": "12119094",
+    "ten": "- - - Mảnh gỗ đàn hương",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119095": {
+    "hs": "12119095",
+    "ten": "- - - Mảnh gỗ trầm hương (Gaharu) (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119097": {
+    "hs": "12119097",
+    "ten": "- - - Vỏ cây persea (Persea Kurzii Kosterm) (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119098": {
+    "hs": "12119098",
+    "ten": "- - - Loại khác, đã cắt, nghiền hoặc dạng bột",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12119099": {
+    "hs": "12119099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122111": {
+    "hs": "12122111",
+    "ten": "- - - - Eucheuma spinosum(SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122112": {
+    "hs": "12122112",
+    "ten": "- - - - Eucheuma cottonii (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122113": {
+    "hs": "12122113",
+    "ten": "- - - - Gracilaria spp.",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122190": {
+    "hs": "12122190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Loài thủy sản XK có ĐK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M7",
+        "co_quan": "BNNPTNT",
+        "loai": "thuoc_bvtv",
+        "tier": 3,
+        "loai_ten": "Thuốc bảo vệ thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122911": {
+    "hs": "12122911",
+    "ten": "- - - - Loại dùng làm dược phẩm",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Dược liệu làm thuốc XK, NK",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM11",
+        "co_quan": "BYT",
+        "loai": "duoc_lieu",
+        "tier": 3,
+        "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122919": {
+    "hs": "12122919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Loài thủy sản XK có ĐK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M7",
+        "co_quan": "BNNPTNT",
+        "loai": "thuoc_bvtv",
+        "tier": 3,
+        "loai_ten": "Thuốc bảo vệ thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122920": {
+    "hs": "12122920",
+    "ten": "- - - Loại khác, tươi, ướp lạnh hoặc khô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Loài thủy sản XK có ĐK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M7",
+        "co_quan": "BNNPTNT",
+        "loai": "thuoc_bvtv",
+        "tier": 3,
+        "loai_ten": "Thuốc bảo vệ thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12122930": {
+    "hs": "12122930",
+    "ten": "- - - Loại khác, đông lạnh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Loài thủy sản XK có ĐK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M7",
+        "co_quan": "BNNPTNT",
+        "loai": "thuoc_bvtv",
+        "tier": 3,
+        "loai_ten": "Thuốc bảo vệ thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129100": {
+    "hs": "12129100",
+    "ten": "- - Củ cải đường",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129200": {
+    "hs": "12129200",
+    "ten": "- - Quả minh quyết (carob) (1)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129310": {
+    "hs": "12129310",
+    "ten": "- - - Phù hợp để làm giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129390": {
+    "hs": "12129390",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+        "van_ban": "33/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129400": {
+    "hs": "12129400",
+    "ten": "- - Rễ rau diếp xoăn",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129910": {
+    "hs": "12129910",
+    "ten": "- - - Hạt và nhân hạt của quả mơ, đào (kể cả xuân đào) hoặc mận (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12129990": {
+    "hs": "12129990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12130000": {
+    "hs": "12130000",
+    "ten": "Rơm, rạ và trấu từ cây ngũ cốc, chưa xử lý, đã hoặc chưa băm, nghiền, ép hoặc làm thành dạng viên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12141000": {
+    "hs": "12141000",
+    "ten": "- Bột thô và viên cỏ linh lăng (alfalfa)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "12149000": {
+    "hs": "12149000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  }
+}

@@ -1,0 +1,1029 @@
+{
+  "23011000": {
+    "hs": "23011000",
+    "ten": "- Bột mịn, bột thô và viên, từ thịt hoặc phụ phẩm dạng thịt sau giết mổ; tóp mỡ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23012010": {
+    "hs": "23012010",
+    "ten": "- - Từ cá, có hàm lượng protein dưới 60% tính theo khối lượng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23012020": {
+    "hs": "23012020",
+    "ten": "- - Từ cá, có hàm lượng protein từ 60% trở lên tính theo khối lượng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23012090": {
+    "hs": "23012090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23021000": {
+    "hs": "23021000",
+    "ten": "- Từ ngô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23023010": {
+    "hs": "23023010",
+    "ten": "- - Cám và cám mịn (pollard)(SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23023090": {
+    "hs": "23023090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23024010": {
+    "hs": "23024010",
+    "ten": "- - Từ thóc gạo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23024090": {
+    "hs": "23024090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23025000": {
+    "hs": "23025000",
+    "ten": "- Từ cây họ đậu",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23031010": {
+    "hs": "23031010",
+    "ten": "- - Từ sắn hoặc cọ sago",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23031090": {
+    "hs": "23031090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23032000": {
+    "hs": "23032000",
+    "ten": "- Bã ép củ cải đường, bã mía và phế liệu khác từ quá trình sản xuất đường",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23033000": {
+    "hs": "23033000",
+    "ten": "- Bã và phế liệu từ quá trình ủ hoặc chưng cất",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23040010": {
+    "hs": "23040010",
+    "ten": "- Bột đậu tương đã được khử chất béo, thích hợp dùng làm thức ăn cho người(SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23040090": {
+    "hs": "23040090",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23050000": {
+    "hs": "23050000",
+    "ten": "Khô dầu và phế liệu rắn khác, đã hoặc chưa xay hoặc ở dạng viên, thu được từ quá trình chiết xuất dầu lạc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23061000": {
+    "hs": "23061000",
+    "ten": "- Từ hạt bông",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23062000": {
+    "hs": "23062000",
+    "ten": "- Từ hạt lanh",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23063000": {
+    "hs": "23063000",
+    "ten": "- Từ hạt hướng dương",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23064110": {
+    "hs": "23064110",
+    "ten": "- - - Từ hạt cải dầu rape có hàm lượng axit eruxic thấp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23064120": {
+    "hs": "23064120",
+    "ten": "- - - Từ hạt cải dầu colza có hàm lượng axit eruxic thấp",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23064910": {
+    "hs": "23064910",
+    "ten": "- - - Từ hạt cải dầu rape khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23064920": {
+    "hs": "23064920",
+    "ten": "- - - Từ hạt cải dầu colza khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23065000": {
+    "hs": "23065000",
+    "ten": "- Từ dừa hoặc cùi dừa",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23066010": {
+    "hs": "23066010",
+    "ten": "- - Dạng xay hoặc dạng viên",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23066090": {
+    "hs": "23066090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23069010": {
+    "hs": "23069010",
+    "ten": "- - Từ mầm ngô",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23069090": {
+    "hs": "23069090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23080000": {
+    "hs": "23080000",
+    "ten": "Nguyên liệu thực vật và phế liệu thực vật, phế liệu và sản phẩm phụ từ thực vật, ở dạng viên hoặc không ở dạng viên, loại dùng trong chăn nuôi động vật, chưa được chi tiết hoặc ghi ở nơi khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23091010": {
+    "hs": "23091010",
+    "ten": "- - Chứa thịt",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23091090": {
+    "hs": "23091090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099011": {
+    "hs": "23099011",
+    "ten": "- - - Loại dùng cho gia cầm",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099012": {
+    "hs": "23099012",
+    "ten": "- - - Loại dùng cho lợn",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099013": {
+    "hs": "23099013",
+    "ten": "- - - Loại dùng cho tôm",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099014": {
+    "hs": "23099014",
+    "ten": "- - - Loại dùng cho động vật linh trưởng",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099019": {
+    "hs": "23099019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099020": {
+    "hs": "23099020",
+    "ten": "- - Chất tổng hợp, chất bổ sung thức ăn hoặc phụ gia thức ăn",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "23099090": {
+    "hs": "23099090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Hóa chất, SP sinh học, vi sinh vật cấm SD trong TACN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M15",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  }
+}

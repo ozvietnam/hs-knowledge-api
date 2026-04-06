@@ -1,0 +1,776 @@
+{
+  "19019031": {
+    "hs": "19019031",
+    "ten": "- - - Chứa sữa (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19019032": {
+    "hs": "19019032",
+    "ten": "- - - Loại khác, chứa bột ca cao",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19019039": {
+    "hs": "19019039",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19019099": {
+    "hs": "19019099",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19021100": {
+    "hs": "19021100",
+    "ten": "- - Có chứa trứng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19021920": {
+    "hs": "19021920",
+    "ten": "- - - Mì, bún làm từ gạo (kể cả bee hoon)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19021930": {
+    "hs": "19021930",
+    "ten": "- - - Miến ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19021940": {
+    "hs": "19021940",
+    "ten": "- - - Mì khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19021990": {
+    "hs": "19021990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19022010": {
+    "hs": "19022010",
+    "ten": "- - Được nhồi thịt hoặc phụ phẩm dạng thịt sau giết mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19022030": {
+    "hs": "19022030",
+    "ten": "- - Được nhồi cá, động vật giáp xác hoặc động vật thân mềm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19022090": {
+    "hs": "19022090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19023020": {
+    "hs": "19023020",
+    "ten": "- - Mì, bún làm từ gạo (kể cả bee hoon)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19023030": {
+    "hs": "19023030",
+    "ten": "- - Miến ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19023040": {
+    "hs": "19023040",
+    "ten": "- - Mì ăn liền khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19023090": {
+    "hs": "19023090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19024000": {
+    "hs": "19024000",
+    "ten": "- Couscous",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19030000": {
+    "hs": "19030000",
+    "ten": "Sản phẩm từ tinh bột sắn và sản phẩm thay thế chế biến từ tinh bột, ở dạng mảnh, hạt, bột xay, bột rây hoặc các dạng tương tự",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "19051000": {
+    "hs": "19051000",
+    "ten": "- Bánh mì giòn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19052000": {
+    "hs": "19052000",
+    "ten": "- Bánh mì có gừng và loại tương tự",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19053110": {
+    "hs": "19053110",
+    "ten": "- - - Không chứa ca cao",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19053120": {
+    "hs": "19053120",
+    "ten": "- - - Chứa ca cao",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19053210": {
+    "hs": "19053210",
+    "ten": "- - - Bánh waffles (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19053220": {
+    "hs": "19053220",
+    "ten": "- - - Bánh xốp wafers (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19054010": {
+    "hs": "19054010",
+    "ten": "- - Chưa thêm đường, mật ong, trứng, chất béo, pho mát hoặc trái cây",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19054090": {
+    "hs": "19054090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059010": {
+    "hs": "19059010",
+    "ten": "- - Bánh quy không ngọt dùng cho trẻ mọc răng hoặc thay răng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059020": {
+    "hs": "19059020",
+    "ten": "- - Bánh quy không ngọt khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059030": {
+    "hs": "19059030",
+    "ten": "- - Bánh ga tô (cakes)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059040": {
+    "hs": "19059040",
+    "ten": "- - Bánh bột nhào (pastry)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059050": {
+    "hs": "19059050",
+    "ten": "- - Các loại bánh không bột",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059070": {
+    "hs": "19059070",
+    "ten": "- - Bánh thánh, bánh xốp sealing wafers, bánh đa và các sản phẩm tương tự",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059080": {
+    "hs": "19059080",
+    "ten": "- - Các sản phẩm thực phẩm giòn có hương liệu khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "19059090": {
+    "hs": "19059090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH KTCN về an toàn thực phẩm",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  }
+}
