@@ -36,14 +36,28 @@ export default async function handler(req, res) {
     }
 
     const chapterData = await response.json();
-    const record = chapterData[code];
+    let record = chapterData[code];
 
+    // Prefix matching: if exact code not found (e.g. 04012000),
+    // return first matching sub-code (04012010) with related codes
     if (!record) {
       const prefix6 = code.slice(0, 6);
       const related = Object.entries(chapterData)
         .filter(([k]) => k.startsWith(prefix6))
         .slice(0, 5)
-        .map(([k, v]) => ({ hs: k, vn: v.fact_layer.vn }));
+        .map(([k, v]) => ({ hs: k, vn: v.fact_layer?.vn }));
+
+      if (related.length > 0) {
+        // Return first sub-code data with note about prefix match
+        const firstCode = related[0].hs;
+        record = chapterData[firstCode];
+        if (record) {
+          const result = { found: true, prefix_match: true, queried: code, ...record };
+          result.go_y_ma_lien_quan = related;
+          return res.status(200).json(result);
+        }
+      }
+
       return res.status(404).json({
         found: false,
         message: `Không tìm thấy mã ${code}`,

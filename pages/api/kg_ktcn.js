@@ -41,8 +41,50 @@ export default async function handler(req, res) {
       const chapterNum = String(parseInt(code.slice(0, 2))).padStart(2, '0');
       const chapterData = await fetchJSON(`ktcn_by_chapter/chapter_${chapterNum}.json`);
 
-      if (!chapterData || !chapterData[code]) {
-        // Check index for nearby codes
+      if (!chapterData) {
+        return res.status(404).json({
+          found: false,
+          message: `Chương ${chapterNum} không có dữ liệu KTCN`
+        });
+      }
+
+      let entry = chapterData[code];
+
+      // Prefix matching: if exact code not found (e.g. 04012000),
+      // aggregate all sub-codes (04012010, 04012090)
+      if (!entry) {
+        const prefix6 = code.slice(0, 6);
+        const subCodes = Object.keys(chapterData).filter(k => k.startsWith(prefix6));
+        if (subCodes.length > 0) {
+          // Merge KTCN entries from all sub-codes, dedup by van_ban+co_quan
+          const seen = new Set();
+          const mergedKtcn = [];
+          const allCoQuan = new Set();
+          let ten = '';
+          for (const sc of subCodes) {
+            const sub = chapterData[sc];
+            if (!ten && sub.ten) ten = sub.ten;
+            for (const k of (sub.ktcn || [])) {
+              const key = `${k.van_ban}|${k.co_quan}|${k.danh_muc || ''}`;
+              if (!seen.has(key)) {
+                seen.add(key);
+                mergedKtcn.push(k);
+              }
+              if (k.co_quan) allCoQuan.add(k.co_quan);
+            }
+          }
+          entry = {
+            hs: code,
+            ten: ten || `Nhóm ${code.slice(0,4)}.${code.slice(4,6)}`,
+            muc_canh_bao: chapterData[subCodes[0]]?.muc_canh_bao || 'ORANGE',
+            co_quan: [...allCoQuan],
+            ktcn: mergedKtcn,
+            matched_sub_codes: subCodes
+          };
+        }
+      }
+
+      if (!entry) {
         const index = await fetchJSON('ktcn_index.json');
         const prefix6 = code.slice(0, 6);
         const related = index
@@ -56,8 +98,6 @@ export default async function handler(req, res) {
           go_y_ma_lien_quan: related
         });
       }
-
-      const entry = chapterData[code];
 
       // Enrich with full reference data for each KTCN type
       const ref = await fetchJSON('ktcn_reference.json');
