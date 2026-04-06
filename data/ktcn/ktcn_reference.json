@@ -1,0 +1,776 @@
+{
+  "co_quan": {
+    "BNNPTNT": {
+      "ten": "Bộ Nông nghiệp và Phát triển Nông thôn",
+      "don_vi": ["Cục Thú y", "Cục Bảo vệ thực vật", "Cục Quản lý chất lượng NLS&TS", "Tổng cục Lâm nghiệp", "Tổng cục Thủy sản"],
+      "ktcn_types": ["kiem_dich_dong_vat", "kiem_dich_thuc_vat", "attp_nong_san", "giong_vat_nuoi", "lam_san_cites", "thuy_san", "thuoc_bvtv", "phan_bon", "thuc_an_chan_nuoi"]
+    },
+    "BYT": {
+      "ten": "Bộ Y tế",
+      "don_vi": ["Cục An toàn thực phẩm", "Cục Quản lý Dược", "Cục Quản lý Môi trường Y tế", "Vụ Trang thiết bị và Công trình Y tế"],
+      "ktcn_types": ["attp_byt", "duoc_pham", "duoc_lieu", "my_pham", "trang_thiet_bi_y_te", "hoa_chat_diet_con_trung"]
+    },
+    "BCT": {
+      "ten": "Bộ Công Thương",
+      "don_vi": ["Vụ Khoa học Công nghệ", "Cục Hóa chất", "Cục Xuất nhập khẩu", "Cục Công nghiệp"],
+      "ktcn_types": ["attp_bct", "hoa_chat", "tien_chat", "hang_tieu_dung", "tam_ngung_kd", "cua_khau_phu", "cat_giam_ktcn"]
+    },
+    "BKHCN": {
+      "ten": "Bộ Khoa học và Công nghệ",
+      "don_vi": ["Tổng cục Tiêu chuẩn Đo lường Chất lượng"],
+      "ktcn_types": ["chat_luong_nhom_2"]
+    },
+    "BTNMT": {
+      "ten": "Bộ Tài nguyên và Môi trường",
+      "don_vi": ["Tổng cục Môi trường", "Cục Quản lý Tài nguyên nước"],
+      "ktcn_types": ["moi_truong", "phe_lieu", "chat_thai"]
+    },
+    "BCA": {
+      "ten": "Bộ Công an",
+      "don_vi": ["Cục Cảnh sát PCCC&CNCH", "Cục An ninh Kinh tế"],
+      "ktcn_types": ["pccc", "chat_luong_nhom_2_bca"]
+    },
+    "BQP": {
+      "ten": "Bộ Quốc phòng",
+      "don_vi": ["Bộ Tổng Tham mưu"],
+      "ktcn_types": ["vu_khi_quan_su", "cam_xnk_bqp"]
+    },
+    "BTTTT": {
+      "ten": "Bộ Thông tin và Truyền thông",
+      "don_vi": ["Cục Xuất bản, In và Phát hành", "Cục Phát thanh Truyền hình"],
+      "ktcn_types": ["xuat_ban_pham", "thiet_bi_phat_song"]
+    },
+    "BLDTBXH": {
+      "ten": "Bộ Lao động - Thương binh và Xã hội",
+      "don_vi": ["Cục An toàn Lao động"],
+      "ktcn_types": ["an_toan_lao_dong"]
+    }
+  },
+  "loai_ktcn": {
+    "kiem_dich_dong_vat": {
+      "ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Thú y",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "79/2015/QH13", "ten": "Luật Thú y"},
+        {"tier": 2, "so_hieu": "15/2018/NĐ-CP", "ten": "NĐ hướng dẫn Luật ATTP"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT ban hành danh mục hàng hóa phải kiểm dịch", "danh_muc": "M1"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Đăng ký kiểm dịch tại Cục Thú y hoặc Chi cục Thú y vùng",
+          "Nộp hồ sơ: Đơn đăng ký + Hợp đồng + Vận đơn + GCN kiểm dịch nước xuất",
+          "Kiểm tra hồ sơ (1-2 ngày làm việc)",
+          "Kiểm tra thực tế lô hàng tại cửa khẩu/kho",
+          "Cấp Giấy chứng nhận kiểm dịch nhập khẩu"
+        ],
+        "ho_so": [
+          "Đơn đăng ký kiểm dịch (theo mẫu)",
+          "Hợp đồng mua bán (Sales Contract)",
+          "Vận đơn (B/L hoặc AWB)",
+          "Giấy chứng nhận kiểm dịch nước xuất khẩu",
+          "Giấy chứng nhận xuất xứ C/O (nếu có)"
+        ],
+        "thoi_gian": "3-5 ngày làm việc",
+        "noi_nop": "Cục Thú y / Chi cục Thú y vùng / Trạm kiểm dịch cửa khẩu"
+      },
+      "luu_y": [
+        "Phải đăng ký kiểm dịch TRƯỚC KHI hàng đến cảng",
+        "Nước xuất khẩu phải nằm trong danh sách được phép NK vào VN",
+        "Sản phẩm động vật phải có chứng nhận vệ sinh thú y"
+      ]
+    },
+    "kiem_dich_thuc_vat": {
+      "ten": "Kiểm dịch thực vật",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Bảo vệ thực vật",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "41/2013/QH13", "ten": "Luật Bảo vệ và Kiểm dịch thực vật"},
+        {"tier": 2, "so_hieu": "15/2018/NĐ-CP", "ten": "NĐ hướng dẫn Luật ATTP"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT ban hành danh mục kiểm dịch thực vật", "danh_muc": "M2"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Đăng ký kiểm dịch thực vật NK tại Chi cục Kiểm dịch thực vật vùng",
+          "Nộp hồ sơ: Đơn đăng ký + GCN kiểm dịch nước xuất + Vận đơn",
+          "Kiểm tra hồ sơ",
+          "Kiểm tra, giám định thực tế lô hàng",
+          "Cấp Giấy chứng nhận kiểm dịch thực vật NK"
+        ],
+        "ho_so": [
+          "Đơn đăng ký kiểm dịch thực vật NK",
+          "Giấy chứng nhận kiểm dịch thực vật nước xuất (Phytosanitary Certificate)",
+          "Vận đơn (B/L hoặc AWB)",
+          "Hợp đồng, Invoice, Packing list"
+        ],
+        "thoi_gian": "1-3 ngày làm việc",
+        "noi_nop": "Chi cục Kiểm dịch thực vật vùng tại cửa khẩu"
+      },
+      "luu_y": [
+        "Hàng thực vật NK phải qua kiểm dịch tại cửa khẩu nhập đầu tiên"
+      ]
+    },
+    "giong_vat_nuoi": {
+      "ten": "Giống vật nuôi cần bảo tồn",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Chăn nuôi",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "32/2018/QH14", "ten": "Luật Chăn nuôi"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT danh mục giống vật nuôi", "danh_muc": "M4"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Xin phép NK giống vật nuôi tại Cục Chăn nuôi",
+          "Nộp hồ sơ: Đơn + Lý lịch giống + GCN kiểm dịch",
+          "Thẩm định hồ sơ (5-7 ngày)",
+          "Cấp phép NK giống vật nuôi"
+        ],
+        "ho_so": ["Đơn đề nghị NK", "Lý lịch giống vật nuôi", "GCN kiểm dịch nước xuất"],
+        "thoi_gian": "5-10 ngày làm việc",
+        "noi_nop": "Cục Chăn nuôi - Bộ NN&PTNT"
+      },
+      "luu_y": ["Giống nằm trong danh mục bảo tồn cần giấy phép đặc biệt"]
+    },
+    "lam_san_cites": {
+      "ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cơ quan Quản lý CITES Việt Nam",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "Công ước CITES", "ten": "Công ước về buôn bán quốc tế các loài động thực vật hoang dã nguy cấp"},
+        {"tier": 2, "so_hieu": "06/2019/NĐ-CP", "ten": "NĐ quản lý thực vật rừng, động vật rừng nguy cấp"},
+        {"tier": 3, "so_hieu": "17/2023/TT-BNNPTNT", "ten": "TT danh mục loài thuộc phụ lục CITES"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Xin giấy phép CITES tại Cơ quan Quản lý CITES VN",
+          "Nộp hồ sơ: Đơn + Giấy phép CITES nước xuất + Chứng từ nguồn gốc",
+          "Thẩm định (7-15 ngày)",
+          "Cấp giấy phép CITES"
+        ],
+        "ho_so": ["Đơn đề nghị", "Giấy phép CITES nước xuất", "Chứng từ nguồn gốc hợp pháp"],
+        "thoi_gian": "7-15 ngày làm việc",
+        "noi_nop": "Cơ quan Quản lý CITES VN (thuộc Bộ NN&PTNT)"
+      },
+      "luu_y": [
+        "Phụ lục I CITES: CẤM buôn bán thương mại",
+        "Phụ lục II-III: Cần giấy phép CITES",
+        "Vi phạm CITES bị xử lý hình sự theo Bộ luật Hình sự 2015"
+      ]
+    },
+    "thuy_san": {
+      "ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "18/2017/QH14", "ten": "Luật Thủy sản"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT danh mục thủy sản kiểm dịch", "danh_muc": "M3"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Đăng ký kiểm dịch tại Cục Thú y",
+          "Nộp hồ sơ kiểm dịch thủy sản NK",
+          "Kiểm tra hồ sơ + lấy mẫu kiểm nghiệm",
+          "Cấp GCN kiểm dịch thủy sản NK"
+        ],
+        "ho_so": ["Đơn đăng ký", "Health Certificate nước xuất", "Vận đơn", "Hợp đồng"],
+        "thoi_gian": "3-5 ngày làm việc",
+        "noi_nop": "Cục Thú y / Chi cục Thú y vùng"
+      },
+      "luu_y": ["Thủy sản sống cần giấy phép NK riêng"]
+    },
+    "thuoc_bvtv": {
+      "ten": "Thuốc bảo vệ thực vật",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Bảo vệ thực vật",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "41/2013/QH13", "ten": "Luật BVKTV"},
+        {"tier": 2, "so_hieu": "123/2018/NĐ-CP", "ten": "NĐ sửa đổi NĐ về thuốc BVTV"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT danh mục thuốc BVTV", "danh_muc": "M6"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký lưu hành thuốc BVTV", "Nộp hồ sơ NK", "Kiểm tra chất lượng", "Cấp phép NK"],
+        "ho_so": ["Đơn đăng ký", "GCN đăng ký lưu hành", "Phiếu kiểm nghiệm"],
+        "thoi_gian": "5-7 ngày làm việc",
+        "noi_nop": "Cục Bảo vệ thực vật"
+      },
+      "luu_y": ["Chỉ được NK thuốc BVTV có trong danh mục được phép sử dụng tại VN"]
+    },
+    "thuc_an_chan_nuoi": {
+      "ten": "Thức ăn chăn nuôi, chất phụ gia",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Chăn nuôi",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "32/2018/QH14", "ten": "Luật Chăn nuôi"},
+        {"tier": 3, "so_hieu": "01/2024/TT-BNNPTNT", "ten": "TT danh mục TACN", "danh_muc": "M15"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký lưu hành TACN tại Cục Chăn nuôi", "Nộp hồ sơ NK", "Kiểm tra chất lượng", "Thông quan"],
+        "ho_so": ["Đơn đăng ký", "GCN lưu hành TACN", "CoA (Certificate of Analysis)"],
+        "thoi_gian": "3-5 ngày làm việc",
+        "noi_nop": "Cục Chăn nuôi"
+      },
+      "luu_y": ["Hóa chất cấm sử dụng trong TACN theo danh mục M15"]
+    },
+    "attp_bct": {
+      "ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+      "co_quan": "BCT",
+      "don_vi": "Vụ Khoa học Công nghệ",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "55/2010/QH12", "ten": "Luật An toàn thực phẩm"},
+        {"tier": 2, "so_hieu": "15/2018/NĐ-CP", "ten": "NĐ hướng dẫn Luật ATTP"},
+        {"tier": 4, "so_hieu": "1182/QĐ-BCT", "ten": "QĐ ban hành danh mục HH KTCN ATTP thuộc BCT", "danh_muc": "PL2"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Tự công bố sản phẩm hoặc Đăng ký bản công bố",
+          "Kiểm tra nhà nước về ATTP (theo lô hoặc xác suất)",
+          "Lấy mẫu kiểm nghiệm (nếu cần)",
+          "Thông quan sau khi có kết quả đạt"
+        ],
+        "ho_so": ["Bản tự công bố SP", "Phiếu kiểm nghiệm", "Nhãn SP", "Hợp đồng, Invoice"],
+        "thoi_gian": "3-7 ngày làm việc",
+        "noi_nop": "Cơ quan kiểm tra ATTP tại cửa khẩu"
+      },
+      "luu_y": ["Thực phẩm NK lần đầu phải kiểm tra chặt", "Sau 3 lần đạt liên tiếp có thể chuyển kiểm tra giảm"]
+    },
+    "attp_byt": {
+      "ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+      "co_quan": "BYT",
+      "don_vi": "Cục An toàn thực phẩm",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "55/2010/QH12", "ten": "Luật An toàn thực phẩm"},
+        {"tier": 2, "so_hieu": "15/2018/NĐ-CP", "ten": "NĐ hướng dẫn Luật ATTP"},
+        {"tier": 3, "so_hieu": "52/2015/TT-BYT", "ten": "TT quy định kiểm tra ATTP hàng NK thuộc BYT"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký kiểm tra ATTP", "Nộp hồ sơ", "Lấy mẫu kiểm nghiệm", "Cấp thông báo kết quả"],
+        "ho_so": ["Đơn đăng ký", "Bản công bố phù hợp ATTP", "Phiếu kiểm nghiệm", "Nhãn SP"],
+        "thoi_gian": "5-7 ngày làm việc",
+        "noi_nop": "Cục ATTP hoặc Chi cục ATVSTP tại cửa khẩu"
+      },
+      "luu_y": ["Thực phẩm chức năng, phụ gia TP, dụng cụ bao gói TP thuộc BYT quản lý"]
+    },
+    "attp_nong_san": {
+      "ten": "An toàn thực phẩm nông lâm thủy sản",
+      "co_quan": "BNNPTNT",
+      "don_vi": "Cục Quản lý chất lượng NLS&TS",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "55/2010/QH12", "ten": "Luật An toàn thực phẩm"},
+        {"tier": 2, "so_hieu": "15/2018/NĐ-CP", "ten": "NĐ hướng dẫn Luật ATTP"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký kiểm tra ATTP NK", "Nộp hồ sơ", "Kiểm tra hồ sơ + lấy mẫu", "Cấp thông báo kết quả"],
+        "ho_so": ["Đơn đăng ký", "Health Certificate", "Phiếu kiểm nghiệm", "Invoice, Packing list"],
+        "thoi_gian": "3-5 ngày làm việc",
+        "noi_nop": "Cơ quan QLCL NLS&TS tại cửa khẩu"
+      },
+      "luu_y": ["Nông sản, thủy sản, thịt các loại thuộc BNNPTNT quản lý ATTP"]
+    },
+    "duoc_pham": {
+      "ten": "Dược phẩm, nguyên liệu làm thuốc",
+      "co_quan": "BYT",
+      "don_vi": "Cục Quản lý Dược",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "105/2016/QH13", "ten": "Luật Dược"},
+        {"tier": 2, "so_hieu": "54/2017/NĐ-CP", "ten": "NĐ hướng dẫn Luật Dược"},
+        {"tier": 3, "so_hieu": "09/2024/TT-BYT", "ten": "TT danh mục dược phẩm XNK", "danh_muc": "DM7"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Xin giấy phép NK thuốc tại Cục Quản lý Dược",
+          "Nộp hồ sơ: Đơn + GCN đăng ký thuốc + GMP",
+          "Thẩm định (15-20 ngày)",
+          "Cấp giấy phép NK thuốc",
+          "Kiểm nghiệm lô thuốc NK"
+        ],
+        "ho_so": ["Đơn đề nghị NK", "Giấy đăng ký lưu hành thuốc", "GCN GMP", "CoA", "Hợp đồng"],
+        "thoi_gian": "15-30 ngày làm việc",
+        "noi_nop": "Cục Quản lý Dược - Bộ Y tế"
+      },
+      "luu_y": [
+        "Thuốc phải có số đăng ký lưu hành tại VN",
+        "Nguyên liệu làm thuốc phải từ cơ sở sản xuất đạt GMP"
+      ]
+    },
+    "duoc_lieu": {
+      "ten": "Dược liệu, tinh dầu làm thuốc",
+      "co_quan": "BYT",
+      "don_vi": "Cục Quản lý Dược",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "105/2016/QH13", "ten": "Luật Dược"},
+        {"tier": 3, "so_hieu": "09/2024/TT-BYT", "ten": "TT danh mục dược liệu XNK", "danh_muc": "DM11,DM12"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký NK dược liệu", "Nộp hồ sơ", "Kiểm tra chất lượng", "Thông quan"],
+        "ho_so": ["Đơn đăng ký", "CoA", "GCN xuất xứ"],
+        "thoi_gian": "5-10 ngày làm việc",
+        "noi_nop": "Cục Quản lý Dược"
+      },
+      "luu_y": ["DM11: dược liệu, DM12: các chất chiết xuất từ dược liệu, tinh dầu"]
+    },
+    "hoa_chat": {
+      "ten": "Hóa chất nguy hiểm, hóa chất cấm",
+      "co_quan": "BCT",
+      "don_vi": "Cục Hóa chất",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "06/2007/QH12", "ten": "Luật Hóa chất"},
+        {"tier": 2, "so_hieu": "113/2017/NĐ-CP", "ten": "NĐ quy định chi tiết Luật Hóa chất", "danh_muc": "PL3,PL4,PL5"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Khai báo hóa chất NK tại Cổng thông tin một cửa QG",
+          "Nộp hồ sơ: Phiếu khai báo + SDS + Hợp đồng",
+          "Xác nhận khai báo (1-2 ngày)",
+          "Thông quan"
+        ],
+        "ho_so": [
+          "Phiếu khai báo hóa chất NK",
+          "Phiếu an toàn hóa chất SDS (Safety Data Sheet)",
+          "Hợp đồng, Invoice"
+        ],
+        "thoi_gian": "1-3 ngày làm việc",
+        "noi_nop": "Cổng thông tin một cửa QG (hệ thống VNSW)"
+      },
+      "luu_y": [
+        "PL3: Hóa chất cấm",
+        "PL4: Hóa chất nguy hiểm phải xây dựng kế hoạch phòng ngừa",
+        "PL5: Hóa chất phải khai báo",
+        "Hóa chất trong PL3: CẤM NK"
+      ]
+    },
+    "hang_tieu_dung": {
+      "ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+      "co_quan": "BCT",
+      "don_vi": "Cục Xuất nhập khẩu",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "05/2017/QH14", "ten": "Luật Quản lý Ngoại thương"},
+        {"tier": 3, "so_hieu": "08/2023/TT-BCT", "ten": "TT danh mục hàng tiêu dùng", "danh_muc": "PL1.I"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Xin giấy phép NK (nếu thuộc danh mục)", "Nộp hồ sơ tại BCT", "Thông quan"],
+        "ho_so": ["Đơn đề nghị", "Hợp đồng", "Giấy phép kinh doanh"],
+        "thoi_gian": "5-7 ngày làm việc",
+        "noi_nop": "Cục XNK - Bộ Công Thương"
+      },
+      "luu_y": ["PL1.I: Hàng tiêu dùng quản lý sử dụng cấp NK"]
+    },
+    "tam_ngung_kd": {
+      "ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+      "co_quan": "BCT",
+      "don_vi": "Cục Xuất nhập khẩu",
+      "van_ban_phap_ly": [
+        {"tier": 3, "so_hieu": "08/2023/TT-BCT", "ten": "TT danh mục tạm ngừng KD TNTX CK", "danh_muc": "PL2"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Không được phép tạm nhập tái xuất, chuyển khẩu mặt hàng trong danh mục"],
+        "ho_so": [],
+        "thoi_gian": "N/A",
+        "noi_nop": "N/A"
+      },
+      "luu_y": ["Hàng hóa trong PL2 bị tạm ngừng — KHÔNG được tạm nhập tái xuất"]
+    },
+    "cat_giam_ktcn": {
+      "ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+      "co_quan": "BCT",
+      "don_vi": "Bộ Công Thương",
+      "van_ban_phap_ly": [
+        {"tier": 4, "so_hieu": "765/QĐ-BCT", "ten": "QĐ ban hành danh mục cắt giảm KTCN (29/03/2019)"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Không cần KTCN — đã được cắt giảm"],
+        "ho_so": [],
+        "thoi_gian": "N/A",
+        "noi_nop": "N/A"
+      },
+      "luu_y": [
+        "Mặt hàng đã được cắt giảm KTCN theo QĐ 765",
+        "Tuy nhiên vẫn có thể phải tuân thủ quy định khác (ATTP, kiểm dịch...)"
+      ]
+    },
+    "chat_luong_nhom_2": {
+      "ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+      "co_quan": "BKHCN",
+      "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "05/2007/QH12", "ten": "Luật Chất lượng sản phẩm, hàng hóa"},
+        {"tier": 2, "so_hieu": "132/2008/NĐ-CP", "ten": "NĐ hướng dẫn Luật CLSPHH"},
+        {"tier": 4, "so_hieu": "2711/QĐ-BKHCN", "ten": "QĐ ban hành danh mục hàng hóa nhóm 2 (2022)"}
+      ],
+      "thu_tuc": {
+        "buoc": [
+          "Đăng ký kiểm tra chất lượng NK tại Chi cục TCĐLCL",
+          "Nộp hồ sơ: Đơn + Kết quả thử nghiệm + GCN hợp quy",
+          "Kiểm tra hồ sơ + lấy mẫu thử nghiệm (nếu cần)",
+          "Cấp thông báo kết quả kiểm tra",
+          "Thông quan"
+        ],
+        "ho_so": [
+          "Đơn đăng ký kiểm tra chất lượng",
+          "Kết quả thử nghiệm (từ phòng thử nghiệm được chỉ định)",
+          "Giấy chứng nhận hợp quy",
+          "Hợp đồng, Invoice, Packing list"
+        ],
+        "thoi_gian": "5-10 ngày làm việc",
+        "noi_nop": "Chi cục TCĐLCL tại cửa khẩu"
+      },
+      "luu_y": [
+        "Hàng nhóm 2: có khả năng gây mất an toàn cho người, tài sản, môi trường",
+        "Phải có GCN hợp quy trước khi thông quan"
+      ]
+    },
+    "chat_luong_nhom_2_bca": {
+      "ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+      "co_quan": "BCA",
+      "don_vi": "Cục Cảnh sát PCCC&CNCH",
+      "van_ban_phap_ly": [
+        {"tier": 4, "so_hieu": "9981/QĐ-BCA", "ten": "QĐ ban hành danh mục SPHH nhóm 2 thuộc BCA (2019)"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Kiểm tra chất lượng theo quy chuẩn PCCC", "Nộp hồ sơ", "Thử nghiệm", "Cấp GCN"],
+        "ho_so": ["Đơn đăng ký", "Kết quả thử nghiệm PCCC", "Tài liệu kỹ thuật SP"],
+        "thoi_gian": "7-15 ngày làm việc",
+        "noi_nop": "Cục CSPCCC&CNCH - Bộ Công an"
+      },
+      "luu_y": ["Phương tiện PCCC, thiết bị báo cháy, chữa cháy phải kiểm tra PCCC"]
+    },
+    "pccc": {
+      "ten": "Phòng cháy chữa cháy",
+      "co_quan": "BCA",
+      "don_vi": "Cục Cảnh sát PCCC&CNCH",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "27/2001/QH10", "ten": "Luật PCCC (sửa đổi 2013)"},
+        {"tier": 2, "so_hieu": "136/2020/NĐ-CP", "ten": "NĐ hướng dẫn Luật PCCC"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Kiểm tra PCCC", "Nộp hồ sơ kiểm định", "Cấp GCN kiểm định PCCC"],
+        "ho_so": ["Đơn đề nghị", "Tài liệu kỹ thuật", "Kết quả thử nghiệm PCCC"],
+        "thoi_gian": "7-15 ngày làm việc",
+        "noi_nop": "Cục CSPCCC&CNCH"
+      },
+      "luu_y": ["Phương tiện PCCC NK phải kiểm định trước khi đưa vào sử dụng"]
+    },
+    "cam_xnk_bqp": {
+      "ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+      "co_quan": "BQP",
+      "don_vi": "Bộ Tổng Tham mưu",
+      "van_ban_phap_ly": [
+        {"tier": 3, "so_hieu": "173/2018/TT-BQP", "ten": "TT danh mục hàng hóa cấm XK NK thuộc BQP"}
+      ],
+      "thu_tuc": {
+        "buoc": ["CẤM nhập khẩu — trừ trường hợp có giấy phép đặc biệt của BQP"],
+        "ho_so": [],
+        "thoi_gian": "N/A",
+        "noi_nop": "Bộ Quốc phòng (trường hợp đặc biệt)"
+      },
+      "luu_y": ["Vũ khí, đạn dược, vật liệu nổ quân dụng: CẤM NK", "Vi phạm bị xử lý hình sự"]
+    },
+    "xuat_ban_pham": {
+      "ten": "Xuất bản phẩm, ấn phẩm NK",
+      "co_quan": "BTTTT",
+      "don_vi": "Cục Xuất bản, In và Phát hành",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "19/2012/QH13", "ten": "Luật Xuất bản"},
+        {"tier": 3, "so_hieu": "22/2018/TT-BTTTT", "ten": "TT danh mục hàng NK thuộc BTTTT", "danh_muc": "PL2"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Xin giấy phép NK xuất bản phẩm", "Nộp hồ sơ + mẫu XBP", "Thẩm định nội dung", "Cấp phép NK"],
+        "ho_so": ["Đơn đề nghị", "Mẫu xuất bản phẩm", "Giấy phép kinh doanh"],
+        "thoi_gian": "10-15 ngày làm việc",
+        "noi_nop": "Cục Xuất bản, In và Phát hành - BTTTT"
+      },
+      "luu_y": ["Xuất bản phẩm có nội dung vi phạm pháp luật VN sẽ bị từ chối"]
+    },
+    "thiet_bi_phat_song": {
+      "ten": "Thiết bị phát, thu phát sóng vô tuyến điện",
+      "co_quan": "BTTTT",
+      "don_vi": "Cục Viễn thông",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "09/2014/QH13", "ten": "Luật Viễn thông (sửa đổi)"},
+        {"tier": 3, "so_hieu": "11/2018/TT-BTTTT", "ten": "TT danh mục thiết bị phát sóng VTĐ"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Xin giấy chứng nhận hợp quy thiết bị VTĐ", "Nộp hồ sơ", "Kiểm tra/thử nghiệm", "Cấp GCN"],
+        "ho_so": ["Đơn đề nghị", "Tài liệu kỹ thuật thiết bị", "Kết quả đo kiểm"],
+        "thoi_gian": "7-15 ngày làm việc",
+        "noi_nop": "Cục Viễn thông - BTTTT"
+      },
+      "luu_y": ["Thiết bị phát sóng phải có chứng nhận hợp quy trước khi thông quan"]
+    },
+    "thu_tuc_ck_nhap": {
+      "ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+      "co_quan": "TTg",
+      "don_vi": "Tổng cục Hải quan",
+      "van_ban_phap_ly": [
+        {"tier": 4, "so_hieu": "23/2019/QĐ-TTg", "ten": "QĐ danh mục HH NK phải làm thủ tục tại CK nhập"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Khai báo hải quan tại cửa khẩu nhập đầu tiên", "Không được chuyển cửa khẩu"],
+        "ho_so": ["Tờ khai HQ", "Bộ chứng từ thông thường"],
+        "thoi_gian": "Theo quy trình HQ thông thường",
+        "noi_nop": "Chi cục HQ cửa khẩu nhập"
+      },
+      "luu_y": ["Phải làm thủ tục tại đúng cửa khẩu nhập, không được chuyển tiếp"]
+    },
+    "an_toan_lao_dong": {
+      "ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+      "co_quan": "BLDTBXH",
+      "don_vi": "Cục An toàn Lao động",
+      "van_ban_phap_ly": [
+        {"tier": 1, "so_hieu": "84/2015/QH13", "ten": "Luật An toàn, vệ sinh lao động"},
+        {"tier": 3, "so_hieu": "01/2021/TT-BLĐTBXH", "ten": "TT danh mục SPHH phải KTNN về CL khi NK"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Đăng ký kiểm tra chất lượng NK", "Nộp hồ sơ", "Lấy mẫu thử nghiệm", "Cấp thông báo kết quả"],
+        "ho_so": ["Đơn đăng ký", "Kết quả thử nghiệm", "GCN hợp quy", "Tài liệu kỹ thuật"],
+        "thoi_gian": "5-10 ngày làm việc",
+        "noi_nop": "Sở LĐTBXH / Cơ quan được ủy quyền"
+      },
+      "luu_y": ["Thiết bị bảo hộ lao động, găng tay, giày bảo hộ... thuộc BLĐTBXH quản lý"]
+    },
+    "cua_khau_phu": {
+      "ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+      "co_quan": "BCT",
+      "don_vi": "Cục Xuất nhập khẩu",
+      "van_ban_phap_ly": [
+        {"tier": 3, "so_hieu": "42/2019/TT-BCT", "ten": "TT danh mục HH mua bán qua cửa khẩu phụ"},
+        {"tier": 3, "so_hieu": "33/2025/TT-BCT", "ten": "TT sửa đổi bổ sung"}
+      ],
+      "thu_tuc": {
+        "buoc": ["Khai báo hải quan tại cửa khẩu phụ", "Nộp hồ sơ", "Thông quan"],
+        "ho_so": ["Tờ khai HQ", "Hợp đồng", "Invoice"],
+        "thoi_gian": "1-2 ngày",
+        "noi_nop": "Chi cục HQ cửa khẩu"
+      },
+      "luu_y": ["Chỉ áp dụng cho thương nhân tại khu vực biên giới"]
+    }
+  },
+  "van_ban_mapping": {
+    "01/2024/TT-BNNPTNT": {
+      "co_quan": "BNNPTNT",
+      "ten": "TT ban hành danh mục kiểm dịch, giống, thuốc BVTV, TACN",
+      "danh_muc_map": {
+        "M1": "kiem_dich_dong_vat",
+        "M2": "kiem_dich_thuc_vat",
+        "M3": "thuy_san",
+        "M4": "giong_vat_nuoi",
+        "M5": "kiem_dich_thuc_vat",
+        "M6": "thuoc_bvtv",
+        "M7": "thuoc_bvtv",
+        "M8": "kiem_dich_thuc_vat",
+        "M9": "thuc_an_chan_nuoi",
+        "M10": "thuc_an_chan_nuoi",
+        "M11": "thuc_an_chan_nuoi",
+        "M12": "thuc_an_chan_nuoi",
+        "M13": "thuc_an_chan_nuoi",
+        "M14": "thuc_an_chan_nuoi",
+        "M15": "thuc_an_chan_nuoi",
+        "default": "kiem_dich_dong_vat"
+      }
+    },
+    "17/2023/TT-BNNPTNT": {
+      "co_quan": "BNNPTNT",
+      "ten": "TT danh mục loài thuộc phụ lục CITES",
+      "danh_muc_map": {"default": "lam_san_cites"}
+    },
+    "09/2024/TT-BYT": {
+      "co_quan": "BYT",
+      "ten": "TT danh mục dược phẩm, dược liệu XNK",
+      "danh_muc_map": {
+        "DM1": "duoc_pham",
+        "DM2": "duoc_pham",
+        "DM3": "duoc_pham",
+        "DM4": "duoc_pham",
+        "DM5": "duoc_pham",
+        "DM6": "duoc_pham",
+        "DM7": "duoc_pham",
+        "DM8": "duoc_lieu",
+        "DM9": "duoc_lieu",
+        "DM10": "duoc_lieu",
+        "DM11": "duoc_lieu",
+        "DM12": "duoc_lieu",
+        "default": "duoc_pham"
+      }
+    },
+    "1182/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN ATTP thuộc BCT",
+      "danh_muc_map": {
+        "PL2": "attp_bct",
+        "default": "attp_bct"
+      }
+    },
+    "08/2023/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT danh mục hàng tiêu dùng, tạm ngừng TNTX CK",
+      "danh_muc_map": {
+        "PL1.I": "hang_tieu_dung",
+        "PL1": "hang_tieu_dung",
+        "PL2": "tam_ngung_kd"
+      }
+    },
+    "113/2017/NĐ-CP": {
+      "co_quan": "BCT",
+      "ten": "NĐ quy định chi tiết Luật Hóa chất",
+      "danh_muc_map": {
+        "PL3": "hoa_chat",
+        "PL4": "hoa_chat",
+        "PL5": "hoa_chat",
+        "default": "hoa_chat"
+      }
+    },
+    "765/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục cắt giảm KTCN",
+      "danh_muc_map": {"default": "cat_giam_ktcn"}
+    },
+    "2711/QĐ-BKHCN": {
+      "co_quan": "BKHCN",
+      "ten": "QĐ danh mục hàng hóa nhóm 2",
+      "danh_muc_map": {"default": "chat_luong_nhom_2"}
+    },
+    "9981/QĐ-BCA": {
+      "co_quan": "BCA",
+      "ten": "QĐ danh mục SPHH nhóm 2 thuộc BCA",
+      "danh_muc_map": {"default": "chat_luong_nhom_2_bca"}
+    },
+    "173/2018/TT-BQP": {
+      "co_quan": "BQP",
+      "ten": "TT danh mục hàng cấm XNK thuộc BQP",
+      "danh_muc_map": {"default": "cam_xnk_bqp"}
+    },
+    "22/2018/TT-BTTTT": {
+      "co_quan": "BTTTT",
+      "ten": "TT danh mục hàng NK thuộc BTTTT",
+      "danh_muc_map": {
+        "PL2": "xuat_ban_pham",
+        "default": "xuat_ban_pham"
+      }
+    },
+    "42/2019/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT danh mục HH qua cửa khẩu phụ",
+      "danh_muc_map": {"default": "cua_khau_phu"}
+    },
+    "33/2025/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT sửa đổi danh mục HH qua cửa khẩu phụ",
+      "danh_muc_map": {"default": "cua_khau_phu"}
+    },
+    "01/2021/TT-BLĐTBXH": {
+      "co_quan": "BLDTBXH",
+      "ten": "TT danh mục SPHH phải KTNN về CL khi NK",
+      "danh_muc_map": {"default": "an_toan_lao_dong"}
+    },
+    "15/2024/TT-BYT": {
+      "co_quan": "BYT",
+      "ten": "TT danh mục thực phẩm, phụ gia TP, bao gói dụng cụ chứa đựng",
+      "danh_muc_map": {"default": "attp_byt"}
+    },
+    "34/2025/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT sửa đổi danh mục HH qua cửa khẩu phụ",
+      "danh_muc_map": {"default": "cua_khau_phu"}
+    },
+    "23/2019/QĐ-TTg": {
+      "co_quan": "TTg",
+      "ten": "QĐ danh mục HH NK phải làm thủ tục HQ tại CK nhập",
+      "danh_muc_map": {"default": "thu_tuc_ck_nhap"}
+    },
+    "11/2018/TT-BTTTT": {
+      "co_quan": "BTTTT",
+      "ten": "TT danh mục thiết bị phát, thu phát sóng vô tuyến điện",
+      "danh_muc_map": {"default": "thiet_bi_phat_song"}
+    },
+    "11/2024/TT-BTTTT": {
+      "co_quan": "BTTTT",
+      "ten": "TT sửa đổi danh mục thiết bị viễn thông",
+      "danh_muc_map": {"default": "thiet_bi_phat_song"}
+    },
+    "29/2025/TT-BKHCN": {
+      "co_quan": "BKHCN",
+      "ten": "TT sửa đổi danh mục hàng hóa nhóm 2",
+      "danh_muc_map": {"default": "chat_luong_nhom_2"}
+    },
+    "1725/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN ATTP",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "2310/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT bổ sung",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "41/2019/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT bổ sung danh mục quản lý XNK",
+      "danh_muc_map": {"default": "hang_tieu_dung"}
+    },
+    "3765/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "3176/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "13/2023/QĐ-TTg": {
+      "co_quan": "TTg",
+      "ten": "QĐ danh mục HH phải làm thủ tục tại CK",
+      "danh_muc_map": {"default": "thu_tuc_ck_nhap"}
+    },
+    "6266/QĐ-BCA": {
+      "co_quan": "BCA",
+      "ten": "QĐ danh mục SPHH nhóm 2 thuộc BCA bổ sung",
+      "danh_muc_map": {"default": "chat_luong_nhom_2_bca"}
+    },
+    "2284/QĐ-BKHCN": {
+      "co_quan": "BKHCN",
+      "ten": "QĐ danh mục hàng hóa nhóm 2 bổ sung",
+      "danh_muc_map": {"default": "chat_luong_nhom_2"}
+    },
+    "16/2024/TT-BYT": {
+      "co_quan": "BYT",
+      "ten": "TT quy định về mỹ phẩm, trang thiết bị y tế NK",
+      "danh_muc_map": {"default": "attp_byt"}
+    },
+    "2822/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "45/2023/TT-BCT": {
+      "co_quan": "BCT",
+      "ten": "TT quản lý HH thuộc BCT",
+      "danh_muc_map": {"default": "hang_tieu_dung"}
+    },
+    "691/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "235/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "715/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    },
+    "2333/QĐ-BCT": {
+      "co_quan": "BCT",
+      "ten": "QĐ danh mục HH KTCN BCT",
+      "danh_muc_map": {"default": "attp_bct"}
+    }
+  },
+  "meta": {
+    "version": "1.0.0",
+    "created_at": "2026-04-06",
+    "updated_at": "2026-04-06",
+    "note": "Hand-curated reference data for KTCN regulatory lookup. Update when new ND/TT is issued."
+  }
+}

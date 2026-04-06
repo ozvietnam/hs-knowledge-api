@@ -1,0 +1,2013 @@
+{
+  "38021010": {
+    "hs": "38021010",
+    "ten": "- - Từ than gáo dừa (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "38021090": {
+    "hs": "38021090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "38029020": {
+    "hs": "38029020",
+    "ten": "- - Đất sét hoạt tính hoặc đất hoạt tính",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "38063010": {
+    "hs": "38063010",
+    "ten": "- - Dạng khối",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38063090": {
+    "hs": "38063090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38069010": {
+    "hs": "38069010",
+    "ten": "- - Gôm nấu chảy lại ở dạng khối",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38069090": {
+    "hs": "38069090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38070000": {
+    "hs": "38070000",
+    "ten": "Hắc ín gỗ; dầu hắc ín gỗ; creosote gỗ; naphtha gỗ; hắc ín thực vật; hắc ín cho quá trình ủ rượu, bia và các chế phẩm tương tự dựa trên colophan, axit nhựa cây hoặc các hắc ín thực vật",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "38085210": {
+    "hs": "38085210",
+    "ten": "- - - Thuốc bảo quản gỗ, là chế phẩm chứa chất trừ côn trùng hoặc trừ nấm, trừ chất phủ bề mặt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085220": {
+    "hs": "38085220",
+    "ten": "- - - Thuốc trừ nấm và thuốc trừ côn trùng dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085290": {
+    "hs": "38085290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085911": {
+    "hs": "38085911",
+    "ten": "- - - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085919": {
+    "hs": "38085919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085921": {
+    "hs": "38085921",
+    "ten": "- - - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085929": {
+    "hs": "38085929",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085931": {
+    "hs": "38085931",
+    "ten": "- - - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085939": {
+    "hs": "38085939",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085940": {
+    "hs": "38085940",
+    "ten": "- - - Thuốc chống nảy mầm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085950": {
+    "hs": "38085950",
+    "ten": "- - - Thuốc điều hòa sinh trưởng cây trồng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085960": {
+    "hs": "38085960",
+    "ten": "- - - Thuốc khử trùng (Disinfectants)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085991": {
+    "hs": "38085991",
+    "ten": "- - - - Thuốc bảo quản gỗ, là chế phẩm chứa chất trừ côn trùng hoặc trừ nấm, trừ chất phủ bề mặt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38085999": {
+    "hs": "38085999",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38086110": {
+    "hs": "38086110",
+    "ten": "- - - Hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086120": {
+    "hs": "38086120",
+    "ten": "- - - Tấm thuốc diệt muỗi (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086130": {
+    "hs": "38086130",
+    "ten": "- - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086140": {
+    "hs": "38086140",
+    "ten": "- - - Loại khác, dạng lỏng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086150": {
+    "hs": "38086150",
+    "ten": "- - - Loại khác, có chức năng khử mùi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38086190": {
+    "hs": "38086190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086210": {
+    "hs": "38086210",
+    "ten": "- - - Bột dùng làm hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38086220": {
+    "hs": "38086220",
+    "ten": "- - - Hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086230": {
+    "hs": "38086230",
+    "ten": "- - - Tấm thuốc diệt muỗi (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086240": {
+    "hs": "38086240",
+    "ten": "- - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086250": {
+    "hs": "38086250",
+    "ten": "- - - Loại khác, dạng lỏng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086290": {
+    "hs": "38086290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38086910": {
+    "hs": "38086910",
+    "ten": "- - - Bột dùng làm hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38086990": {
+    "hs": "38086990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089110": {
+    "hs": "38089110",
+    "ten": "- - - Các chế phẩm trung gian chứa 2-(methylpropyl-phenol methylcarbamate)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089120": {
+    "hs": "38089120",
+    "ten": "- - - Loại khác, dạng bột dùng làm hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089130": {
+    "hs": "38089130",
+    "ten": "- - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089140": {
+    "hs": "38089140",
+    "ten": "- - - Hương vòng chống muỗi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089150": {
+    "hs": "38089150",
+    "ten": "- - - Tấm thuốc diệt muỗi (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089191": {
+    "hs": "38089191",
+    "ten": "- - - - Có chức năng khử mùi (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089199": {
+    "hs": "38089199",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089211": {
+    "hs": "38089211",
+    "ten": "- - - - Với hàm lượng validamycin không quá 3% tính theo khối lượng tịnh",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089219": {
+    "hs": "38089219",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089290": {
+    "hs": "38089290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089311": {
+    "hs": "38089311",
+    "ten": "- - - - Dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089319": {
+    "hs": "38089319",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089320": {
+    "hs": "38089320",
+    "ten": "- - - Thuốc chống nảy mầm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089330": {
+    "hs": "38089330",
+    "ten": "- - - Thuốc điều hòa sinh trưởng cây trồng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089410": {
+    "hs": "38089410",
+    "ten": "- - - Có chứa hỗn hợp các axit hắc ín than đá và các chất kiềm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089420": {
+    "hs": "38089420",
+    "ten": "- - - Loại khác, dạng bình xịt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089490": {
+    "hs": "38089490",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Chế phẩm diệt côn trùng, diệt khuẩn dùng trong gia dụng và y tế",
+        "van_ban": "16/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38089910": {
+    "hs": "38089910",
+    "ten": "- - - Thuốc bảo quản gỗ, chứa chất diệt côn trùng hoặc trừ nấm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38089990": {
+    "hs": "38089990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thuốc bảo vệ thực vật cấm SD tại VN",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M23",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "38101000": {
+    "hs": "38101000",
+    "ten": "- Các chế phẩm tẩy sạch cho bề mặt kim loại; bột và bột nhão gồm kim loại và các vật liệu khác dùng để hàn thiếc, hàn hơi hoặc hàn điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38109000": {
+    "hs": "38109000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38130000": {
+    "hs": "38130000",
+    "ten": "Các chế phẩm và các vật liệu nạp cho bình dập lửa; lựu đạn dập lửa đã nạp",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "38241000": {
+    "hs": "38241000",
+    "ten": "- Các chất gắn đã điều chế dùng cho khuôn đúc hoặc lõi đúc",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38243000": {
+    "hs": "38243000",
+    "ten": "- Carbua kim loại không kết tụ trộn với nhau hoặc trộn với các chất gắn kim loại",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38244000": {
+    "hs": "38244000",
+    "ten": "- Phụ gia đã điều chế dùng cho xi măng, vữa hoặc bê tông",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38245000": {
+    "hs": "38245000",
+    "ten": "- Vữa và bê tông không chịu lửa",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38246000": {
+    "hs": "38246000",
+    "ten": "- Sorbitol trừ loại thuộc phân nhóm 2905.44",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38248100": {
+    "hs": "38248100",
+    "ten": "- - Chứa oxirane (ethylene oxide)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248200": {
+    "hs": "38248200",
+    "ten": "- - Chứa polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) hoặc polybrominated biphenyls (PBBs)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248300": {
+    "hs": "38248300",
+    "ten": "- - Chứa tris(2,3-dibromopropyl) phosphate",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248400": {
+    "hs": "38248400",
+    "ten": "- - Chứa aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), chlordecone (ISO), DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO, INN), endosulfan (ISO), endrin (ISO), heptachlor (ISO) hoặc mirex (ISO))",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248500": {
+    "hs": "38248500",
+    "ten": "- - Chứa 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), kể cả lindane (ISO, INN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248600": {
+    "hs": "38248600",
+    "ten": "- - Chứa pentachlorobenzene (ISO) hoặc hexachlorobenzene (ISO)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248700": {
+    "hs": "38248700",
+    "ten": "- - Chứa perfluorooctane sulphonic axit, muối của nó, perfluorooctane sulphonamides, hoặc perfluorooctane sulphonyl fluoride",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248800": {
+    "hs": "38248800",
+    "ten": "- - Chứa tetra-, penta-, hexa-, hepta- hoặc octabromodiphenyl ethers",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38248900": {
+    "hs": "38248900",
+    "ten": "- - Chứa các paraffin đã clo hóa mạch ngắn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249100": {
+    "hs": "38249100",
+    "ten": "- - Hỗn hợp và chế phẩm chủ yếu chứa (5-ethyl-2- methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate và bis[(5-ethyl-2-methyl-2-oxido-1,3,2- dioxaphosphinan-5-yl)methyl] methylphosphonate",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249200": {
+    "hs": "38249200",
+    "ten": "- - Các este polyglycol của axit methylphosphonic",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249910": {
+    "hs": "38249910",
+    "ten": "- - - Các chất tẩy mực, chất sửa giấy nến (stencil correctors), chất lỏng dùng để xóa và các băng để xóa khác (trừ những hàng hóa thuộc nhóm 96.12), đã đóng gói để bán lẻ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249930": {
+    "hs": "38249930",
+    "ten": "- - - Bột nhão để sao in với thành phần cơ bản là gelatin, ở dạng rời hoặc dùng ngay (ví dụ, bồi trên giấy hoặc trên vật liệu dệt)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249940": {
+    "hs": "38249940",
+    "ten": "- - - Hỗn hợp dung môi vô cơ (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249950": {
+    "hs": "38249950",
+    "ten": "- - - Dầu acetone (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249960": {
+    "hs": "38249960",
+    "ten": "- - - Các chế phẩm hóa chất có chứa bột ngọt (monosodium glutamate)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249970": {
+    "hs": "38249970",
+    "ten": "- - - Các chế phẩm hóa chất khác, dùng trong chế biến thực phẩm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      }
+    ]
+  },
+  "38249991": {
+    "hs": "38249991",
+    "ten": "- - - - Naphthenic axit, muối không tan trong nước của chúng và este của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      }
+    ]
+  },
+  "38249999": {
+    "hs": "38249999",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BYT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+        "van_ban": "15/2024/TT-BYT",
+        "danh_muc": null,
+        "co_quan": "BYT",
+        "loai": "attp_byt",
+        "tier": 3,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+        "don_vi": "Cục An toàn thực phẩm"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      },
+      {
+        "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+        "van_ban": "09/2024/TT-BYT",
+        "danh_muc": "DM7",
+        "co_quan": "BYT",
+        "loai": "duoc_pham",
+        "tier": 3,
+        "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+        "don_vi": "Cục Quản lý Dược"
+      }
+    ]
+  },
+  "38260010": {
+    "hs": "38260010",
+    "ten": "- - Este metyl từ dừa (CME) (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "38260021": {
+    "hs": "38260021",
+    "ten": "- - - Có hàm lượng este metyl từ 96,5% trở lên nhưng không quá 98% (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "38260022": {
+    "hs": "38260022",
+    "ten": "- - - Có hàm lượng este metyl trên 98% (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "38260030": {
+    "hs": "38260030",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  }
+}

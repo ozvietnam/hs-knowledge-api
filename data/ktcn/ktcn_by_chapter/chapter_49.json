@@ -1,0 +1,273 @@
+{
+  "49011000": {
+    "hs": "49011000",
+    "ten": "- Dạng tờ đơn, có hoặc không gấp",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49019100": {
+    "hs": "49019100",
+    "ten": "- - Từ điển và bộ bách khoa toàn thư, và các phụ trương của chúng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49019910": {
+    "hs": "49019910",
+    "ten": "- - - Sách giáo dục, kỹ thuật, khoa học, lịch sử hoặc văn hóa ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49019990": {
+    "hs": "49019990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49030000": {
+    "hs": "49030000",
+    "ten": "Sách tranh ảnh, sách vẽ hoặc sách tô màu cho trẻ em",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49052000": {
+    "hs": "49052000",
+    "ten": "- Dạng quyển",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49059000": {
+    "hs": "49059000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49100000": {
+    "hs": "49100000",
+    "ten": "Các loại lịch in, kể cả bloc lịch",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49111010": {
+    "hs": "49111010",
+    "ten": "- - Catalog chỉ liệt kê tên sách và các ấn phẩm về giáo dục, kỹ thuật, khoa học, lịch sử hoặc văn hóa",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49111090": {
+    "hs": "49111090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49119129": {
+    "hs": "49119129",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49119199": {
+    "hs": "49119199",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  },
+  "49119990": {
+    "hs": "49119990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BTTTT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+        "van_ban": "22/2018/TT-BTTTT",
+        "danh_muc": "PL2",
+        "co_quan": "BTTTT",
+        "loai": "xuat_ban_pham",
+        "tier": 3,
+        "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+        "don_vi": "Cục Xuất bản, In và Phát hành"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2987 @@
+{
+  "94013100": {
+    "hs": "94013100",
+    "ten": "- - Bằng gỗ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94013900": {
+    "hs": "94013900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94014100": {
+    "hs": "94014100",
+    "ten": "- - Bằng gỗ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94014900": {
+    "hs": "94014900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94015200": {
+    "hs": "94015200",
+    "ten": "- - Bằng tre",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94015300": {
+    "hs": "94015300",
+    "ten": "- - Bằng song, mây",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94015900": {
+    "hs": "94015900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94016100": {
+    "hs": "94016100",
+    "ten": "- - Đã nhồi đệm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94016910": {
+    "hs": "94016910",
+    "ten": "- - - Có tựa lưng và/hoặc phần để ngồi làm bằng song, mây (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "94016990": {
+    "hs": "94016990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94017100": {
+    "hs": "94017100",
+    "ten": "- - Đã nhồi đệm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94017910": {
+    "hs": "94017910",
+    "ten": "- - - Có tựa lưng và/hoặc phần để ngồi làm bằng song, mây (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94017990": {
+    "hs": "94017990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94018000": {
+    "hs": "94018000",
+    "ten": "- Ghế khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94019100": {
+    "hs": "94019100",
+    "ten": "- - Bằng gỗ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      }
+    ]
+  },
+  "94031000": {
+    "hs": "94031000",
+    "ten": "- Đồ nội thất bằng kim loại được sử dụng trong văn phòng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94032010": {
+    "hs": "94032010",
+    "ten": "- - Tủ hút hơi độc (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94032090": {
+    "hs": "94032090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94033000": {
+    "hs": "94033000",
+    "ten": "- Đồ nội thất bằng gỗ loại sử dụng trong văn phòng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Áp thuế CBPG Bàn, ghế (CN )",
+        "van_ban": "235/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94034000": {
+    "hs": "94034000",
+    "ten": "- Đồ nội thất bằng gỗ loại sử dụng trong nhà bếp",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "94035000": {
+    "hs": "94035000",
+    "ten": "- Đồ nội thất bằng gỗ loại sử dụng trong phòng ngủ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "94036010": {
+    "hs": "94036010",
+    "ten": "- - Tủ hút hơi độc (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "94036090": {
+    "hs": "94036090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "thực vật thuộc các phụ lục CITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Gỗ và SP chế biến từ gỗ khi XK phải có HS lâm sản hợp pháp",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M21",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ]
+  },
+  "94037010": {
+    "hs": "94037010",
+    "ten": "- - Xe tập đi cho trẻ em",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94037020": {
+    "hs": "94037020",
+    "ten": "- - Tủ hút hơi độc (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94037090": {
+    "hs": "94037090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94038200": {
+    "hs": "94038200",
+    "ten": "- - Bằng tre",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94038300": {
+    "hs": "94038300",
+    "ten": "- - Bằng song, mây",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "42/2019/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+        "van_ban": "34/2025/TT-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cua_khau_phu",
+        "tier": 3,
+        "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94038910": {
+    "hs": "94038910",
+    "ten": "- - - Tủ hút hơi độc (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94038990": {
+    "hs": "94038990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94041000": {
+    "hs": "94041000",
+    "ten": "- Khung đệm",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94042110": {
+    "hs": "94042110",
+    "ten": "- - - Bằng cao su xốp, đã hoặc chưa bọc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94042120": {
+    "hs": "94042120",
+    "ten": "- - - Bằng plastic xốp, đã hoặc chưa bọc",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94042910": {
+    "hs": "94042910",
+    "ten": "- - - Đệm lò xo",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94042920": {
+    "hs": "94042920",
+    "ten": "- - - Loại khác, làm nóng/làm mát (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94042990": {
+    "hs": "94042990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94043000": {
+    "hs": "94043000",
+    "ten": "- Túi ngủ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94044000": {
+    "hs": "94044000",
+    "ten": "- Chăn quilt, chăn phủ giường (bedspreads), chăn nhồi lông và chăn nhồi bông (comforters)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "94049000": {
+    "hs": "94049000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+        "van_ban": "765/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "cat_giam_ktcn",
+        "tier": 4,
+        "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+        "don_vi": "Bộ Công Thương"
+      }
+    ]
+  },
+  "94051110": {
+    "hs": "94051110",
+    "ten": "- - - Đèn cho phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051191": {
+    "hs": "94051191",
+    "ten": "- - - - Đèn rọi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051199": {
+    "hs": "94051199",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051910": {
+    "hs": "94051910",
+    "ten": "- - - Đèn cho phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051991": {
+    "hs": "94051991",
+    "ten": "- - - - Đèn rọi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051992": {
+    "hs": "94051992",
+    "ten": "- - - - Đèn gắn bóng đèn huỳnh quang",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94051999": {
+    "hs": "94051999",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94052110": {
+    "hs": "94052110",
+    "ten": "- - - Đèn cho phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94052190": {
+    "hs": "94052190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94052910": {
+    "hs": "94052910",
+    "ten": "- - - Đèn cho phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94052990": {
+    "hs": "94052990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94053100": {
+    "hs": "94053100",
+    "ten": "- - Được thiết kế chỉ để sử dụng với các nguồn sáng đi-ốt phát quang (LED)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94053900": {
+    "hs": "94053900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054110": {
+    "hs": "94054110",
+    "ten": "- - - Đèn pha",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "94054120": {
+    "hs": "94054120",
+    "ten": "- - - Đèn rọi khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "94054130": {
+    "hs": "94054130",
+    "ten": "- - - Đèn tín hiệu không nhấp nháy dùng cho sân bay; đèn dùng cho phương tiện giao thông đường sắt, đầu máy, tàu thủy, phương tiện bay, hoặc hải đăng, bằng kim loại cơ bản",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "94054140": {
+    "hs": "94054140",
+    "ten": "- - - Loại khác, được sử dụng ở nơi công cộng hoặc đường phố lớn; loại chiếu sáng bên ngoài khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT",
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      },
+      {
+        "mo_ta": "Hàng hóa nhóm 2",
+        "van_ban": "2711/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "94054190": {
+    "hs": "94054190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054210": {
+    "hs": "94054210",
+    "ten": "- - - Đèn pha",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054220": {
+    "hs": "94054220",
+    "ten": "- - - Đèn rọi khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054230": {
+    "hs": "94054230",
+    "ten": "- - - Đèn tín hiệu không nhấp nháy dùng cho sân bay; đèn dùng cho phương tiện giao thông đường sắt, đầu máy, tàu thủy, phương tiện bay, hoặc hải đăng, bằng kim loại cơ bản",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054240": {
+    "hs": "94054240",
+    "ten": "- - - Đèn báo hiệu dùng cho thiết bị nhiệt điện gia dụng thuộc nhóm 85.16",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054250": {
+    "hs": "94054250",
+    "ten": "- - - Loại khác, được sử dụng ở nơi công cộng hoặc đường phố lớn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054260": {
+    "hs": "94054260",
+    "ten": "- - - Loại chiếu sáng bên ngoài khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054290": {
+    "hs": "94054290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054910": {
+    "hs": "94054910",
+    "ten": "- - - Đèn pha",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054920": {
+    "hs": "94054920",
+    "ten": "- - - Đèn rọi khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054930": {
+    "hs": "94054930",
+    "ten": "- - - Đèn tín hiệu không nhấp nháy dùng cho sân bay; đèn dùng cho phương tiện giao thông đường sắt, đầu máy, tàu thủy, phương tiện bay, hoặc hải đăng, bằng kim loại cơ bản",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054940": {
+    "hs": "94054940",
+    "ten": "- - - Đèn báo hiệu dùng cho thiết bị nhiệt điện gia dụng thuộc nhóm 85.16",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054950": {
+    "hs": "94054950",
+    "ten": "- - - Loại khác, được sử dụng ở nơi công cộng hoặc đường phố lớn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054960": {
+    "hs": "94054960",
+    "ten": "- - - Loại chiếu sáng bên ngoài khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94054990": {
+    "hs": "94054990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94055011": {
+    "hs": "94055011",
+    "ten": "- - - Bằng đồng sử dụng trong nghi lễ tôn giáo",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94055019": {
+    "hs": "94055019",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94055040": {
+    "hs": "94055040",
+    "ten": "- - Đèn bão",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94055050": {
+    "hs": "94055050",
+    "ten": "- - Đèn thợ mỏ và đèn thợ khai thác đá",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94055090": {
+    "hs": "94055090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94056110": {
+    "hs": "94056110",
+    "ten": "- - - Biển cảnh báo, biển tên đường phố, biển báo giao thông và đường bộ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94056190": {
+    "hs": "94056190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94056910": {
+    "hs": "94056910",
+    "ten": "- - - Biển cảnh báo, biển tên đường phố, biển báo giao thông và đường bộ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94056990": {
+    "hs": "94056990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059110": {
+    "hs": "94059110",
+    "ten": "- - - Dùng cho đèn phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059120": {
+    "hs": "94059120",
+    "ten": "- - - Dùng cho đèn rọi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059140": {
+    "hs": "94059140",
+    "ten": "- - - Chao đèn hình cầu hoặc thông phong đèn",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059150": {
+    "hs": "94059150",
+    "ten": "- - - Dùng cho đèn pha",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059190": {
+    "hs": "94059190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059210": {
+    "hs": "94059210",
+    "ten": "- - - Dùng cho đèn phòng mổ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059220": {
+    "hs": "94059220",
+    "ten": "- - - Dùng cho đèn rọi",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059230": {
+    "hs": "94059230",
+    "ten": "- - - Dùng cho đèn pha",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059290": {
+    "hs": "94059290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059910": {
+    "hs": "94059910",
+    "ten": "- - - Chụp đèn bằng vật liệu dệt",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059920": {
+    "hs": "94059920",
+    "ten": "- - - Chụp đèn bằng vật liệu khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059930": {
+    "hs": "94059930",
+    "ten": "- - - Của đèn thuộc phân nhóm 9405.50.11 hoặc 9405.50.19",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059940": {
+    "hs": "94059940",
+    "ten": "- - - Dùng cho đèn pha hoặc đèn rọi ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059950": {
+    "hs": "94059950",
+    "ten": "- - - Loại khác, bằng gốm, sứ hoặc kim loại",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "94059990": {
+    "hs": "94059990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  }
+}

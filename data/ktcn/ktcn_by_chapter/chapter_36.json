@@ -1,0 +1,354 @@
+{
+  "36010000": {
+    "hs": "36010000",
+    "ten": "Bột nổ đẩy",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  },
+  "36020000": {
+    "hs": "36020000",
+    "ten": "Thuốc nổ đã điều chế, trừ bột nổ đẩy",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Hóa chất phải khai báo",
+        "van_ban": "113/2017/NĐ-CP",
+        "danh_muc": "PL5",
+        "co_quan": "BCT",
+        "loai": "hoa_chat",
+        "tier": 2,
+        "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+        "don_vi": "Cục Hóa chất"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36031000": {
+    "hs": "36031000",
+    "ten": "- Dây cháy chậm",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36032000": {
+    "hs": "36032000",
+    "ten": "- Dây nổ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36033000": {
+    "hs": "36033000",
+    "ten": "- Nụ xòe",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36034000": {
+    "hs": "36034000",
+    "ten": "- Kíp nổ",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36035000": {
+    "hs": "36035000",
+    "ten": "- Bộ phận đánh lửa",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36036000": {
+    "hs": "36036000",
+    "ten": "- Kíp nổ điện",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BCT",
+      "BQP",
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      },
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      },
+      {
+        "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+        "van_ban": "1182/QĐ-BCT",
+        "danh_muc": "PL1",
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  },
+  "36041000": {
+    "hs": "36041000",
+    "ten": "- Pháo hoa",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Pháo hoa, pháo nổ thuộc quản lý của BCA",
+        "van_ban": "125/2021/TT-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": null,
+        "tier": 3
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  }
+}

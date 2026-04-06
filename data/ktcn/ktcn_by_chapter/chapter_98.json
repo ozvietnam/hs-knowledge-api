@@ -1,0 +1,22 @@
+{
+  "98110010": {
+    "hs": "98110010",
+    "ten": "- Thép hợp kim có chứa nguyên tố Bo và/hoặc Crôm và/hoặc Titan trừ chủng loại thép cán phẳng được cán nóng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Áp thuế tự vệ đối với Phôi thép và thép dài (Nhiều nước)",
+        "van_ban": "691/QĐ-BCT",
+        "danh_muc": null,
+        "co_quan": "BCT",
+        "loai": "attp_bct",
+        "tier": 4,
+        "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+        "don_vi": "Vụ Khoa học Công nghệ"
+      }
+    ]
+  }
+}

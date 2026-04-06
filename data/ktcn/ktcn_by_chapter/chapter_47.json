@@ -1,0 +1,62 @@
+{
+  "47071000": {
+    "hs": "47071000",
+    "ten": "- Giấy kraft hoặc bìa kraft hoặc giấy hoặc bìa sóng, chưa tẩy trắng",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+        "van_ban": "13/2023/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "47072000": {
+    "hs": "47072000",
+    "ten": "- Giấy hoặc bìa khác được làm chủ yếu bằng bột giấy thu được từ quá trình hóa học đã tẩy trắng, chưa nhuộm màu toàn bộ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+        "van_ban": "13/2023/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "47073000": {
+    "hs": "47073000",
+    "ten": "- Giấy hoặc bìa được làm chủ yếu bằng bột giấy thu được từ quá trình cơ học (ví dụ, giấy in báo, tạp chí và các ấn phẩm tương tự) ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+        "van_ban": "13/2023/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  }
+}

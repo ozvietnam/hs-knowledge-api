@@ -1,0 +1,1891 @@
+{
+  "01012100": {
+    "hs": "01012100",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01012900": {
+    "hs": "01012900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01013010": {
+    "hs": "01013010",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01013090": {
+    "hs": "01013090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01019000": {
+    "hs": "01019000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01022100": {
+    "hs": "01022100",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01022911": {
+    "hs": "01022911",
+    "ten": "- - - - Bò thiến (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01022919": {
+    "hs": "01022919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01022990": {
+    "hs": "01022990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01023100": {
+    "hs": "01023100",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01023900": {
+    "hs": "01023900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01029010": {
+    "hs": "01029010",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01029090": {
+    "hs": "01029090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01031000": {
+    "hs": "01031000",
+    "ten": "- Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01039100": {
+    "hs": "01039100",
+    "ten": "- - Khối lượng dưới 50 kg",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01039200": {
+    "hs": "01039200",
+    "ten": "- - Khối lượng từ 50 kg trở lên",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01041010": {
+    "hs": "01041010",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01041090": {
+    "hs": "01041090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01042010": {
+    "hs": "01042010",
+    "ten": "- - Loại thuần chủng để nhân giống",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01042090": {
+    "hs": "01042090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051110": {
+    "hs": "01051110",
+    "ten": "- - - Để nhân giống (SEN)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051190": {
+    "hs": "01051190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051210": {
+    "hs": "01051210",
+    "ten": "- - - Để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051290": {
+    "hs": "01051290",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051310": {
+    "hs": "01051310",
+    "ten": "- - - Để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051390": {
+    "hs": "01051390",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051410": {
+    "hs": "01051410",
+    "ten": "- - - Để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051490": {
+    "hs": "01051490",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051510": {
+    "hs": "01051510",
+    "ten": "- - - Để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01051590": {
+    "hs": "01051590",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059410": {
+    "hs": "01059410",
+    "ten": "- - - Để nhân giống (SEN), trừ gà chọi",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059441": {
+    "hs": "01059441",
+    "ten": "- - - - Khối lượng không quá 2 kg",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059449": {
+    "hs": "01059449",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059491": {
+    "hs": "01059491",
+    "ten": "- - - - Khối lượng không quá 2 kg",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059499": {
+    "hs": "01059499",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M3",
+        "co_quan": "BNNPTNT",
+        "loai": "thuy_san",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thủy sản và sản phẩm thủy sản",
+        "don_vi": "Cục Thú y (phối hợp Tổng cục Thủy sản)"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059910": {
+    "hs": "01059910",
+    "ten": "- - - Vịt, ngan để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059920": {
+    "hs": "01059920",
+    "ten": "- - - Vịt, ngan loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059930": {
+    "hs": "01059930",
+    "ten": "- - - Ngỗng, gà tây và gà lôi để nhân giống (SEN)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01059940": {
+    "hs": "01059940",
+    "ten": "- - - Ngỗng, gà tây và gà lôi loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061100": {
+    "hs": "01061100",
+    "ten": "- - Bộ động vật linh trưởng",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061210": {
+    "hs": "01061210",
+    "ten": "- - - Cá voi, cá heo chuột và cá heo (động vật có vú thuộc bộ cá voi Cetacea); lợn biển và cá nược (động vật có vú thuộc bộ Sirenia)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật thủy sản phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M5",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Loài thủy sản cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M8",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061220": {
+    "hs": "01061220",
+    "ten": "- - - Hải cẩu, sư tử biển và hải mã (con moóc) (động vật có vú thuộc phân bộ Pinnipedia)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật thủy sản phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M5",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Loài thủy sản cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M8",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061300": {
+    "hs": "01061300",
+    "ten": "- - Lạc đà và họ lạc đà (Camelidae)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061400": {
+    "hs": "01061400",
+    "ten": "- - Thỏ (Rabbits và hares)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01061900": {
+    "hs": "01061900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật thủy sản phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M5",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01062000": {
+    "hs": "01062000",
+    "ten": "- Loài bò sát (kể cả rắn và rùa)",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật thủy sản phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M5",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Loài thủy sản cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M8",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01063100": {
+    "hs": "01063100",
+    "ten": "- - Chim săn mồi ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01063200": {
+    "hs": "01063200",
+    "ten": "- - Vẹt (kể cả vẹt lớn châu Mỹ (parrots), vẹt nhỏ đuôi dài (parakeets), vẹt đuôi dài và vẹt có mào)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01063300": {
+    "hs": "01063300",
+    "ten": "- - Đà điểu; đà điểu châu Úc (Dromaius novaehollandiae)",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01063900": {
+    "hs": "01063900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01064100": {
+    "hs": "01064100",
+    "ten": "- - Các loại ong",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Giống vật nuôi cần bảo tồn",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M4",
+        "co_quan": "BNNPTNT",
+        "loai": "giong_vat_nuoi",
+        "tier": 3,
+        "loai_ten": "Giống vật nuôi cần bảo tồn",
+        "don_vi": "Cục Chăn nuôi"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01064900": {
+    "hs": "01064900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  },
+  "01069000": {
+    "hs": "01069000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BNNPTNT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH là mẫu vật động vật rừng nguy cấp, quý, hiếm và động vật thuộc các phụ lụcCITES",
+        "van_ban": "17/2023/TT-BNNPTNT",
+        "danh_muc": null,
+        "co_quan": "BNNPTNT",
+        "loai": "lam_san_cites",
+        "tier": 3,
+        "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+        "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M1",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_dong_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+        "don_vi": "Cục Thú y"
+      },
+      {
+        "mo_ta": "Động vật, sản phẩm động vật thủy sản phải kiểm dịch",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M5",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Loài thủy sản cấm XK",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M8",
+        "co_quan": "BNNPTNT",
+        "loai": "kiem_dich_thuc_vat",
+        "tier": 3,
+        "loai_ten": "Kiểm dịch thực vật",
+        "don_vi": "Cục Bảo vệ thực vật"
+      },
+      {
+        "mo_ta": "Kiểm dịch thực vật",
+        "van_ban": "01/2024/TT-BNNPTNT",
+        "danh_muc": "M9",
+        "co_quan": "BNNPTNT",
+        "loai": "thuc_an_chan_nuoi",
+        "tier": 3,
+        "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+        "don_vi": "Cục Chăn nuôi"
+      }
+    ],
+    "reg_flags": {
+      "kiem_dich": true
+    }
+  }
+}

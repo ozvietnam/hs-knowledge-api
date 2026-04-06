@@ -1,0 +1,1170 @@
+{
+  "90041000": {
+    "hs": "90041000",
+    "ten": "- Kính râm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.I",
+        "co_quan": "BCT",
+        "loai": "hang_tieu_dung",
+        "tier": 3,
+        "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+        "don_vi": "Cục Xuất nhập khẩu"
+      },
+      {
+        "mo_ta": "HH tạm ngừng KD TNTX CK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL2",
+        "co_quan": "BCT",
+        "loai": "tam_ngung_kd",
+        "tier": 3,
+        "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+        "don_vi": "Cục Xuất nhập khẩu"
+      }
+    ]
+  },
+  "90049050": {
+    "hs": "90049050",
+    "ten": "- - Kính bảo hộ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      }
+    ]
+  },
+  "90151090": {
+    "hs": "90151090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90181100": {
+    "hs": "90181100",
+    "ten": "- - Thiết bị điện tim",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90181200": {
+    "hs": "90181200",
+    "ten": "- - Thiết bị siêu âm",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90181300": {
+    "hs": "90181300",
+    "ten": "- - Thiết bị chụp cộng hưởng từ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90181400": {
+    "hs": "90181400",
+    "ten": "- - Thiết bị ghi biểu đồ nhấp nháy",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90181900": {
+    "hs": "90181900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90182000": {
+    "hs": "90182000",
+    "ten": "- Thiết bị tia cực tím hoặc tia hồng ngoại",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90183110": {
+    "hs": "90183110",
+    "ten": "- - - Bơm tiêm dùng một lần",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90183190": {
+    "hs": "90183190",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90183200": {
+    "hs": "90183200",
+    "ten": "- - Kim tiêm bằng kim loại và kim khâu vết thương",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90183910": {
+    "hs": "90183910",
+    "ten": "- - - Ống thông",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90183990": {
+    "hs": "90183990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90184100": {
+    "hs": "90184100",
+    "ten": "- - Khoan dùng trong nha khoa, có hoặc không gắn liền cùng một giá đỡ với thiết bị nha khoa khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90184900": {
+    "hs": "90184900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90185000": {
+    "hs": "90185000",
+    "ten": "- Thiết bị và dụng cụ nhãn khoa khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90189010": {
+    "hs": "90189010",
+    "ten": "- - Đèn sợi quang loại dùng đeo trên đầu, được thiết kế dùng trong y học(SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90189020": {
+    "hs": "90189020",
+    "ten": "- - Bộ theo dõi tĩnh mạch ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90189031": {
+    "hs": "90189031",
+    "ten": "- - - Dụng cụ và thiết bị phẫu thuật điện tử hoặc y học điện tử",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90189039": {
+    "hs": "90189039",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90189090": {
+    "hs": "90189090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90191010": {
+    "hs": "90191010",
+    "ten": "- - Hoạt động bằng điện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90191090": {
+    "hs": "90191090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90192010": {
+    "hs": "90192010",
+    "ten": "- - Máy trợ thở xâm lấn (SEN)",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90192020": {
+    "hs": "90192020",
+    "ten": "- - Máy trợ thở khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90192090": {
+    "hs": "90192090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90200010": {
+    "hs": "90200010",
+    "ten": "- Mặt nạ khuôn mặt (full face) chống hóa học, sinh học, phóng xạ và hạt nhân (CBRN) ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA",
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH có khả năng gây mất an toàn",
+        "van_ban": "6266/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "90200090": {
+    "hs": "90200090",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCA",
+      "BCT",
+      "BLDTBXH"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      },
+      {
+        "mo_ta": "DM SPHH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      },
+      {
+        "mo_ta": "SPHH phải KTNN về CL khi NK",
+        "van_ban": "01/2021/TT-BLĐTBXH",
+        "danh_muc": null,
+        "co_quan": "BLDTBXH",
+        "loai": "an_toan_lao_dong",
+        "tier": 3,
+        "loai_ten": "An toàn lao động — kiểm tra nhà nước về chất lượng",
+        "don_vi": "Cục An toàn Lao động"
+      },
+      {
+        "mo_ta": "SP HH nhóm 2",
+        "van_ban": "9981/QĐ-BCA",
+        "danh_muc": null,
+        "co_quan": "BCA",
+        "loai": "chat_luong_nhom_2_bca",
+        "tier": 4,
+        "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+        "don_vi": "Cục Cảnh sát PCCC&CNCH"
+      }
+    ]
+  },
+  "90211010": {
+    "hs": "90211010",
+    "ten": "- - Bằng sắt hoặc thép",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90211090": {
+    "hs": "90211090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90212100": {
+    "hs": "90212100",
+    "ten": "- - Răng giả",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90212910": {
+    "hs": "90212910",
+    "ten": "- - - Bằng sắt hoặc thép",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90212920": {
+    "hs": "90212920",
+    "ten": "- - - Bằng titan",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90212990": {
+    "hs": "90212990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90213100": {
+    "hs": "90213100",
+    "ten": "- - Khớp giả",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90213900": {
+    "hs": "90213900",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90214000": {
+    "hs": "90214000",
+    "ten": "- Thiết bị trợ thính, trừ các bộ phận và phụ kiện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90215000": {
+    "hs": "90215000",
+    "ten": "- Thiết bị điều hòa nhịp tim dùng cho việc kích thích cơ tim, trừ các bộ phận và phụ kiện",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90219000": {
+    "hs": "90219000",
+    "ten": "- Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90221200": {
+    "hs": "90221200",
+    "ten": "- - Thiết bị chụp cắt lớp điều khiển bằng máy tính",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90221300": {
+    "hs": "90221300",
+    "ten": "- - Loại khác, sử dụng trong nha khoa",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90221400": {
+    "hs": "90221400",
+    "ten": "- - Loại khác, sử dụng cho mục đích y học, phẫu thuật hoặc thú y",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90221910": {
+    "hs": "90221910",
+    "ten": "- - - Thiết bị sử dụng tia X để kiểm tra vật lý các điểm hàn nối trên tấm mạch in/tấm dây in ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90221990": {
+    "hs": "90221990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90222100": {
+    "hs": "90222100",
+    "ten": "- - Dùng cho mục đích y học, phẫu thuật, nha khoa hoặc thú y",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90222900": {
+    "hs": "90222900",
+    "ten": "- - Dùng cho các mục đích khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90223000": {
+    "hs": "90223000",
+    "ten": "- Ống phát tia X",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90229010": {
+    "hs": "90229010",
+    "ten": "- - Bộ phận và phụ kiện của thiết bị sử dụng tia X để kiểm tra vật lý các điểm hàn nối trên mạch in đã lắp ráp ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90229020": {
+    "hs": "90229020",
+    "ten": "- - Bộ phận và phụ kiện của thiết bị khác sử dụng tia X",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90229090": {
+    "hs": "90229090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BCT"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "TB y tế QSD cấp NK",
+        "van_ban": "08/2023/TT-BCT",
+        "danh_muc": "PL1.III",
+        "co_quan": "BCT",
+        "loai": null,
+        "tier": 3
+      }
+    ]
+  },
+  "90251919": {
+    "hs": "90251919",
+    "ten": "- - - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90258000": {
+    "hs": "90258000",
+    "ten": "- Dụng cụ khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90278990": {
+    "hs": "90278990",
+    "ten": "- - - Loại khác",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "SPHH lĩnh vực CNTT và VT bắt buộc phải chứng nhận hợp quy và công bố hợp quy",
+        "van_ban": "29/2025/TT-BKHCN",
+        "danh_muc": "PL1",
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 3,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90281090": {
+    "hs": "90281090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phương tiện đo phải kiểm tra nhà nước về đo lường khi NK",
+        "van_ban": "2284/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90282020": {
+    "hs": "90282020",
+    "ten": "- - Công tơ nước",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phương tiện đo phải kiểm tra nhà nước về đo lường khi NK",
+        "van_ban": "2284/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90282090": {
+    "hs": "90282090",
+    "ten": "- - Loại khác",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phương tiện đo phải kiểm tra nhà nước về đo lường khi NK",
+        "van_ban": "2284/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90283010": {
+    "hs": "90283010",
+    "ten": "- - Máy đếm ki-lô-oát giờ ",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phương tiện đo phải kiểm tra nhà nước về đo lường khi NK",
+        "van_ban": "2284/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  },
+  "90291020": {
+    "hs": "90291020",
+    "ten": "- - Máy đếm cây số để tính tiền taxi",
+    "muc_canh_bao": "ORANGE",
+    "co_quan": [
+      "BKHCN"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Phương tiện đo phải kiểm tra nhà nước về đo lường khi NK",
+        "van_ban": "2284/QĐ-BKHCN",
+        "danh_muc": null,
+        "co_quan": "BKHCN",
+        "loai": "chat_luong_nhom_2",
+        "tier": 4,
+        "loai_ten": "Hàng hóa nhóm 2 (kiểm tra chất lượng)",
+        "don_vi": "Tổng cục Tiêu chuẩn Đo lường Chất lượng"
+      }
+    ]
+  }
+}

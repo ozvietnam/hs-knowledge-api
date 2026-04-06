@@ -1,0 +1,142 @@
+{
+  "89011010": {
+    "hs": "89011010",
+    "ten": "- - Tổng dung tích (gross tonnage) không quá 26 ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89011020": {
+    "hs": "89011020",
+    "ten": "- - Tổng dung tích (gross tonnage) trên 26 nhưng không quá 500 ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89011060": {
+    "hs": "89011060",
+    "ten": "- - Tổng dung tích (gross tonnage) trên 500 nhưng không quá 1.000 ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89011070": {
+    "hs": "89011070",
+    "ten": "- - Tổng dung tích (gross tonnage) trên 1.000 nhưng không quá 4.000 ",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89011080": {
+    "hs": "89011080",
+    "ten": "- - Tổng dung tích (gross tonnage) trên 4.000 nhưng không quá 5.000",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89011090": {
+    "hs": "89011090",
+    "ten": "- - Tổng dung tích (gross tonnage) trên 5.000",
+    "muc_canh_bao": "YELLOW",
+    "co_quan": [
+      "TTg"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+        "van_ban": "23/2019/QĐ-TTg",
+        "danh_muc": null,
+        "co_quan": "TTg",
+        "loai": "thu_tuc_ck_nhap",
+        "tier": 4,
+        "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+        "don_vi": "Tổng cục Hải quan"
+      }
+    ]
+  },
+  "89061000": {
+    "hs": "89061000",
+    "ten": "- Tàu chiến",
+    "muc_canh_bao": "RED",
+    "co_quan": [
+      "BQP"
+    ],
+    "ktcn": [
+      {
+        "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+        "van_ban": "173/2018/TT-BQP",
+        "danh_muc": null,
+        "co_quan": "BQP",
+        "loai": "cam_xnk_bqp",
+        "tier": 3,
+        "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+        "don_vi": "Bộ Tổng Tham mưu"
+      }
+    ]
+  }
+}
