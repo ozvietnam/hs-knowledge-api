@@ -1,0 +1,473 @@
+{
+  "nodes": [
+    {
+      "id": "L01",
+      "label": "54/2014/QH13",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L02",
+      "label": "107/2016/QH13",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L03",
+      "label": "05/2017/QH14",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L04",
+      "label": "05/2007/QH12",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L05",
+      "label": "55/2010/QH12",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L06",
+      "label": "79/2015/QH13",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L07",
+      "label": "41/2013/QH13",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L08",
+      "label": "36/2005/QH11",
+      "type": "Luat",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "L_old1",
+      "label": "29/2001/QH10",
+      "type": "Luat",
+      "status": "het_hieu_luc"
+    },
+    {
+      "id": "L_old2",
+      "label": "42/2005/QH11",
+      "type": "Luat",
+      "status": "het_hieu_luc"
+    },
+    {
+      "id": "L_old3",
+      "label": "45/2005/QH11",
+      "type": "Luat",
+      "status": "het_hieu_luc"
+    },
+    {
+      "id": "ND01",
+      "label": "08/2015/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND02",
+      "label": "59/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND03",
+      "label": "85/2019/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND04",
+      "label": "128/2020/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND05",
+      "label": "18/2021/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND06",
+      "label": "57/2020/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND07",
+      "label": "69/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND08",
+      "label": "187/2013/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND09",
+      "label": "31/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND10",
+      "label": "15/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND11",
+      "label": "132/2008/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND12",
+      "label": "74/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND13",
+      "label": "43/2017/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND14",
+      "label": "154/2018/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND_new1",
+      "label": "46/2026/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "tam_ngung"
+    },
+    {
+      "id": "ND_new2",
+      "label": "NQ 09/2026",
+      "type": "Nghi quyet",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "ND_old1",
+      "label": "154/2005/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "het_hieu_luc"
+    },
+    {
+      "id": "ND_old2",
+      "label": "125/2017/NĐ-CP",
+      "type": "Nghi dinh",
+      "status": "het_hieu_luc"
+    },
+    {
+      "id": "TT01",
+      "label": "38/2015/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT02",
+      "label": "39/2018/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT03",
+      "label": "31/2022/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT04",
+      "label": "33/2023/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT05",
+      "label": "14/2015/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT06",
+      "label": "38/2018/TT-BTC",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT07",
+      "label": "01/2024/TT-BNNPTNT",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT08",
+      "label": "15/2018/TT-BNNPTNT",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT09",
+      "label": "12/2018/TT-BCT",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT10",
+      "label": "22/2018/TT-BLĐTBXH",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "TT11",
+      "label": "41/2018/TT-BGTVT",
+      "type": "Thong tu",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "QC01",
+      "label": "QCVN 27:2016/BLĐTBXH",
+      "type": "QCVN",
+      "status": "hieu_luc"
+    },
+    {
+      "id": "QC02",
+      "label": "QCVN 28:2016/BLĐTBXH",
+      "type": "QCVN",
+      "status": "hieu_luc"
+    }
+  ],
+  "edges": [
+    {
+      "from": "L01",
+      "to": "ND01",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L01",
+      "to": "ND02",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L01",
+      "to": "ND03",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L01",
+      "to": "ND04",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L01",
+      "to": "L_old1",
+      "type": "thay_the_cho"
+    },
+    {
+      "from": "L01",
+      "to": "L_old2",
+      "type": "thay_the_cho"
+    },
+    {
+      "from": "L02",
+      "to": "ND05",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L02",
+      "to": "ND06",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L02",
+      "to": "L_old3",
+      "type": "thay_the_cho"
+    },
+    {
+      "from": "L03",
+      "to": "ND07",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L03",
+      "to": "ND08",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L03",
+      "to": "ND09",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L04",
+      "to": "ND11",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L04",
+      "to": "ND12",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L05",
+      "to": "ND10",
+      "type": "huong_dan_boi"
+    },
+    {
+      "from": "L_old1",
+      "to": "L01",
+      "type": "bi_thay_the_boi"
+    },
+    {
+      "from": "L_old2",
+      "to": "L01",
+      "type": "bi_thay_the_boi"
+    },
+    {
+      "from": "L_old3",
+      "to": "L02",
+      "type": "bi_thay_the_boi"
+    },
+    {
+      "from": "ND01",
+      "to": "L01",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND01",
+      "to": "ND02",
+      "type": "sua_doi_boi"
+    },
+    {
+      "from": "ND01",
+      "to": "ND_old1",
+      "type": "thay_the_cho"
+    },
+    {
+      "from": "ND02",
+      "to": "ND01",
+      "type": "sua_doi_cho"
+    },
+    {
+      "from": "ND03",
+      "to": "L01",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND04",
+      "to": "L01",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND05",
+      "to": "L02",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND05",
+      "to": "ND_old2",
+      "type": "thay_the_cho"
+    },
+    {
+      "from": "ND06",
+      "to": "L02",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND07",
+      "to": "L03",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND08",
+      "to": "L08",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND09",
+      "to": "L03",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND10",
+      "to": "L05",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND11",
+      "to": "L04",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "ND11",
+      "to": "ND12",
+      "type": "sua_doi_boi"
+    },
+    {
+      "from": "ND12",
+      "to": "ND11",
+      "type": "sua_doi_cho"
+    },
+    {
+      "from": "ND_new1",
+      "to": "ND_new2",
+      "type": "tam_ngung_boi"
+    },
+    {
+      "from": "ND_old1",
+      "to": "ND01",
+      "type": "bi_thay_the_boi"
+    },
+    {
+      "from": "ND_old2",
+      "to": "ND05",
+      "type": "bi_thay_the_boi"
+    },
+    {
+      "from": "TT01",
+      "to": "ND01",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "TT01",
+      "to": "TT02",
+      "type": "sua_doi_boi"
+    },
+    {
+      "from": "TT02",
+      "to": "TT01",
+      "type": "sua_doi_cho"
+    },
+    {
+      "from": "TT03",
+      "to": "ND05",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "TT06",
+      "to": "ND09",
+      "type": "huong_dan_cho"
+    },
+    {
+      "from": "TT09",
+      "to": "ND07",
+      "type": "huong_dan_cho"
+    }
+  ]
+}

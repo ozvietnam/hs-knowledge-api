@@ -1,0 +1,663 @@
+[
+  {
+    "id": "L01",
+    "so_hieu": "54/2014/QH13",
+    "ten": "Luật Hải quan",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2014-06-23",
+    "ngay_hl": "2015-01-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "hải quan",
+      "thủ tục",
+      "thông quan",
+      "kiểm tra",
+      "giám sát"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/54-2014-qh13-luat-hai-quan/"
+  },
+  {
+    "id": "L02",
+    "so_hieu": "107/2016/QH13",
+    "ten": "Luật Thuế xuất khẩu, thuế nhập khẩu",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2016-04-06",
+    "ngay_hl": "2016-09-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "thuế XNK",
+      "biểu thuế",
+      "thuế suất"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/107-2016-qh13-luat-thue-xuat-khau-thue-nhap-khau/"
+  },
+  {
+    "id": "L03",
+    "so_hieu": "05/2017/QH14",
+    "ten": "Luật Quản lý ngoại thương",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2017-06-12",
+    "ngay_hl": "2018-01-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "ngoại thương",
+      "giấy phép",
+      "xuất nhập khẩu"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/05-2017-qh14-luat-quan-ly-ngoai-thuong/"
+  },
+  {
+    "id": "L04",
+    "so_hieu": "05/2007/QH12",
+    "ten": "Luật Chất lượng sản phẩm, hàng hóa",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2007-11-21",
+    "ngay_hl": "2008-07-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "chất lượng",
+      "hợp quy",
+      "KTCN",
+      "tiêu chuẩn"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/05-2007-qh12-luat-chat-luong-san-pham-hang-hoa/"
+  },
+  {
+    "id": "L05",
+    "so_hieu": "55/2010/QH12",
+    "ten": "Luật An toàn thực phẩm",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2010-06-17",
+    "ngay_hl": "2011-07-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "ATTP",
+      "thực phẩm",
+      "vệ sinh"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/55-2010-qh12-luat-an-toan-thuc-pham/"
+  },
+  {
+    "id": "L06",
+    "so_hieu": "79/2015/QH13",
+    "ten": "Luật Thú y",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2015-06-19",
+    "ngay_hl": "2016-07-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "thú y",
+      "kiểm dịch",
+      "động vật"
+    ],
+    "wp_url": "https://uythacnhapkhau.com/van-ban/79-2015-qh13-luat-thu-y/"
+  },
+  {
+    "id": "L07",
+    "so_hieu": "41/2013/QH13",
+    "ten": "Luật Bảo vệ và Kiểm dịch thực vật",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2013-11-25",
+    "ngay_hl": "2015-01-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "kiểm dịch",
+      "thực vật",
+      "bảo vệ"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "L08",
+    "so_hieu": "36/2005/QH11",
+    "ten": "Luật Thương mại",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2005-06-14",
+    "ngay_hl": "2006-01-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "thương mại",
+      "mua bán",
+      "hợp đồng"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "L_old1",
+    "so_hieu": "29/2001/QH10",
+    "ten": "Luật Hải quan 2001",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2001-06-29",
+    "ngay_hl": "2002-01-01",
+    "trang_thai": "het_hieu_luc",
+    "tags": [
+      "hải quan",
+      "lịch sử"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "L_old2",
+    "so_hieu": "42/2005/QH11",
+    "ten": "Luật sửa đổi bổ sung Luật Hải quan",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2005-06-14",
+    "ngay_hl": "2006-01-01",
+    "trang_thai": "het_hieu_luc",
+    "tags": [
+      "hải quan",
+      "sửa đổi",
+      "lịch sử"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "L_old3",
+    "so_hieu": "45/2005/QH11",
+    "ten": "Luật Thuế xuất khẩu, thuế nhập khẩu 2005",
+    "loai": "Luat",
+    "co_quan": "Quốc hội",
+    "ngay_bh": "2005-06-14",
+    "ngay_hl": "2006-01-01",
+    "trang_thai": "het_hieu_luc",
+    "tags": [
+      "thuế",
+      "lịch sử"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND01",
+    "so_hieu": "08/2015/NĐ-CP",
+    "ten": "Quy định chi tiết Luật Hải quan về thủ tục hải quan",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2015-01-21",
+    "ngay_hl": "2015-03-15",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "thủ tục HQ",
+      "khai báo",
+      "thông quan"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND02",
+    "so_hieu": "59/2018/NĐ-CP",
+    "ten": "Sửa đổi bổ sung NĐ 08/2015 về thủ tục hải quan",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-04-20",
+    "ngay_hl": "2018-06-14",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "sửa đổi",
+      "thủ tục HQ"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND03",
+    "so_hieu": "85/2019/NĐ-CP",
+    "ten": "Quy định thực hiện thủ tục hành chính theo cơ chế một cửa quốc gia, một cửa ASEAN và KTCN",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2019-11-14",
+    "ngay_hl": "2020-01-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "một cửa",
+      "KTCN",
+      "ASEAN"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND04",
+    "so_hieu": "128/2020/NĐ-CP",
+    "ten": "Xử phạt vi phạm hành chính trong lĩnh vực hải quan",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2020-10-19",
+    "ngay_hl": "2020-12-10",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "xử phạt",
+      "vi phạm",
+      "hải quan"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND05",
+    "so_hieu": "18/2021/NĐ-CP",
+    "ten": "Sửa đổi biểu thuế xuất khẩu, nhập khẩu ưu đãi",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2021-03-11",
+    "ngay_hl": "2021-03-11",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "biểu thuế",
+      "thuế suất",
+      "MFN"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND06",
+    "so_hieu": "57/2020/NĐ-CP",
+    "ten": "Sửa đổi bổ sung biểu thuế xuất nhập khẩu",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2020-05-25",
+    "ngay_hl": "2020-07-10",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "biểu thuế",
+      "sửa đổi"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND07",
+    "so_hieu": "69/2018/NĐ-CP",
+    "ten": "Quy định chi tiết Luật Quản lý ngoại thương",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-05-15",
+    "ngay_hl": "2018-07-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "ngoại thương",
+      "giấy phép"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND08",
+    "so_hieu": "187/2013/NĐ-CP",
+    "ten": "Quy định chi tiết Luật Thương mại về mua bán hàng hóa quốc tế",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2013-11-20",
+    "ngay_hl": "2014-02-20",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "mua bán",
+      "quốc tế",
+      "ủy thác"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND09",
+    "so_hieu": "31/2018/NĐ-CP",
+    "ten": "Quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hóa",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-03-08",
+    "ngay_hl": "2018-03-08",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "xuất xứ",
+      "C/O",
+      "FTA"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND10",
+    "so_hieu": "15/2018/NĐ-CP",
+    "ten": "Quy định chi tiết Luật An toàn thực phẩm",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-02-02",
+    "ngay_hl": "2018-02-02",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "ATTP",
+      "tự công bố",
+      "đăng ký"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND11",
+    "so_hieu": "132/2008/NĐ-CP",
+    "ten": "Quy định chi tiết Luật Chất lượng sản phẩm hàng hóa",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2008-12-31",
+    "ngay_hl": "2009-02-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "chất lượng",
+      "hợp quy"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND12",
+    "so_hieu": "74/2018/NĐ-CP",
+    "ten": "Sửa đổi NĐ 132/2008 về chất lượng sản phẩm",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-05-15",
+    "ngay_hl": "2018-07-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "sửa đổi",
+      "chất lượng"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND13",
+    "so_hieu": "43/2017/NĐ-CP",
+    "ten": "Về nhãn hàng hóa",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2017-04-14",
+    "ngay_hl": "2017-06-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "nhãn mác",
+      "ghi nhãn",
+      "hàng hóa"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND14",
+    "so_hieu": "154/2018/NĐ-CP",
+    "ten": "Sửa đổi điều kiện kinh doanh trong lĩnh vực KTCN",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2018-11-09",
+    "ngay_hl": "2019-01-09",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "KTCN",
+      "điều kiện"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND_new1",
+    "so_hieu": "46/2026/NĐ-CP",
+    "ten": "Quy định mới về an toàn thực phẩm",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2026-03-01",
+    "ngay_hl": "2026-03-15",
+    "trang_thai": "tam_ngung",
+    "tags": [
+      "ATTP",
+      "mới",
+      "tạm ngưng"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND_new2",
+    "so_hieu": "NQ 09/2026",
+    "ten": "Nghị quyết tạm ngưng NĐ 46/2026 về ATTP",
+    "loai": "Nghi quyet",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2026-03-20",
+    "ngay_hl": "2026-03-20",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "tạm ngưng",
+      "ATTP"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND_old1",
+    "so_hieu": "154/2005/NĐ-CP",
+    "ten": "Thủ tục hải quan (cũ)",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2005-12-15",
+    "ngay_hl": null,
+    "trang_thai": "het_hieu_luc",
+    "tags": [
+      "lịch sử"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "ND_old2",
+    "so_hieu": "125/2017/NĐ-CP",
+    "ten": "Biểu thuế XNK (cũ)",
+    "loai": "Nghi dinh",
+    "co_quan": "Chính phủ",
+    "ngay_bh": "2017-11-16",
+    "ngay_hl": null,
+    "trang_thai": "het_hieu_luc",
+    "tags": [
+      "lịch sử",
+      "biểu thuế"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT01",
+    "so_hieu": "38/2015/TT-BTC",
+    "ten": "Quy định về thủ tục hải quan, kiểm tra giám sát hải quan, thuế XNK",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2015-03-25",
+    "ngay_hl": "2015-04-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "thủ tục HQ",
+      "nghiệp vụ",
+      "VNACCS"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT02",
+    "so_hieu": "39/2018/TT-BTC",
+    "ten": "Sửa đổi TT 38/2015 về thủ tục hải quan",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2018-04-20",
+    "ngay_hl": "2018-06-05",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "sửa đổi",
+      "thủ tục HQ"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT03",
+    "so_hieu": "31/2022/TT-BTC",
+    "ten": "Biểu thuế, bảng phân loại hàng hóa XNK",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2022-06-08",
+    "ngay_hl": "2022-08-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "biểu thuế",
+      "phân loại",
+      "HS code"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT04",
+    "so_hieu": "33/2023/TT-BTC",
+    "ten": "Quy định về trị giá hải quan",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2023-05-29",
+    "ngay_hl": "2023-07-15",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "trị giá",
+      "định giá"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT05",
+    "so_hieu": "14/2015/TT-BTC",
+    "ten": "Hướng dẫn về doanh nghiệp ưu tiên",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2015-01-30",
+    "ngay_hl": "2015-03-16",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "DN ưu tiên",
+      "AEO"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT06",
+    "so_hieu": "38/2018/TT-BTC",
+    "ten": "Quy định xác định xuất xứ hàng hóa XNK",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Tài chính",
+    "ngay_bh": "2018-04-20",
+    "ngay_hl": "2018-06-05",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "xuất xứ",
+      "C/O",
+      "FTA"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT07",
+    "so_hieu": "01/2024/TT-BNNPTNT",
+    "ten": "Danh mục hàng hóa KTCN thuộc BNNPTNT",
+    "loai": "Thong tu",
+    "co_quan": "Bộ NN&PTNT",
+    "ngay_bh": "2024-01-15",
+    "ngay_hl": "2024-03-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "KTCN",
+      "nông nghiệp",
+      "kiểm dịch",
+      "danh mục"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT08",
+    "so_hieu": "15/2018/TT-BNNPTNT",
+    "ten": "Quy định về kiểm dịch động vật, ATTP",
+    "loai": "Thong tu",
+    "co_quan": "Bộ NN&PTNT",
+    "ngay_bh": "2018-11-29",
+    "ngay_hl": "2019-01-15",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "kiểm dịch",
+      "ATTP",
+      "động vật"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT09",
+    "so_hieu": "12/2018/TT-BCT",
+    "ten": "Quy định chi tiết Luật Quản lý ngoại thương",
+    "loai": "Thong tu",
+    "co_quan": "Bộ Công thương",
+    "ngay_bh": "2018-06-15",
+    "ngay_hl": "2018-08-01",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "ngoại thương",
+      "danh mục",
+      "cấm hạn chế"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT10",
+    "so_hieu": "22/2018/TT-BLĐTBXH",
+    "ten": "Danh mục sản phẩm hàng hóa nhóm 2 thuộc trách nhiệm quản lý của BLĐTBXH",
+    "loai": "Thong tu",
+    "co_quan": "Bộ LĐ-TB&XH",
+    "ngay_bh": "2018-12-06",
+    "ngay_hl": "2019-01-18",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "nhóm 2",
+      "bảo hộ LĐ",
+      "ATLĐ"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "TT11",
+    "so_hieu": "41/2018/TT-BGTVT",
+    "ten": "Danh mục sản phẩm hàng hóa nhóm 2 thuộc trách nhiệm quản lý của BGTVT",
+    "loai": "Thong tu",
+    "co_quan": "Bộ GTVT",
+    "ngay_bh": "2018-07-30",
+    "ngay_hl": "2018-09-15",
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "nhóm 2",
+      "giao thông",
+      "phương tiện"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "QC01",
+    "so_hieu": "QCVN 27:2016/BLĐTBXH",
+    "ten": "Quy chuẩn quốc gia về phương tiện bảo vệ cá nhân — Phương tiện bảo vệ mắt",
+    "loai": "QCVN",
+    "co_quan": "Bộ LĐ-TB&XH",
+    "ngay_bh": "2016-12-30",
+    "ngay_hl": null,
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "QCVN",
+      "bảo hộ",
+      "mắt"
+    ],
+    "wp_url": null
+  },
+  {
+    "id": "QC02",
+    "so_hieu": "QCVN 28:2016/BLĐTBXH",
+    "ten": "Quy chuẩn quốc gia về phương tiện bảo vệ cá nhân — Phương tiện bảo vệ tay",
+    "loai": "QCVN",
+    "co_quan": "Bộ LĐ-TB&XH",
+    "ngay_bh": "2016-12-30",
+    "ngay_hl": null,
+    "trang_thai": "hieu_luc",
+    "tags": [
+      "QCVN",
+      "bảo hộ",
+      "tay"
+    ],
+    "wp_url": null
+  }
+]
