@@ -189,6 +189,20 @@ def run_pipeline(file_info):
     run_log['finished'] = time.strftime('%Y-%m-%d %H:%M:%S')
 
     write_report(file_info, run_log)
+
+    # Auto git commit + mobile brief
+    if run_log['success']:
+        try:
+            from orchestrator.git_reporter import auto_commit, build_mobile_brief, write_mobile_brief
+            label = f"data: pipeline {file_info['name']} merged"
+            sha = auto_commit(label)
+            if sha:
+                brief = build_mobile_brief(label=label)
+                write_mobile_brief(brief)
+                print(f"  📱 Mobile brief updated")
+        except Exception as e:
+            print(f"  ⚠️  Git reporter error: {e}")
+
     return run_log
 
 
