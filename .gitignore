@@ -1,4 +1,12 @@
 node_modules/
 .next/
 .vercel/
-data/kg/
+
+# Track data/kg/ nhưng bỏ qua file lớn
+data/vector_embeddings.json
+data/kg/vector_embeddings.json
+nohup*.log
+data/orchestrator_state.json
+data/system_status.json
+data/scheduler.log
+*.bak
