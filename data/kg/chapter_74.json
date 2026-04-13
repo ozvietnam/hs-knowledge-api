@@ -242,11 +242,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -511,11 +511,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -783,11 +783,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -1055,11 +1055,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -1334,11 +1334,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -1613,11 +1613,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -1896,11 +1896,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -2179,11 +2179,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -2458,11 +2458,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -2737,11 +2737,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -3016,11 +3016,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -3300,11 +3300,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -3569,11 +3569,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -3849,11 +3849,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -4129,11 +4129,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -4395,11 +4395,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -4665,11 +4665,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -4935,11 +4935,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -5216,11 +5216,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -5486,11 +5486,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -5768,11 +5768,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -6066,11 +6066,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -6384,11 +6384,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -6677,11 +6677,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -6974,11 +6974,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -7237,11 +7237,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -7482,11 +7482,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -7761,11 +7761,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -8046,11 +8046,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -8291,11 +8291,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -8530,11 +8530,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -8769,11 +8769,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -9008,11 +9008,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -9247,11 +9247,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -9486,11 +9486,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -9725,11 +9725,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -9964,11 +9964,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -10212,11 +10212,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -10460,11 +10460,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -10705,11 +10705,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -10950,11 +10950,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -11206,11 +11206,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -11477,11 +11477,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -11754,11 +11754,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -12031,11 +12031,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -12308,11 +12308,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -12555,11 +12555,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -12795,11 +12795,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -13035,11 +13035,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -13275,11 +13275,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -13539,11 +13539,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -13821,11 +13821,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -14103,11 +14103,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -14373,11 +14373,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -14646,11 +14646,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -14931,11 +14931,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -15216,11 +15216,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -15491,11 +15491,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -15773,11 +15773,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -16048,11 +16048,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -16323,11 +16323,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -16605,11 +16605,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -16925,11 +16925,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -17257,11 +17257,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -17589,11 +17589,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -17921,11 +17921,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -18191,11 +18191,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -18443,11 +18443,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -18695,11 +18695,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -18950,11 +18950,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -19205,11 +19205,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -19460,11 +19460,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -19715,11 +19715,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -19970,11 +19970,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -20225,11 +20225,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -20480,11 +20480,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -20766,11 +20766,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -21058,11 +21058,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
@@ -21350,11 +21350,11 @@
       "completeness": {
         "fact": true,
         "legal": true,
-        "regulatory": false,
+        "regulatory": true,
         "precedent": false,
         "conflict": true,
         "classification": false,
-        "cross_border": false,
+        "cross_border": true,
         "logistics": false,
         "ai": false
       },
