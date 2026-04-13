@@ -5,10 +5,24 @@ export const config = {
   api: { responseLimit: '8mb' },
 };
 
-// Production URL - static files served from CDN
-// Use production domain (not VERCEL_URL which points to preview/auth-protected URL)
+// CDN: public/kg/ served via GitHub raw (excluded from Vercel deployment to reduce size)
 const CDN_BASE = process.env.PRODUCTION_URL
-  || 'https://hs-knowledge-api.vercel.app';
+  || 'https://raw.githubusercontent.com/ozvietnam/hs-knowledge-api/main/public';
+
+// Module-level cache: avoids re-fetching the same chapter file within a warm instance
+const _chapterCache = new Map();
+
+async function fetchChapter(chapter) {
+  if (_chapterCache.has(chapter)) return _chapterCache.get(chapter);
+  const url = `${CDN_BASE}/kg/chapter_${chapter}.json`;
+  const headers = { 'User-Agent': 'hs-knowledge-api-internal' };
+  if (process.env.GITHUB_TOKEN) headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+  const res = await fetch(url, { headers });
+  if (!res.ok) throw new Error(`${res.status} ${url}`);
+  const data = await res.json();
+  _chapterCache.set(chapter, data);
+  return data;
+}
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -26,16 +40,12 @@ export default async function handler(req, res) {
   const chapter = String(parseInt(code.slice(0, 2))).padStart(2, '0');
 
   try {
-    const dataUrl = `${CDN_BASE}/kg/chapter_${chapter}.json`;
-    const response = await fetch(dataUrl, {
-      headers: { 'User-Agent': 'hs-knowledge-api-internal' }
-    });
-
-    if (!response.ok) {
-      return res.status(404).json({ error: `Chapter ${chapter} không tồn tại`, debug_url: dataUrl });
+    let chapterData;
+    try {
+      chapterData = await fetchChapter(chapter);
+    } catch {
+      return res.status(404).json({ error: `Chapter ${chapter} không tồn tại` });
     }
-
-    const chapterData = await response.json();
     let record = chapterData[code];
 
     // Prefix matching: if exact code not found (e.g. 04012000),

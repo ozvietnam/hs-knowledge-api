@@ -1,14 +1,25 @@
 // pages/api/stats.js
 const CDN_BASE = process.env.PRODUCTION_URL
-  || 'https://hs-knowledge-api.vercel.app';
+  || 'https://raw.githubusercontent.com/ozvietnam/hs-knowledge-api/main/public';
+
+const _cache = new Map();
+async function fetchJSON(urlPath) {
+  if (_cache.has(urlPath)) return _cache.get(urlPath);
+  const url = `${CDN_BASE}/${urlPath}`;
+  const headers = { 'User-Agent': 'hs-knowledge-api-internal' };
+  if (process.env.GITHUB_TOKEN) headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+  const res = await fetch(url, { headers });
+  if (!res.ok) throw new Error(`${res.status}`);
+  const data = await res.json();
+  _cache.set(urlPath, data);
+  return data;
+}
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
 
   try {
-    const response = await fetch(`${CDN_BASE}/kg/kg_index.json`);
-    if (!response.ok) throw new Error('Index not found');
-    const indexData = await response.json();
+    const indexData = await fetchJSON('kg/kg_index.json');
 
     const stats = {
       tong_ma_hs: indexData.length,

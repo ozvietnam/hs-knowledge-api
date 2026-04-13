@@ -10,15 +10,19 @@
 export const config = { api: { responseLimit: '4mb' } };
 
 const CDN_BASE = process.env.PRODUCTION_URL
-  || 'https://hs-knowledge-api.vercel.app';
+  || 'https://raw.githubusercontent.com/ozvietnam/hs-knowledge-api/main/public';
 
+const _cache = new Map();
 async function fetchJSON(path) {
+  if (_cache.has(path)) return _cache.get(path);
   const url = `${CDN_BASE}/ktcn/${path}`;
-  const res = await fetch(url, {
-    headers: { 'User-Agent': 'hs-knowledge-api-internal' }
-  });
+  const headers = { 'User-Agent': 'hs-knowledge-api-internal' };
+  if (process.env.GITHUB_TOKEN) headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+  const res = await fetch(url, { headers });
   if (!res.ok) return null;
-  return res.json();
+  const data = await res.json();
+  _cache.set(path, data);
+  return data;
 }
 
 export default async function handler(req, res) {

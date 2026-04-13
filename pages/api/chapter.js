@@ -2,7 +2,20 @@
 export const config = { api: { responseLimit: '8mb' } };
 
 const CDN_BASE = process.env.PRODUCTION_URL
-  || 'https://hs-knowledge-api.vercel.app';
+  || 'https://raw.githubusercontent.com/ozvietnam/hs-knowledge-api/main/public';
+
+const _cache = new Map();
+async function fetchChapter(chapter) {
+  if (_cache.has(chapter)) return _cache.get(chapter);
+  const url = `${CDN_BASE}/kg/chapter_${chapter}.json`;
+  const headers = { 'User-Agent': 'hs-knowledge-api-internal' };
+  if (process.env.GITHUB_TOKEN) headers['Authorization'] = `token ${process.env.GITHUB_TOKEN}`;
+  const res = await fetch(url, { headers });
+  if (!res.ok) throw new Error(`${res.status}`);
+  const data = await res.json();
+  _cache.set(chapter, data);
+  return data;
+}
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -15,9 +28,7 @@ export default async function handler(req, res) {
   const chap = String(parseInt(chapter)).padStart(2, '0');
 
   try {
-    const response = await fetch(`${CDN_BASE}/kg/chapter_${chap}.json`);
-    if (!response.ok) throw new Error('Not found');
-    const chapterData = await response.json();
+    const chapterData = await fetchChapter(chap);
     let records = Object.values(chapterData);
     if (status) records = records.filter(r => r.meta && r.meta.status === status);
 
