@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chỉ có mặt hiển thị bằng cơ học",
-      "en": null,
+      "en": "- - With mechanical display only",
       "dvt": "chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -45,7 +76,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -58,7 +118,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -175,9 +247,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "91011900": {
@@ -188,28 +281,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -226,7 +350,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -239,7 +392,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -356,9 +527,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91012100": {
@@ -369,28 +561,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Có bộ phận lên giây tự động",
-      "en": null,
+      "en": "- - With automatic winding",
       "dvt": "chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -407,7 +630,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -420,7 +672,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -537,9 +801,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "91012900": {
@@ -550,28 +835,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -588,7 +904,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -601,7 +946,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -718,9 +1081,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91019100": {
@@ -731,28 +1115,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoạt động bằng điện",
-      "en": null,
+      "en": "- - Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -769,7 +1184,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -782,7 +1226,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -899,9 +1361,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91019900": {
@@ -912,28 +1395,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -950,7 +1464,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -963,7 +1506,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1080,9 +1641,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91021100": {
@@ -1093,28 +1675,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chỉ có mặt hiển thị bằng cơ học",
-      "en": null,
+      "en": "- - With mechanical display only",
       "dvt": "chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -1148,6 +1761,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1161,7 +1803,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1278,9 +1932,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "91021200": {
@@ -1291,28 +1966,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chỉ có mặt hiển thị bằng quang điện tử",
-      "en": null,
+      "en": "- - With opto-electronic display only",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -1346,6 +2052,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1359,7 +2094,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1494,9 +2247,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91021900": {
@@ -1507,28 +2281,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -1562,6 +2367,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1575,7 +2409,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1692,9 +2544,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91022100": {
@@ -1705,28 +2578,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Có bộ phận lên giây tự động",
-      "en": null,
+      "en": "- - With automatic winding",
       "dvt": "chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -1760,6 +2664,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1773,7 +2706,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1890,9 +2835,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "91022900": {
@@ -1903,28 +2869,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -1958,6 +2955,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1971,7 +2997,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2088,9 +3132,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91029100": {
@@ -2101,28 +3166,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoạt động bằng điện",
-      "en": null,
+      "en": "- - Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -2156,6 +3252,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2169,7 +3294,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2286,9 +3429,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91029900": {
@@ -2299,28 +3463,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -2354,6 +3549,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đo những khoảng thời gian tương đối ngắn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2367,7 +3591,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2484,9 +3726,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91031000": {
@@ -2497,28 +3760,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hoạt động bằng điện",
-      "en": null,
+      "en": "- Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -2543,7 +3837,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2556,7 +3879,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2673,9 +4014,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91039000": {
@@ -2686,28 +4040,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -2732,7 +4117,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2745,7 +4159,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2862,9 +4294,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91040010": {
@@ -2875,28 +4320,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dùng cho xe cộ",
-      "en": null,
+      "en": "- For vehicles",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-PH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-PH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-PH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -3053,9 +4529,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-PH)"
+            ],
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "91040090": {
@@ -3246,7 +4739,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "91051100": {
@@ -3257,28 +4757,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoạt động bằng điện",
-      "en": null,
+      "en": "- - Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -3313,6 +4844,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3326,7 +4886,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3443,9 +5021,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91051900": {
@@ -3456,28 +5047,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -3512,6 +5134,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3525,7 +5176,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3642,9 +5311,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91052100": {
@@ -3655,28 +5337,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoạt động bằng điện",
-      "en": null,
+      "en": "- - Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -3711,6 +5424,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3724,7 +5466,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3841,9 +5601,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91052900": {
@@ -3854,28 +5627,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -3910,6 +5714,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3923,7 +5756,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4040,9 +5891,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91059110": {
@@ -4053,28 +5917,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Đồng hồ hàng hải đo thời gian ",
-      "en": null,
+      "en": "- - - Marine chronometers",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -4109,6 +6004,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4122,7 +6046,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4239,9 +6175,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "91059190": {
@@ -4252,28 +6201,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -4308,6 +6288,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4321,7 +6330,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4438,9 +6465,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91059910": {
@@ -4451,28 +6491,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Đồng hồ hàng hải đo thời gian ",
-      "en": null,
+      "en": "- - - Marine chronometers",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -4507,6 +6578,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4520,7 +6620,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4637,9 +6749,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "91059990": {
@@ -4650,28 +6775,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -4706,6 +6862,35 @@
           "hoặc ngoài nhà",
           "việc đặt rơle và đồng bộ thời gian",
           "theo dõi thời gian trên các tàu thủy mặc dù một số còn được sử dụng cho các mục đích khoa học"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4719,7 +6904,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4836,9 +7039,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "91061000": {
@@ -5054,7 +7270,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "91069010": {
@@ -5270,7 +7493,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "91069090": {
@@ -5486,7 +7716,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "91070000": {
@@ -5673,7 +7910,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "91081100": {
@@ -5684,28 +7928,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chỉ có mặt hiển thị bằng cơ học hoặc có một thiết bị được kết hợp với mặt hiển thị bằng cơ học",
-      "en": null,
+      "en": "- - With mechanical display only or with a device to which a mechanical display can be incorporated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -5742,7 +8017,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5859,9 +8146,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91081200": {
@@ -5872,28 +8172,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chỉ có mặt hiển thị bằng quang điện tử",
-      "en": null,
+      "en": "- - With opto-electronic display only",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -5930,7 +8261,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6047,9 +8390,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91081900": {
@@ -6060,28 +8416,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -6118,7 +8505,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6235,9 +8634,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91082000": {
@@ -6248,28 +8660,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Có bộ phận lên giây tự động",
-      "en": null,
+      "en": "- With automatic winding",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -6306,7 +8749,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6423,9 +8878,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91089000": {
@@ -6436,28 +8904,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -6494,7 +8993,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6611,9 +9122,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91091000": {
@@ -6624,28 +9148,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hoạt động bằng điện",
-      "en": null,
+      "en": "- Electrically operated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -6685,7 +9240,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.09"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6802,9 +9369,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91099000": {
@@ -6815,28 +9395,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -6876,7 +9487,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.09"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6993,9 +9616,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91101100": {
@@ -7006,28 +9642,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Máy đồng hồ đủ bộ, chưa lắp ráp hoặc đã lắp ráp từng phần (cụm máy)",
-      "en": null,
+      "en": "- - Complete movements, unassembled or partly assembled (movement sets)",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7057,7 +9724,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7174,9 +9853,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91101200": {
@@ -7187,28 +9879,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Máy đồng hồ chưa đủ bộ, đã lắp ráp",
-      "en": null,
+      "en": "- - Incomplete movements, assembled",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7238,7 +9961,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7355,9 +10090,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91101900": {
@@ -7368,28 +10116,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Máy đồng hồ chưa đủ bộ, chưa lắp ráp",
-      "en": null,
+      "en": "- - Rough movements",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7419,7 +10198,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7536,9 +10327,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91109000": {
@@ -7549,28 +10353,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7717,9 +10552,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91111000": {
@@ -7730,28 +10578,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vỏ đồng hồ bằng kim loại quý hoặc bằng kim loại dát phủ kim loại quý",
-      "en": null,
+      "en": "- Cases of precious metal or of metal clad with precious metal",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7791,7 +10670,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.11"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7908,9 +10799,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91112000": {
@@ -7921,28 +10825,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vỏ đồng hồ bằng kim loại cơ bản, đã hoặc chưa được mạ vàng hoặc mạ bạc",
-      "en": null,
+      "en": "- Cases of base metal, whether or not gold- or silver-plated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -7982,7 +10917,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.11"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8099,9 +11046,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91118000": {
@@ -8112,28 +11072,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vỏ đồng hồ loại khác",
-      "en": null,
+      "en": "- Other cases",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -8173,7 +11164,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.11"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8290,9 +11293,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91119000": {
@@ -8303,28 +11319,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Các bộ phận",
-      "en": null,
+      "en": "- Parts",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -8364,7 +11411,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.11"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8481,9 +11540,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91122000": {
@@ -8494,28 +11566,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vỏ",
-      "en": null,
+      "en": "- Cases",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -8560,7 +11663,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8677,9 +11792,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91129000": {
@@ -8690,28 +11818,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Các bộ phận",
-      "en": null,
+      "en": "- Parts",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -8756,7 +11915,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8873,9 +12044,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91131000": {
@@ -8886,28 +12070,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng kim loại quý hoặc kim loại dát phủ kim loại quý",
-      "en": null,
+      "en": "- Of precious metal or of metal clad with precious metal",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -8949,7 +12164,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.13",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.13"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9066,9 +12293,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91132000": {
@@ -9079,28 +12319,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng kim loại cơ bản, đã hoặc chưa mạ vàng hoặc bạc",
-      "en": null,
+      "en": "- Of base metal, whether or not gold- or silver-plated",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -9142,7 +12413,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.13",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.13"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9259,9 +12542,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91139000": {
@@ -9272,28 +12568,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -9335,7 +12662,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.13",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.13"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9452,9 +12791,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91143000": {
@@ -9465,28 +12817,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Mặt số",
-      "en": null,
+      "en": "- Dials",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -9552,7 +12935,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9669,9 +13064,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91144000": {
@@ -9682,28 +13090,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Mâm và trục",
-      "en": null,
+      "en": "- Plates and bridges",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -9769,7 +13208,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9886,9 +13337,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "91149000": {
@@ -9899,28 +13363,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Mặt kính đồng hồ thời gian hoặc đồng hồ cá\nnhân hoặc quả lắc đồng hồ (được phân loại theo vật\nliệu cấu thành);\n(b) Dây đeo đồng hồ cá nhân (tuỳ theo từng trương\nhợp, thuộc nhóm 71.13 hoặc 71.17);\n(c) Các bộ phận có công dụng chung đã định nghĩa\ntrong Chú giải 2 Phần XV, bằng kim loại cơ bản\n(Phần XV), hoặc các hàng hoá tương tự bằng\nplastic (Chương 39) hoặc bằng kim loại quý hoặc\nkim loại dát phủ kim loại quý (thường thuộc nhóm\n71.15); tuy nhiên, lò xo đồng hồ th",
@@ -9986,7 +13481,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 91",
         "Chú giải HS 2017 — Nhóm 91.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 91.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10103,9 +13610,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   }
 }

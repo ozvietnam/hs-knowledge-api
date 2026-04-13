@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Lie tự nhiên, thô hoặc đã sơ chế",
-      "en": null,
+      "en": "- Natural cork, raw or simply prepared",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -185,9 +216,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "45019000": {
@@ -198,28 +242,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -376,9 +451,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "45020000": {
@@ -571,7 +659,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "45031000": {
@@ -582,28 +677,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Nút và nắp đậy",
-      "en": null,
+      "en": "- Corks and stoppers",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -647,7 +773,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 45",
         "Chú giải HS 2017 — Nhóm 45.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 45.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -764,9 +902,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "45039000": {
@@ -777,28 +932,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -842,7 +1028,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 45",
         "Chú giải HS 2017 — Nhóm 45.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 45.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -959,9 +1157,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "45041000": {
@@ -972,28 +1187,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dạng khối, tấm, lá và dải; tấm lát ở mọi hình dạng; dạng hình trụ đặc, kể cả dạng đĩa",
-      "en": null,
+      "en": "- Blocks, plates, sheets and strip; tiles of any shape; solid cylinders, including discs",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -1182,9 +1428,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "45049000": {
@@ -1195,28 +1454,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, được nghiền hoặc tán nhỏ thành bột, dùng chủ\nyếu trong công nghệ làm nước hoa, dược phẩm, hoặc thuốc diệt côn trùng, diệt nấm\nhay các mục đích tương tự (nhóm 12.11);\n(b) Tre hoặc các vật liệu khác có tính chất như gỗ loại chủ yếu dùng để tết bện, dạng thô,\nđã hoặc chưa chẻ, xẻ theo chiều dài hoặc cắt thành từng đoạn (nhóm 14.01);\n(c) Gỗ, dưới dạng mảnh, mẩu vụn, vỏ bào, đã được nghiền thành bột, dùng chủ yếu cho\ncông nghệ nhuộm hoặc thuộc da (nhóm 14.04);\n(d) Than hoạt tính (nhóm 38.02);\n(e) Các sản phẩm thuộc nhóm 42.02;\n(f) Các mặt hàng thuộc Chương 46;\n(g) Giầy dép hoặc các bộ phận của chúng thuộc Chương 64;\n(h) Các mặt hàng thuộc Chương 66 (ví dụ, ô dù và batoong và các bộ phận của chúng);\n(ij) Các mặt hàng thuộc nhóm 68.08;\n(k) Đồ trang sức làm bằng chất liệu khác thuộc nhóm 71.17;\n(l) Các mặt hàng thuộc Phần XVI hoặc Phần XVII (ví dụ, các bộ phận của máy móc, hòm,\nvỏ, hộp dùng cho máy móc và thiết bị và đồ dùng của thợ đóng xe);\n(m) Các mặt hàng thuộc Phần XVIII (ví dụ, vỏ đồng hồ và nhạc cụ và các bộ phận của\nchúng);\n(n) Các bộ phận của súng (nhóm 93.05);\n(o) Các mặt hàng thuộc Chương 94 (ví dụ, đồ nội thất, đèn và bộ đèn, nhà lắp ghép);\n(p) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ thể thao);\n(q) Các mặt hàng thuộc Chương 96 (ví dụ, tẩu hút thuốc và bộ phận của chúng, khuy, bút\nchì, và chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các\nsản phẩm tương tự) trừ thân và tay cầm, bằng gỗ, dùng cho các sản phẩm thuộc nhóm\n96.03; hoặc\n(r) Các mặt hàng thuộc Chương 97 (ví dụ, các tác phẩm nghệ thuật).\n2.- Trong Chương này, khái niệm \"gỗ đã được làm tăng độ rắn\" chỉ loại gỗ đã qua xử lý về\nmặt hoá học hoặc lý học (trong trường hợp loại gỗ này, được cấu tạo bằng các lớp được\nliên kết với nhau, việc xử lý thêm chỉ để đảm bảo sự liên kết tốt giữa các lớp), và do đó\nđã tăng tỷ trọng (mật độ) hoặc độ cứng cũng như tăng sức bền cơ học hoặc độ bền khi có\ntác động hoá học hoặc điện.\n3.- Các nhóm từ 44.14 đến 44.21 áp dụng đối với các mặt hàng có mô tả riêng của các loại ván\ndăm hoặc ván tương tự, ván sợi ép, ván ghép hoặc gỗ đã được làm tăng độ rắn.\n4.- Các mặt hàng thuộc nhóm 44.10, 44.11 hoặc 44.12 có thể được gia công tạo hình như đã\nđưa ra trong nhóm 44.09, đã được uốn cong, làm sóng, đục lỗ, được cắt hoặc tạo dáng\nthành các hình dạng khác nhau trừ hình chữ nhật hoặc hình vuông hoặc trải qua bất kỳ\n6\nthao tác nào khác với điều kiện là không tạo cho chúng những đặc trưng của các mặt hàng\nthuộc các nhóm khác.\n5.- Nhóm 44.17 không bao gồm các dụng cụ có lưỡi, gờ, bề mặt hoặc bộ phận làm việc khác\nđược tạo ra từ vật liệu bất kỳ được chi tiết ở Chú giải 1 của Chương 82.\n6.- Theo mục đích của Chú giải 1 ở trên và trừ khi có yêu cầu khác, khái niệm \"gỗ\" trong một\nnhóm của Chương này cũng áp dụng đối với tre và các vật liệu khác có tính chất gỗ.\nChú giải phân nhóm.\n1. Theo mục đích của phân nhóm 4401.31, thuật ngữ \"viên gỗ\" có nghĩa là các sản phẩm phụ\nnhư vỏ bào, mùn cưa, của công nghiệp chế biến gỗ cơ học, công nghiệp làm đồ nội thất\nhoặc các quá trình chế biến gỗ khác, đã được đóng thành khối bằng cách ép trực tiếp hoặc\nthêm chất kết dính với hàm lượng không quá 3% tính theo trọng lượng. Những viên gỗ\nnhư vậy có hình trụ, với đường kính không vượt quá 25 mm và chiều dài không quá 100\nmm.",
@@ -1288,7 +1578,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 45",
         "Chú giải HS 2017 — Nhóm 45.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 45.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1405,9 +1707,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   }
 }

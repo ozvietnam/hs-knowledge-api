@@ -7,31 +7,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đã lên men (SEN)",
-      "en": null,
+      "en": "- Fermented",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)*",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Để giảm bớt vị đắng, tăng thêm hương vị đặc biệt của ca cao và để bóc vỏ cứng được dễ dàng, hạt được làm lên men; Hạt cũng có thể được xử lý bằng hơi nước và làm khô. Hạt được rang lên để dễ dàng bóc phần vỏ cứng, để làm cho phần lõi hạt dễ vụn hơn, cô đặc sản phẩm và tăng thêm hương và vị của hạt. Sau đó hạt được cho vào những thiết bị trục lăn có gợn sóng để làm vỡ hạt và tách phần phôi mầm. Sau đó là các công đoạn tách phần vỏ cứng, vỏ lụa và phần phôi mầm từ các mảnh lõi hạt (mảnh hạt ca cao).\n\nNhóm này bao gồm hạt thô hoặc hạt đã rang, nguyên hạt (đã hoặc chưa bóc vỏ cứng, vỏ lụa hoặc mầm) hoặc đã vỡ mảnh.\n\nNhóm này không bao gồm:\n(a) Phần vỏ quả, vỏ hạt, vỏ lụa và những phế liệu khác của cacao (nhóm 18.02).\n(b) Hạt ca cao đã được nghiền ở dạng bột nhão (nhóm 18.03).",
       "chu_giai_dong": null,
@@ -55,7 +86,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -188,9 +238,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18010090": {
@@ -201,31 +268,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)*",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Để giảm bớt vị đắng, tăng thêm hương vị đặc biệt của ca cao và để bóc vỏ cứng được dễ dàng, hạt được làm lên men; Hạt cũng có thể được xử lý bằng hơi nước và làm khô. Hạt được rang lên để dễ dàng bóc phần vỏ cứng, để làm cho phần lõi hạt dễ vụn hơn, cô đặc sản phẩm và tăng thêm hương và vị của hạt. Sau đó hạt được cho vào những thiết bị trục lăn có gợn sóng để làm vỡ hạt và tách phần phôi mầm. Sau đó là các công đoạn tách phần vỏ cứng, vỏ lụa và phần phôi mầm từ các mảnh lõi hạt (mảnh hạt ca cao).\n\nNhóm này bao gồm hạt thô hoặc hạt đã rang, nguyên hạt (đã hoặc chưa bóc vỏ cứng, vỏ lụa hoặc mầm) hoặc đã vỡ mảnh.\n\nNhóm này không bao gồm:\n(a) Phần vỏ quả, vỏ hạt, vỏ lụa và những phế liệu khác của cacao (nhóm 18.02).\n(b) Hạt ca cao đã được nghiền ở dạng bột nhão (nhóm 18.03).",
       "chu_giai_dong": null,
@@ -249,7 +347,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -382,9 +499,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18020000": {
@@ -395,31 +529,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Vỏ quả, vỏ hạt, vỏ lụa và phế liệu ca cao khác",
-      "en": null,
+      "en": "Cocoa shells, husks, skins and other cocoa waste",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "(1) Vỏ cứng, vỏ lụa được tách ra trong quá trình rang và xay hạt. Các vỏ này còn dính một ít mảnh vụn của lõi hạt (mảnh vụn của lõi hạt dính vào vỏ cứng, vỏ lụa và không thể tách chúng ngay ra khỏi vỏ được), từ những phần mảnh vụn này có thể chiết xuất được một tỷ lệ bơ ca cao.\n\n(2) Phôi mầm ca cao, thu được khi cho hạt cacao qua một máy tách mầm. Phôi mầm ca cao thực sự không chứa chất béo.\n\n(3) Bụi cacao; thu được từ việc làm sạch vỏ trong máy phân loại; thường tỷ lệ chất béo có trong chúng đủ cao phù hợp cho việc chiết xuất một cách hiệu quả.\n(4) Khô dầu cacao (Cocoa cakes) (thu được từ quá trình chiết xuất bơ ca cao từ vỏ cứng, vỏ lụa còn dính một phần lõi hạt hoặc từ ca cao nguyên hạt). Khô dầu gồm những mẩu nhỏ của vỏ cứng, vỏ lụa, vì vậy chúng không thích hợp để sản xuất bột ca cao hoặc sôcôla.\n\nNhóm này loại trừ khô dầu ca cao không có vỏ cứng, vỏ lụa, thu được từ quá trình chiết xuất bơ ca cao từ bột ca cao nhão (nhóm 18.03).",
       "chu_giai_dong": null,
@@ -445,7 +610,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -575,9 +759,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18031000": {
@@ -588,31 +789,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Chưa khử chất béo",
-      "en": null,
+      "en": "- Not defatted",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Bột ca cao nhão thu được từ việc nghiền hạt ca cao đã rang (hạt đã làm sạch\nvỏ cứng, vỏ lụa và phôi mầm của chúng) bằng máy nghiền đá mài nóng\nhoặc máy thớt nghiền; Sản phẩm thu được làm cứng dưới dạng viên, miếng\nhoặc khối. Bột nhão có thể được các nhà sản xuất bánh kẹo sử dụng luôn\nnhưng chúng thường được dùng để sản xuất bơ ca cao, bột ca cao và\n162\nsôcôla.\nNhóm này cũng bao gồm bột nhão ca cao đã được khử một phần hoặc toàn bộ\nchất béo (khô dầu ca cao (cocoa cake)); Chúng được sử dụng cho sản xuất bột\nca cao hoặc sôcôla; hoặc trong một số trường hợp được sử dụng để sản xuất\ntheobromine\nNhóm này loại trừ bột nhão ca cao đã cho thêm đường hoặc chất làm ngọt khác\n(nhóm 18.06).",
       "chu_giai_dong": null,
@@ -761,9 +993,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18032000": {
@@ -774,31 +1023,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đã khử một phần hoặc toàn bộ chất béo",
-      "en": null,
+      "en": "- Wholly or partly defatted",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Bột ca cao nhão thu được từ việc nghiền hạt ca cao đã rang (hạt đã làm sạch\nvỏ cứng, vỏ lụa và phôi mầm của chúng) bằng máy nghiền đá mài nóng\nhoặc máy thớt nghiền; Sản phẩm thu được làm cứng dưới dạng viên, miếng\nhoặc khối. Bột nhão có thể được các nhà sản xuất bánh kẹo sử dụng luôn\nnhưng chúng thường được dùng để sản xuất bơ ca cao, bột ca cao và\n162\nsôcôla.\nNhóm này cũng bao gồm bột nhão ca cao đã được khử một phần hoặc toàn bộ\nchất béo (khô dầu ca cao (cocoa cake)); Chúng được sử dụng cho sản xuất bột\nca cao hoặc sôcôla; hoặc trong một số trường hợp được sử dụng để sản xuất\ntheobromine\nNhóm này loại trừ bột nhão ca cao đã cho thêm đường hoặc chất làm ngọt khác\n(nhóm 18.06).",
       "chu_giai_dong": null,
@@ -947,9 +1227,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18040000": {
@@ -960,31 +1257,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bơ ca cao, chất béo và dầu ca cao",
-      "en": null,
+      "en": "Cocoa butter, fat and oil",
       "dvt": "kg",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Bơ ca cao thường ở dạng rắn trong nhiệt độ phòng, có độ nhờn nhẹ và màu trắng vàng nhạt; có mùi thơm tương tự mùi ca cao và vị ngon dễ chịu. Bơ ca cao thường được làm thành miếng và được sử dụng trong sản xuất sôcôla (để làm tăng chất lượng bột nhão ca cao), trong sản xuất bánh kẹo (phụ liệu để làm một số loại kẹo), trong sản xuất nước hoa (chiết xuất hương thơm bằng phương pháp tách hương liệu), trong sản xuất mỹ phẩm và dược phẩm (phụ liệu để sản xuất thuốc mỡ, thuốc dạng viên đạn...).",
       "chu_giai_dong": null,
@@ -1131,9 +1459,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18050000": {
@@ -1144,31 +1489,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bột ca cao, chưa pha thêm đường hoặc chất tạo ngọt khác",
-      "en": null,
+      "en": "Cocoa powder, not containing added sugar or other sweetening matter",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": "0",
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Bột ca cao đã pha thêm đường hoặc chất ngọt khác và bột ca cao đã pha thêm sữa hoặc peptone thuộc nhóm 18.06. Tuy nhiên, dược phẩm trong đó có bột ca cao chỉ được sử dụng như là chất hỗ trợ hoặc chất dẫn cho thuốc thuộc nhóm 30.03 hoặc 30.04.",
       "chu_giai_dong": null,
@@ -1186,7 +1562,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1199,7 +1594,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 18",
         "Chú giải HS 2017 — Nhóm 18.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 18.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1316,9 +1723,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "18061000": {
@@ -1329,31 +1757,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bột ca cao, đã pha thêm đường hoặc chất tạo ngọt khác",
-      "en": null,
+      "en": "- Cocoa powder, containing added sugar or other sweetening matter",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -1389,7 +1848,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 18",
         "Chú giải HS 2017 — Nhóm 18.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 18.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1506,9 +1977,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "18062010": {
@@ -1519,31 +2011,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Kẹo sô cô la ở dạng khối, miếng hoặc thanh",
-      "en": null,
+      "en": "- - Chocolate confectionery in blocks, slabs or bars",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "1",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -1696,9 +2219,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "1"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "18062090": {
@@ -1709,31 +2257,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "27",
         "mfn": "18",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "1",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "2,2",
+        "ukvfta": "2,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "27",
+            "mfn": "18",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -1886,9 +2465,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "1"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ],
+            "evfta": [
+              null,
+              "2,2"
+            ],
+            "ukvfta": [
+              null,
+              "2,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "18063100": {
@@ -1899,31 +2503,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Có nhân",
-      "en": null,
+      "en": "- - Filled",
       "dvt": "kg",
       "rates": {
         "tt": "19.5",
         "mfn": "13",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0/0",
+        "ahkfta": "13",
+        "vncu": null,
+        "evfta": "0/3,7",
+        "ukvfta": "0/3,7",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "19.5",
+            "mfn": "13",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2094,9 +2729,42 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "cptpp": [
+              null,
+              "0/0"
+            ],
+            "ahkfta": [
+              null,
+              "13"
+            ],
+            "evfta": [
+              null,
+              "0/3,7"
+            ],
+            "ukvfta": [
+              null,
+              "0/3,7"
+            ]
+          }
+        }
+      ]
     }
   },
   "18063200": {
@@ -2107,31 +2775,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Không có nhân",
-      "en": null,
+      "en": "- - Not filled",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "20",
+        "vncu": null,
+        "evfta": "0/3,7",
+        "ukvfta": "0/3,7",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2167,6 +2866,35 @@
         "TT31/2022/TT-BTC — Chú giải Chương 18",
         "Chú giải HS 2017 — Nhóm 18.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 18.06"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "7395/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "theo khai báo: SOCOLA JEJU Hàn Quốc vị chuối (JEJU BANANA CHOCOLATE), nhà SX: JEJU ORANGE CO.,LTD, đóng gói: 285g/hộp, 20 hộp/carton, đơn vị tính: hộp (Mục 03).",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 7395/TB-TCHQ\nHà Nội, ngày\n17\ntháng\n12\nnăm 201\n8\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất k",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-7395-tb-tchq-tong-cuc-hai-quan-298434-d6.html"
+        },
+        {
+          "so_hieu": "393/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "theo khai báo: SOCOLA JEJU Hàn Quốc vị",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\n-\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n7\n393/TB-TCHQ\nHà Nội, ngày\n17\ntháng\n12\nnăm 201\n8\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuấ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-7393-tb-tchq-tong-cuc-hai-quan-298432-d6.html"
+        },
+        {
+          "so_hieu": "7394/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "theo khai báo: SOCOLA JEJU Hàn Quốc vị quýt (JEJU HALLABONG CHOCOLATE), nhà SX: JEJU ORANGE CO.,LTD, đóng gói: 285g/hộp, 20 hộp/carton, đơn vị tính: hộp (Mục 01).",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\n-\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n739\n4/\nTB\n-TCHQ\nHà Nội, ngày\n17\ntháng\n12\nnăm 201\n8\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa x",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-7394-tb-tchq-tong-cuc-hai-quan-298433-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -2284,9 +3012,38 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "ahkfta": [
+              null,
+              "20"
+            ],
+            "evfta": [
+              null,
+              "0/3,7"
+            ],
+            "ukvfta": [
+              null,
+              "0/3,7"
+            ]
+          }
+        }
+      ]
     }
   },
   "18069010": {
@@ -2297,31 +3054,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Kẹo sô cô la ở dạng viên (tablets) hoặc viên ngậm (pastilles)",
-      "en": null,
+      "en": "- - Chocolate confectionery in tablets or pastilles",
       "dvt": "kg",
       "rates": {
         "tt": "19.5",
         "mfn": "13",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "13",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "19.5",
+            "mfn": "13",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2474,9 +3262,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "ahkfta": [
+              null,
+              "13"
+            ]
+          }
+        }
+      ]
     }
   },
   "18069030": {
@@ -2487,31 +3296,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Các chế phẩm thực phẩm từ bột, bột thô, tinh bột hoặc chiết xuất malt, có chứa từ 40% trở lên nhưng không quá 50% tính theo khối lượng là ca cao đã khử toàn bộ chất béo",
-      "en": null,
+      "en": "- - Food preparations of flour, meal, starch or malt extract, containing 40% or more but not exceeding 50% by weight of cocoa calculated on a totally defatted basis",
       "dvt": "kg",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "3,1",
+        "ukvfta": "3,1",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HH KTCN về an toàn thực phẩm (1182/QĐ-BCT-PL2-2021)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2534,7 +3374,23 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "HH KTCN về an toàn thực phẩm",
+            "van_ban": "1182/QĐ-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2664,9 +3520,38 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ],
+            "evfta": [
+              null,
+              "3,1"
+            ],
+            "ukvfta": [
+              null,
+              "3,1"
+            ]
+          }
+        }
+      ]
     }
   },
   "18069040": {
@@ -2677,31 +3562,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Các chế phẩm thực phẩm làm từ sản phẩm thuộc các nhóm từ 04.01 đến 04.04, có chứa từ 5% trở lên nhưng không quá 10% tính theo khối lượng là ca cao đã khử toàn bộ chất béo, được chế biến đặc biệt cho trẻ sơ sinh hoặc trẻ nhỏ, chưa đóng gói để bán lẻ",
-      "en": null,
+      "en": "- - Food preparations of goods of headings 04.01 to 04.04, containing 5% or more but not exceeding 10% by weight of cocoa calculated on a totally defatted basis, specially prepared for infants or young children, not put up for retail sale",
       "dvt": "kg",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "3,1",
+        "ukvfta": "3,1",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2854,9 +3770,38 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ],
+            "evfta": [
+              null,
+              "3,1"
+            ],
+            "ukvfta": [
+              null,
+              "3,1"
+            ]
+          }
+        }
+      ]
     }
   },
   "18069090": {
@@ -2867,31 +3812,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "2",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "20",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HH KTCN về an toàn thực phẩm (1182/QĐ-BCT-PL2-2021)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Chê phẩm thực phẩm có hàm lượng trên 20%\ntính theo khối lượng là xúc xích, thịt, các phụ phẩm\ndạng thịt sau giêt mổ, tiêt, côn trùng, cá hoặc động\nvật giáp xác, động vật thân mêm hoặc động vật\nthuỷ sinh không xương sống khác, hoặc hỗn hợp\nbât kỳ của các loại trên (Chương 16);",
+      "chu_giai_chuong": "1.- Chương này không bao gồm các chế phẩm thuộc các nhóm 04.03, 19.01, 19.04, 19.05,\n21.05, 22.02, 22.08, 30.03 hoặc 30.04.\n2.- Nhóm 18.06 bao gồm các loại kẹo đường có chứa ca cao và, các loại chế phẩm thực\nphẩm khác chứa ca cao, trừ các chế phẩm thuộc các nhóm đã ghi trong Chú giải 1\nChương này.",
       "chu_giai_phan": "VÀ GIẤM; THUỐC LÁ VÀ CÁC LOẠI NGUYÊN LIỆU THAY\nTHẾ THUỐC LÁ ĐÃ CHẾ BIẾN\nChú giải.\n1. Trong Phần này khái niệm \"viên\" chỉ các sản phẩm được liên kết bằng phương pháp ép trực\ntiếp hay bằng cách pha thêm chất kết dính theo tỷ lệ không quá 3% tính theo trọng lượng.\n146",
       "chu_giai_nhom": "Sôcôla và các sản phẩm từ sôcôla có thể được làm thành dạng khối, miếng, phiến, thanh, viên, hình thoi, khoanh tròn, hạt hoặc bột hoặc là các sản phẩm từ sôcôla có nhân kem, quả hoặc rượu... Nhóm này cũng bao gồm kẹo đường chứa ca cao với một tỷ lệ bất kỳ (bao gồm cả kẹo nougat sôcôla), bột ca cao đã cho thêm chất tạo ngọt, bột sôcôla, mứt sôcôla và nhìn chung, tất cả chế phẩm thực phẩm có chứa ca cao (trừ những sản phẩm đã được loại trừ trong Chú giải Tổng quát của Chương này).\n\nSôcôla đã được bổ sung thêm vitamin cũng được phân loại trong nhóm này. Nhóm này không bao gồm:\n(a) Sôcôla trắng (thành phần gồm bơ ca cao, đường và sữa bột) (nhóm 17.04).\n(b) Bánh quy và các loại bánh bọc sôcôla khác (nhóm 19.05).\n\n°°°",
       "chu_giai_dong": null,
@@ -2914,7 +3890,23 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "HH KTCN về an toàn thực phẩm",
+            "van_ban": "1182/QĐ-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2927,6 +3919,62 @@
         "TT31/2022/TT-BTC — Chú giải Chương 18",
         "Chú giải HS 2017 — Nhóm 18.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 18.06"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2094/TB-TCHQ",
+          "ngay": "31/03/2020",
+          "hang_hoa": "theo khai báo: Kẹo sô cô la có nhân Ferrero Rocher (200g",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2094/TB-TCH\nQ\nHà Nội, ngày 31 tháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất kh",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2094-tb-tchq-2020-phan-loai-keo-so-co-la-co-nhan-ferrero-rocher-293433-d6.html"
+        },
+        {
+          "so_hieu": "2092/TB-TCHQ",
+          "ngay": "31/03/2020",
+          "hang_hoa": "theo khai báo",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2092/TB-TCHQ\nHà Nội, ngày 31 tháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2092-tb-tchq-2020-phan-loai-keo-so-co-la-co-nhan-ferrero-rocher-293446-d6.html"
+        },
+        {
+          "so_hieu": "2093/TB-TCHQ",
+          "ngay": "31/03/2020",
+          "hang_hoa": "theo khai báo",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2093/TB-TCHQ\nHà Nội, ngày 31 tháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2093-tb-tchq-2020-phan-loai-keo-so-co-la-co-nhan-ferrero-rocher-293445-d6.html"
+        },
+        {
+          "so_hieu": "2091/TB-TCHQ",
+          "ngay": "31/03/2020",
+          "hang_hoa": "theo khai báo: Kẹo sô cô la có nhân Ferrero collection (269.4g",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2091/TB-TCHQ\nHà Nội, ngày 31 tháng\n3\nnăm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2091-tb-tchq-2020-phan-loai-keo-so-co-la-co-nhan-ferrero-collection-293447-d6.html"
+        },
+        {
+          "so_hieu": "2090/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "theo khai báo: Kẹo sô cô la có nhân hạnh nhân dạng viên,",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2090/TB-TCHQ\nHà Nội, ngày 3\n1\ntháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất kh",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2090-tb-tchq-2020-phan-loai-keo-so-co-la-co-nhan-hanh-nhan-dang-vien-293448-d6.html"
+        },
+        {
+          "so_hieu": "4661/TB-TCHQ",
+          "ngay": "13/07/2020",
+          "hang_hoa": "theo khai báo",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n4661/TB-TCHQ\nHà Nội, ngày 13 tháng 7 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàn\ng\nhóa xuất kh",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-4661-tb-tchq-2020-phan-loai-thuc-pham-bo-sung-294636-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -3062,9 +4110,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "2"
+            ],
+            "ahkfta": [
+              null,
+              "20"
+            ]
+          }
+        }
+      ]
     }
   }
 }

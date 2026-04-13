@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Sten niken",
-      "en": null,
+      "en": "- Nickel mattes",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. Gồm: Niken sten, oxit niken và sản phẩm trung gian của nó; Niken chưa gia công (Tham chiếu mã HS 4 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. Gồm: Niken sten, oxit niken và sản phẩm trung gian của nó; Niken chưa gia công (Tham chiếu mã HS 4 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -48,7 +79,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -61,7 +121,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -178,9 +250,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75012000": {
@@ -191,28 +280,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Oxit niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken",
-      "en": null,
+      "en": "- Nickel oxide sinters and other intermediate products of nickel metallurgy",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. Gồm: Niken sten, oxit niken và sản phẩm trung gian của nó; Niken chưa gia công (Tham chiếu mã HS 4 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. Gồm: Niken sten, oxit niken và sản phẩm trung gian của nó; Niken chưa gia công (Tham chiếu mã HS 4 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -232,7 +352,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -245,7 +394,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -362,9 +523,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75021000": {
@@ -375,28 +553,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Niken, không hợp kim",
-      "en": null,
+      "en": "- Nickel, not alloyed",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 4 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 4 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -413,7 +622,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -426,7 +664,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -543,9 +793,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75022000": {
@@ -556,28 +819,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hợp kim niken",
-      "en": null,
+      "en": "- Nickel alloys",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 4 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 4 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -594,7 +888,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -607,7 +930,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -724,9 +1059,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75030000": {
@@ -737,28 +1085,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Phế liệu và mảnh vụn niken",
-      "en": null,
+      "en": "Nickel waste and scrap",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "20/22",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 8 số)"
       },
       "chinh_sach": "Phế liệu được phép NK từ nước ngoài làm NLSX (13/2023/QĐ-TTg); DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Niken chưa gia công; Sản phẩm trung gian của quá trình luyện niken. (Tham chiếu mã HS 8 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -784,7 +1163,47 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Phế liệu được phép NK từ nước ngoài làm NLSX",
+            "van_ban": "13/2023/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "TTg"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -797,7 +1216,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -914,9 +1345,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "20/22"
+            ]
+          }
+        }
+      ]
     }
   },
   "75040000": {
@@ -927,28 +1371,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bột và vảy niken",
-      "en": null,
+      "en": "Nickel powders and flakes",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
       },
       "chinh_sach": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất (113/2017/NĐ-CP PL4); DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -968,7 +1443,46 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+            "van_ban": "113/2017/NĐ-CP",
+            "danh_muc": "PL4",
+            "co_quan": "BCT",
+            "loai": "hoa_chat",
+            "tier": 2,
+            "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+            "don_vi": "Cục Hóa chất"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -981,7 +1495,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hoa_chat, cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1098,9 +1624,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75051100": {
@@ -1111,28 +1650,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bằng niken, không hợp kim",
-      "en": null,
+      "en": "- - Of nickel, not alloyed",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -1157,7 +1727,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1170,7 +1769,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1287,9 +1898,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75051200": {
@@ -1300,28 +1928,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bằng hợp kim niken",
-      "en": null,
+      "en": "- - Of nickel alloys",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -1346,7 +2005,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1359,7 +2047,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1476,9 +2176,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "75052100": {
@@ -1535,7 +2248,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1548,7 +2290,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1667,7 +2421,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75052200": {
@@ -1724,7 +2485,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1737,7 +2527,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1856,7 +2658,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75061000": {
@@ -1909,6 +2718,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tráng sắt hoặc thép bằng cách hàn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1922,7 +2760,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2041,7 +2891,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75062000": {
@@ -2094,6 +2951,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tráng sắt hoặc thép bằng cách hàn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2107,7 +2993,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2226,7 +3124,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75071100": {
@@ -2237,28 +3142,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bằng niken, không hợp kim",
-      "en": null,
+      "en": "- - Of nickel, not alloyed",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -2286,6 +3222,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "lắp ráp và gắn ống (nhóm 75"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2299,7 +3264,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2416,9 +3393,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "75071200": {
@@ -2478,6 +3468,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "lắp ráp và gắn ống (nhóm 75"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2491,7 +3510,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2610,7 +3641,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75072000": {
@@ -2621,28 +3659,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Phụ kiện để ghép nối của ống hoặc ống dẫn",
-      "en": null,
+      "en": "- Tube or pipe fittings",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL1: Niken > Bán thành phẩm, sản phẩm bằng đồng hoặc hợp kim đồng. (Tham chiếu mã HS 2 số)"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Thanh và que\nCác sản phẩm được cán, ép đùn, kéo hoặc rèn, không ở dạng cuộn, có mặt cắt ngang đông\nđặc đều nhau dọc theo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả\nhình vuông), tam giác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật\nbiến dạng\" có hai cạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau\nvà song song). Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả hình vuông), tam\ngiác hoặc đa giác có thể có góc được làm tròn dọc theo chiều dài. Chiều dày của các sản\nphẩm có mặt cắt ngang hình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều\nrộng. Khái niệm này cũng áp dụng cho các sản phẩm được đúc hay thiêu kết có cùng hình\ndạng và kích thước đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản hoặc\ncạo gỉ), với điều kiện bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản\nphẩm của các nhóm khác.\n(b) Dạng hình\nCác sản phẩm được cán, ép đùn, kéo, rèn hoặc tạo hình, ở dạng cuộn hoặc không, mặt cắt\nngang đều nhau dọc theo chiều dài, và khác với định nghĩa về thanh, que, dây, tấm, lá, dải,\nlá mỏng, ống hoặc ống dẫn. Khái niệm này cũng kể cả các sản phẩm được đúc hoặc thiêu\nkết, có cùng hình dạng, đã được gia công thêm sau khi sản xuất (trừ cách cắt gọt đơn giản\nhoặc cạo gỉ), với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng\nhoặc sản phẩm của nhóm khác.\n(c) Dây\n'Các sản phẩm được cán, ép đùn hoặc kéo, dạng cuộn, có mặt cắt ngang đặc đều nhau dọc\ntheo chiều dài, hình dạng mặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam\ngiác đều hoặc đa giác đều lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có hai\ncạnh đối diện là vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song). Các\nsản phẩm có mặt cắt ngang hình chữ nhật (kể cả hình vuông), tam giác hoặc đa giác có thể\ncó góc được làm tròn dọc theo chiều dài. Chiều dày của các sản phẩm có mặt cắt ngang\nhình chữ nhật (kể cả \"hình chữ nhật biến dạng\") phải trên 1/10 chiều rộng.\n(d) Tấm, lá, dải và lá mỏng\nCác sản phẩm có bề mặt được làm phẳng (trừ các sản phẩm chưa gia công thuộc nhóm\n75.02), ở dạng cuộn hoặc không, có mặt cắt ngang đặc hình chữ nhật (trừ hình vuông) có\nhoặc không có các góc được làm tròn (kể cả \"hình chữ nhật biến dạng\", có 2 cạnh đối diện\nlà vòng cung lồi, hai cạnh kia thẳng, chiều dài bằng nhau và song song) chiều dày bằng\nnhau, cụ thể:\n- với dạng hình chữ nhật (kể cả hình vuông), chiều dày không quá 1/10 chiều rộng,\n- với các hình dạng khác trừ hình chữ nhật và hìnhvuông, với mọi loại kích thước, với điều\nkiện chúng không mang đặc tính của mặt hàng hay sản phẩm của nhóm khác.\nNgoài các mặt hàng khác, nhóm 75.06 áp dụng cho các tấm, lá, dải và lá mỏng đã gia công\ntheo hình mẫu (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản\nphẩm đó được khoan, làm lượn sóng, đánh bóng hoặc tráng, với điều kiện là bằng cách đó\nchúng không mang đặc tính của các mặt hàng hay sản phẩm của nhóm khác.\n95\n(e) Ống và ống dẫn\nCác sản phẩm rỗng, cuộn hoặc không, có mặt cắt ngang rỗng đều nhau dọc theo chiều dài,\nmặt cắt là hình tròn, bầu dục, chữ nhật (kể cả hình vuông), tam giác đều hoặc đa giác đều\nlồi, độ dày thành ống bằng nhau. Các sản phẩm có mặt cắt ngang là hình chữ nhật (kể cả\nhình vuông), tam giác đều, hoặc đa giác đều lồi có thể có góc được làm tròn dọc theo chiều\ndài, cũng được coi là ống hay ống dẫn với điều kiện là mặt cắt ngang bên trong và bên ngoài\nđồng tâm, đồng dạng và đồng hướng. Ống và ống dẫn có mặt cắt ngang như vậy có thể\nđược đánh bóng, tráng, uốn cong, ren, khoan, thắt lại, nở ra, hình côn hoặc nối với các mặt\nbích, đai hoặc vòng.\nChú giải phân nhóm.\n1.- Trong Chương này, các khái niệm sau có nghĩa:\n(a) Niken không hợp kim\nLà kim loại có tổng hàm lượng niken và coban tối thiểu 99% tính theo trọng lượng, với\nđiều kiện:\n(i) hàm lượng coban không quá 1,5% tính theo trọng lượng, và\n(ii) hàm lượng của bất kỳ nguyên tố nào khác không vượt quá giới hạn nêu trong bảng\nsau:\nBẢNG CÁC NGUYÊN TỐ KHÁC\nElement Limiting content % by weight\nFe Iron 0.5\nO Oxygen 0.4\nOther elements, each 0.3\n(b) Niken hợp kim\nVật liệu kim loại mà trong đó hàm lượng của niken trội hơn so với hàm lượng của mỗi\nnguyên tố nào khác với điều kiện:\n(i) hàm lượng của coban trên 1,5% tính theo trọng lượng,\n(ii) hàm lượng tính theo trọng lượng của ít nhất 1 trong các nguyên tố khác trong thành\nphần vượt quá giới hạn nêu ở bảng trên, hoặc\n(i) tổng hàm lượng của các nguyên tố khác trừ niken và coban lớn hơn 1% tính theo\ntrọng lượng.\n2. Mặc dù đã quy định tại Chú giải 1(c), theo mục đích của phân nhóm 7508.10 khái niệm\n“dây\" chỉ áp dụng cho các sản phẩm, dù ở dạng cuộn hoặc không ở dạng cuộn, có hình\ndạng mặt cắt ngang bất kỳ, nhưng kích thước mặt cắt ngang không vượt quá 6 mm.",
@@ -2670,6 +3739,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "lắp ráp và gắn ống (nhóm 75"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2683,7 +3781,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2800,9 +3910,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "75081000": {
@@ -2873,6 +3996,35 @@
         "muc_dich_su_dung": [
           "mạ điện Anod bằng phương pháp điện phân kết tủa",
           "mạ Niken thường được thay thế bằng anod dạng giỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2886,7 +4038,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3005,7 +4169,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75089030": {
@@ -3076,6 +4247,35 @@
         "muc_dich_su_dung": [
           "mạ điện Anod bằng phương pháp điện phân kết tủa",
           "mạ Niken thường được thay thế bằng anod dạng giỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3089,7 +4289,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3208,7 +4420,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75089050": {
@@ -3279,6 +4498,35 @@
         "muc_dich_su_dung": [
           "mạ điện Anod bằng phương pháp điện phân kết tủa",
           "mạ Niken thường được thay thế bằng anod dạng giỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3292,7 +4540,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3411,7 +4671,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "75089090": {
@@ -3482,6 +4749,35 @@
         "muc_dich_su_dung": [
           "mạ điện Anod bằng phương pháp điện phân kết tủa",
           "mạ Niken thường được thay thế bằng anod dạng giỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3495,7 +4791,30 @@
         "TT31/2022/TT-BTC — Chú giải Chương 75",
         "Chú giải HS 2017 — Nhóm 75.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 75.08"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2236/TB-TCHQ",
+          "ngay": "08/04/2020",
+          "hang_hoa": "theo khai báo:",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2236/TB-TCH\nQ\nHà Nội, ngày 08 tháng 4 năm 2020\nTHÔNG BÁO\nVỀ KẾT QUẢ PHÂN LOẠI ĐỐI VỚI HÀNG HÓA XUẤT KH",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2236-tb-tchq-2020-phan-loai-day-hop-kim-niken-model-cr20ni80-292973-d6.html"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3632,7 +4951,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

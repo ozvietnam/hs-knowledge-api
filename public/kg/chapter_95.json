@@ -77,7 +77,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -196,7 +208,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95030021": {
@@ -207,28 +226,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Búp bê, có hoặc không có trang phục",
-      "en": null,
+      "en": "- - Dolls, whether or not dressed",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "5/8/10",
         "acfta": "0 (-ID, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)(GIC)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "5/8/10",
+            "acfta": "0 (-ID, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -277,7 +327,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -394,9 +456,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)(GIC)"
+            ],
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030022": {
@@ -407,28 +486,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Quần áo và phụ kiện quần áo; giầy và mũ",
-      "en": null,
+      "en": "- - - Garments and garment accessories; footwear and headgear",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "5/8/10",
         "acfta": "0 (-TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "5/8/10",
+            "acfta": "0 (-TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -477,7 +587,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -594,9 +716,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030029": {
@@ -607,28 +742,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "5/8/10",
         "acfta": "0 (-TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "5/8/10",
+            "acfta": "0 (-TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -677,7 +843,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -794,9 +972,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030030": {
@@ -877,7 +1068,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -996,7 +1199,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95030040": {
@@ -1077,7 +1287,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1196,7 +1418,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95030050": {
@@ -1207,28 +1436,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đồ chơi và bộ đồ chơi xây dựng khác, bằng mọi loại vật liệu trừ plastic",
-      "en": null,
+      "en": "- Other construction sets and constructional toys, of materials other than plastics",
       "dvt": "chiếc/bộ/hộp",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-LA, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-LA, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -1277,7 +1537,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1394,9 +1666,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030060": {
@@ -1407,28 +1692,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đồ chơi hình con vật hoặc sinh vật không phải hình người",
-      "en": null,
+      "en": "- Stuffed toys representing animals or non-human creatures",
       "dvt": "chiếc/bộ/hộp",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-LA, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-LA, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -1477,7 +1793,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1594,9 +1922,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030070": {
@@ -1607,28 +1948,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Các loại đồ chơi đố trí (puzzles)",
-      "en": null,
+      "en": "- Puzzles of all kinds",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "5/8/10",
         "acfta": "0 (-TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "5/8/10",
+            "acfta": "0 (-TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -1677,7 +2049,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1794,9 +2178,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030080": {
@@ -1807,28 +2204,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Thiết bị giáo dục điện tử tương tác cầm tay được thiết kế chủ yếu cho trẻ em (SEN)",
-      "en": null,
+      "en": "- Portable interactive electronic educational devices primarily designed for children",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-ID, LA, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)(GIC)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-ID, LA, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -1994,9 +2422,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)(GIC)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030091": {
@@ -2007,28 +2452,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Đồ chơi, xếp khối hoặc cắt rời hình chữ số, chữ cái hoặc hình con vật; bộ xếp chữ; bộ đồ chơi tạo chữ và tập nói; bộ đồ chơi in hình; bộ đồ chơi đếm (abaci); máy may đồ chơi; máy chữ đồ chơi",
-      "en": null,
+      "en": "- - Numerical, alphabetical or animal blocks or cut-outs; word builder sets; word making and talking sets; toy printing sets; toy counting frames (abaci); toy sewing machines; toy typewriters",
       "dvt": "chiếc/bộ/hộp",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-ID, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-ID, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -2077,7 +2553,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2194,9 +2682,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030092": {
@@ -2207,28 +2712,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Dây nhảy",
-      "en": null,
+      "en": "- - Skipping ropes",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -2277,7 +2813,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2394,9 +2942,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030093": {
@@ -2407,28 +2972,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hòn bi",
-      "en": null,
+      "en": "- - Marbles",
       "dvt": "kg/viên",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -2477,7 +3073,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2594,9 +3202,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030094": {
@@ -2607,28 +3232,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Các đồ chơi khác, bằng cao su",
-      "en": null,
+      "en": "- - Other toys, of rubber",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-ID, LA, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)(GIC)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-ID, LA, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -2677,7 +3333,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2794,9 +3462,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)(GIC)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95030099": {
@@ -2807,28 +3492,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "5/8/10",
         "acfta": "0 (-ID, LA, TH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)(GIC)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "5/8/10",
+            "acfta": "0 (-ID, LA, TH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -2877,7 +3593,19 @@
         "Chú giải HS 2017 — Nhóm 95.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng hóa nhóm 2 (2711/QĐ-BKHCN 2022)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3012,9 +3740,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)(GIC)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95042020": {
@@ -3025,28 +3770,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bàn bi-a các loại",
-      "en": null,
+      "en": "- - Tables for billiards of all kinds",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "27",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -3074,6 +3850,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3087,7 +3866,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3204,9 +4001,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "27"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95042030": {
@@ -3217,28 +4031,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Phấn xoa đầu gậy bi-a",
-      "en": null,
+      "en": "- - Billiard chalks",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -3266,6 +4111,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3279,7 +4127,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3396,9 +4262,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95042090": {
@@ -3409,28 +4292,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -3458,6 +4372,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3471,7 +4388,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3588,9 +4523,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95043030": {
@@ -3601,28 +4553,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Trò chơi may rủi ngẫu nhiên với giải thưởng nhận ngay bằng tiền mặt; các bộ phận và phụ kiện của chúng",
-      "en": null,
+      "en": "- - Games of chance that immediately return a monetary award; parts and accessories thereof",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -3650,6 +4633,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3663,7 +4649,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3780,9 +4784,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95043040": {
@@ -3793,28 +4814,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Máy trò chơi bắn bi (pintables) hoặc các máy trò chơi tự động (có khe nhét xèng hoặc xu) khác",
-      "en": null,
+      "en": "- - Other pintables or slot machines",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -3842,6 +4894,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3855,7 +4910,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3972,9 +5045,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95043050": {
@@ -3985,28 +5075,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác, bộ phận bằng gỗ, giấy hoặc plastic",
-      "en": null,
+      "en": "- - Other, parts of wood, paper or plastics",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4034,6 +5155,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4047,7 +5171,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4164,9 +5306,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95043090": {
@@ -4177,28 +5336,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "26",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4226,6 +5416,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4239,7 +5432,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4356,9 +5567,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "vcfta": [
+              null,
+              "26"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95044000": {
@@ -4369,28 +5597,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bộ bài",
-      "en": null,
+      "en": "- Playing cards",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "6",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
       },
       "chinh_sach": "HH NK phải làm thủ tục HQ tại CK nhập (23/2019/QĐ-TTg); Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4418,6 +5677,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4431,7 +5693,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "HH NK phải làm thủ tục HQ tại CK nhập (23/2019/QĐ-TTg); Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - "
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4548,9 +5828,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "6"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95045010": {
@@ -4561,28 +5862,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại sử dụng với một bộ thu truyền hình",
-      "en": null,
+      "en": "- - Of a kind used with a television receiver",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-BN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-BN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4610,6 +5942,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4623,7 +5958,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4740,9 +6087,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95045090": {
@@ -4753,28 +6113,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-BN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-BN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4802,6 +6193,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4815,7 +6209,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4932,9 +6338,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049010": {
@@ -4945,28 +6364,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Các loại đồ phụ trợ để chơi bowling",
-      "en": null,
+      "en": "- - Bowling requisites of all kinds",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -4994,6 +6444,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5007,7 +6460,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5124,9 +6595,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049021": {
@@ -5137,28 +6625,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bằng gỗ, giấy hoặc plastic",
-      "en": null,
+      "en": "- - - Of wood, of paper or of plastics",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -5186,6 +6705,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5199,7 +6721,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5316,9 +6856,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049029": {
@@ -5329,28 +6886,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -5378,6 +6966,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5391,7 +6982,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5508,9 +7117,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049032": {
@@ -5521,28 +7147,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bàn thiết kế để chơi bạc bằng gỗ hoặc plastic",
-      "en": null,
+      "en": "- - - Tables designed for use with casino games, of wood or of plastics",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -5570,6 +7227,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5583,7 +7243,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5700,9 +7378,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049033": {
@@ -5713,28 +7408,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại bàn khác thiết kế để chơi bạc",
-      "en": null,
+      "en": "- - - Other tables designed for use with casino games",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -5762,6 +7488,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5775,7 +7504,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5892,9 +7639,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049034": {
@@ -5905,28 +7669,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Quân bài Mạt chược bằng gỗ, giấy hoặc plastic",
-      "en": null,
+      "en": "- - - Mahjong tiles, of wood or of paper or of plastics",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -5954,6 +7749,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5967,7 +7765,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6084,9 +7900,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049035": {
@@ -6097,28 +7930,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Quân bài Mạt chược khác",
-      "en": null,
+      "en": "- - - Other Mahjong tiles",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "10/8",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "10/8",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": "Không được giảm VAT theo 174/2025/NĐ-CP - PL2: Bài lá"
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -6146,6 +8010,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -6159,7 +8026,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6276,9 +8161,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049036": {
@@ -6289,28 +8191,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác, bằng gỗ, giấy hoặc plastic",
-      "en": null,
+      "en": "- - - Other, of wood, of paper or of plastics",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -6338,6 +8271,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -6351,7 +8287,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6468,9 +8422,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049039": {
@@ -6481,28 +8452,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -6530,6 +8532,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -6543,7 +8548,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6660,9 +8683,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049092": {
@@ -6673,28 +8713,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Bằng gỗ hoặc bằng plastic",
-      "en": null,
+      "en": "- - - - Of wood or of plastics",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -6722,6 +8793,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -6735,7 +8809,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6852,9 +8944,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049093": {
@@ -6865,28 +8974,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -6914,6 +9054,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -6927,7 +9070,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7044,9 +9205,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049095": {
@@ -7057,28 +9235,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Bằng gỗ, giấy hoặc plastic",
-      "en": null,
+      "en": "- - - - Of wood, of paper or of plastics",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -7106,6 +9315,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -7119,7 +9331,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7236,9 +9466,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95049099": {
@@ -7249,28 +9496,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -7298,6 +9576,9 @@
         "muc_dich_su_dung": [
           "các trò chơi may rủi hoặc dùng kỹ năng của người chơi (ví dụ",
           "đường chạy bowling tự động"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -7311,7 +9592,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7428,9 +9727,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95051000": {
@@ -7441,28 +9757,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đồ dùng trong lễ Nô-en",
-      "en": null,
+      "en": "- Articles for Christmas festivities",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "27",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -7500,6 +9847,9 @@
           "ảo thuật",
           "mua vui",
           "dịp lễ hội (phân loại theo vật liệu cấu thành ví dụ như Chương 39 hoặc"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -7513,7 +9863,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7630,9 +9992,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "27"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "95059000": {
@@ -7643,28 +10026,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "27",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -7702,6 +10116,9 @@
           "ảo thuật",
           "mua vui",
           "dịp lễ hội (phân loại theo vật liệu cấu thành ví dụ như Chương 39 hoặc"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -7715,7 +10132,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7832,9 +10267,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "27"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "95061100": {
@@ -8055,7 +10511,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95061200": {
@@ -8276,7 +10739,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95061900": {
@@ -8497,7 +10967,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95062100": {
@@ -8718,7 +11195,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95062900": {
@@ -8939,7 +11423,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95063100": {
@@ -9160,7 +11651,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95063200": {
@@ -9381,7 +11879,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95063900": {
@@ -9392,28 +11897,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Nến (nhóm 34.06);\n(b) Pháo hoa hoặc các sản phẩm pháo khác thuộc\nnhóm 36.04;\n(c) Sợi, monoíilament, dây bện hoặc dây cước hoặc\ncác loại dây tương tự dùng cho đánh bắt thuỷ sản,\nđã cắt thành từng đoạn nhưng chưa làm thành dây\ncâu, thuộc Chương 39, nhóm 42.06 hoặc Phần XI;\n(d) Túi thể thao hoặc bao bì khác thuộc nhóm\n42.02, 43.03 hoặc 43.04;\n(e) Quần áo hoá trang, bằng vải dệt, thuộc Chương\n61 hoặc 62; quần áo thể thao và các mặt hàng may\nmặc đặc biệt bằng vải dệt,",
@@ -9600,9 +12136,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "95064010": {
@@ -9823,7 +12372,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95064090": {
@@ -10044,7 +12600,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95065100": {
@@ -10265,7 +12828,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95065900": {
@@ -10486,7 +13056,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95066100": {
@@ -10707,7 +13284,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95066200": {
@@ -10928,7 +13512,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95066900": {
@@ -11149,7 +13740,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95067000": {
@@ -11370,7 +13968,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95069100": {
@@ -11591,7 +14196,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95069910": {
@@ -11812,7 +14424,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95069920": {
@@ -12033,7 +14652,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95069930": {
@@ -12254,7 +14880,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95069990": {
@@ -12475,7 +15108,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95071000": {
@@ -12673,7 +15313,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95072000": {
@@ -12871,7 +15518,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95073000": {
@@ -13069,7 +15723,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95079000": {
@@ -13267,7 +15928,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95081000": {
@@ -13370,6 +16038,32 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.08"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "5285/TB-TCHQ",
+          "ngay": "30/10/2024",
+          "hang_hoa": "LEGOMUX Dung dịch uống\r\n  nhỏ giọt làm long đờm Thuốc tiêu chất nhầy đường hô hấp, dùng trong trường hợp: + Các bệnh cấp và mãn tính đường hô hấp có k",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-5285-TB-TCHQ-2024-ket-qua-xac-dinh-truoc-ma-so-LEGOMUX-630751.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.7586,
+          "match_type": "suggested"
+        },
+        {
+          "so_hieu": "5751/TB-TCHQ",
+          "ngay": "08/11/2023",
+          "hang_hoa": "VISMED® Dung dịch nhỏ\r\n    mắt VISMED Dùng cho trường hợp khô mắt và/hoặc tổn thương bề mặt nhãn cầu do một số bệnh như viêm giác mạc nông, hội chứng ",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-5751-TB-TCHQ-2023-ket-qua-xac-dinh-truoc-ma-so-VISMED%c2%ae-586403.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.7231,
+          "match_type": "suggested"
+        }
       ]
     },
     "regulatory_layer": {
@@ -13489,7 +16183,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082100": {
@@ -13711,7 +16412,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082200": {
@@ -13933,7 +16641,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082300": {
@@ -14155,7 +16870,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082400": {
@@ -14377,7 +17099,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082500": {
@@ -14599,7 +17328,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082600": {
@@ -14821,7 +17557,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95082900": {
@@ -15043,7 +17786,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95083000": {
@@ -15265,7 +18015,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "95084000": {
@@ -15368,6 +18125,20 @@
         "TT31/2022/TT-BTC — Chú giải Chương 95",
         "Chú giải HS 2017 — Nhóm 95.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 95.08"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "5283/TB-TCHQ",
+          "ngay": "30/10/2024",
+          "hang_hoa": "ATRI PLUS INJ Dung dịch tiêm\r\n  hoạt động như một chất bôi trơn khớp Thuốc điều trị đau trong viêm xương khớp (viêm khớp) đầu gối ở những bệnh nhân kh",
+          "noi_dung": "",
+          "co_tranh_chap": true,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-5283-TB-TCHQ-2024-ket-qua-xac-dinh-truoc-ma-so-doi-voi-ATRI-PLUS-INJ-630749.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.7301,
+          "match_type": "suggested"
+        }
       ]
     },
     "regulatory_layer": {
@@ -15487,7 +18258,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

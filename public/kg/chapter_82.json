@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Mai và xẻng",
-      "en": null,
+      "en": "- Spades and shovels",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -71,6 +102,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -84,7 +144,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -201,9 +279,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82013010": {
@@ -214,28 +305,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Dụng cụ xới, làm tơi đất và cào đất",
-      "en": null,
+      "en": "- - Hoes and rakes",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -278,6 +400,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -291,7 +442,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -408,9 +571,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82013090": {
@@ -421,28 +597,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -485,6 +692,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -498,7 +734,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -615,9 +869,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82014000": {
@@ -628,28 +895,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Rìu, câu liêm và các dụng cụ tương tự dùng để cắt chặt",
-      "en": null,
+      "en": "- Axes, bill hooks and similar hewing tools",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -692,6 +990,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -705,7 +1032,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -822,9 +1167,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82015000": {
@@ -835,28 +1193,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Kéo cắt cây và kéo cắt tỉa và kéo để tỉa loại lớn tương tự, loại sử dụng một tay (kể cả kéo cắt gia cầm)",
-      "en": null,
+      "en": "- Secateurs and similar one-handed pruners and shears (including poultry shears)",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -899,6 +1288,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -912,7 +1330,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1029,9 +1465,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82016000": {
@@ -1042,28 +1491,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Kéo tỉa xén hàng rào, kéo tỉa xén sử dụng hai tay và các loại kéo tương tự loại sử dụng hai tay",
-      "en": null,
+      "en": "- Hedge shears, two-handed pruning shears and similar two-handed shears",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -1106,6 +1586,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1119,7 +1628,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1236,9 +1763,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82019000": {
@@ -1249,28 +1789,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dụng cụ cầm tay khác thuộc loại sử dụng trong nông nghiệp, làm vườn hoặc lâm nghiệp",
-      "en": null,
+      "en": "- Other hand tools of a kind used in agriculture, horticulture or forestry",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -1313,6 +1884,35 @@
           "gia đình và các loại đặc biệt (Ví dụ: dụng cụ đào rãnh cho người đi cắm trại",
           "cắt nho có lưỡi hẹp nhỏ",
           "xén cỏ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1326,7 +1926,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1443,9 +2061,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82021000": {
@@ -1456,28 +2087,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Cưa tay",
-      "en": null,
+      "en": "- Hand saws",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "15",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -1521,7 +2183,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1638,9 +2312,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "15"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82022000": {
@@ -1835,7 +2526,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82023100": {
@@ -2030,7 +2728,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82023900": {
@@ -2225,7 +2930,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82024000": {
@@ -2236,28 +2948,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Lưỡi cưa xích",
-      "en": null,
+      "en": "- Chain saw blades",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -2418,9 +3161,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "82029100": {
@@ -2615,7 +3371,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82029910": {
@@ -2810,7 +3573,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82029990": {
@@ -3005,7 +3775,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82031000": {
@@ -3016,28 +3793,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Giũa, nạo và các dụng cụ tương tự",
-      "en": null,
+      "en": "- Files, rasps and similar tools",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "15",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -3205,9 +4013,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "15"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82032000": {
@@ -3218,28 +4043,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Kìm (kể cả kìm cắt), panh, nhíp và dụng cụ tương tự",
-      "en": null,
+      "en": "- Pliers (including cutting pliers), pincers, tweezers and similar tools",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "20",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -3407,9 +4263,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "20"
+            ]
+          }
+        }
+      ]
     }
   },
   "82033000": {
@@ -3611,7 +4492,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82034000": {
@@ -3813,7 +4701,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82041100": {
@@ -3824,28 +4719,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Không điều chỉnh được",
-      "en": null,
+      "en": "- - Non-adjustable",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -3883,7 +4809,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4000,9 +4938,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "3"
+            ]
+          }
+        }
+      ]
     }
   },
   "82041200": {
@@ -4013,28 +4968,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Điều chỉnh được",
-      "en": null,
+      "en": "- - Adjustable",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -4189,9 +5175,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82042000": {
@@ -4202,28 +5205,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đầu cờ lê có thể thay đổi được, có hoặc không có tay vặn",
-      "en": null,
+      "en": "- Interchangeable spanner sockets, with or without handles",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -4261,7 +5295,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4378,9 +5424,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82051000": {
@@ -4391,28 +5454,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dụng cụ để khoan, ren hoặc ta rô",
-      "en": null,
+      "en": "- Drilling, threading or tapping tools",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -4588,9 +5682,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "82052000": {
@@ -4601,28 +5712,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Búa và búa tạ",
-      "en": null,
+      "en": "- Hammers and sledge hammers",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -4798,9 +5940,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82053000": {
@@ -4811,28 +5970,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bào, đục, đục máng và dụng cụ cắt tương tự cho việc chế biến gỗ",
-      "en": null,
+      "en": "- Planes, chisels, gouges and similar cutting tools for working wood",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -4891,7 +6081,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5008,9 +6210,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82054000": {
@@ -5021,28 +6236,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Tuốc nơ vít",
-      "en": null,
+      "en": "- Screwdrivers",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -5101,7 +6347,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5218,9 +6476,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82055100": {
@@ -5231,28 +6502,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Dụng cụ dùng trong gia đình",
-      "en": null,
+      "en": "- - Household tools",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -5311,7 +6613,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5428,9 +6742,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82055900": {
@@ -5441,28 +6772,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -5521,6 +6883,17 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2524/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "Lưỡi dao cong thép không gỉ",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2524/TB-TCHQ\nHà Nội, ngày 25 th\ná\nng\n5\nnăm 2023\nTHÔNG BÁO\nVề kết quả xác định trước mã số\nTỔNG CỤC TRƯ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2524-tb-tchq-2023-xac-dinh-ma-so-doi-voi-luoi-dao-cong-thep-khong-gi-293035-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -5656,9 +7029,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82056000": {
@@ -5669,28 +7055,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đèn hàn",
-      "en": null,
+      "en": "- Blow lamps",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -5749,7 +7166,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5866,9 +7295,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82057000": {
@@ -5879,28 +7321,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Mỏ cặp, bàn cặp và các đồ nghề tương tự",
-      "en": null,
+      "en": "- Vices, clamps and the like",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -5959,7 +7432,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6076,9 +7561,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82059000": {
@@ -6089,28 +7591,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác, bao gồm bộ dụng cụ của hai phân nhóm trở lên thuộc nhóm này",
-      "en": null,
+      "en": "- Other, including sets of articles of two or more subheadings of this heading",
       "dvt": "bộ",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -6169,7 +7702,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6286,9 +7831,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82060000": {
@@ -6299,28 +7857,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bộ dụng cụ từ hai nhóm trở lên thuộc các nhóm từ 82.02 đến 82.05, đã đóng bộ để bán lẻ",
-      "en": null,
+      "en": "Tools of two or more of the headings 82.02 to 82.05, put up in sets for retail sale",
       "dvt": "bộ",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "18.5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -6356,7 +7945,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6473,9 +8074,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "18.5"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82071300": {
@@ -6486,28 +8104,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Có bộ phận làm việc bằng gốm kim loại",
-      "en": null,
+      "en": "- - With working part of cermets",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -6685,9 +8334,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "82071900": {
@@ -6698,28 +8360,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác, kể cả các bộ phận",
-      "en": null,
+      "en": "- - Other, including parts",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -6897,9 +8590,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "82072000": {
@@ -7111,7 +8817,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82073000": {
@@ -7122,28 +8835,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dụng cụ để ép, dập hoặc đục lỗ",
-      "en": null,
+      "en": "- Tools for pressing, stamping or punching",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -7390,9 +9134,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ]
+          }
+        }
+      ]
     }
   },
   "82074000": {
@@ -7604,7 +9361,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82075000": {
@@ -7816,7 +9580,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82076000": {
@@ -8028,7 +9799,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82077000": {
@@ -8240,7 +10018,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82078000": {
@@ -8452,7 +10237,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82079000": {
@@ -8664,7 +10456,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82081000": {
@@ -8869,7 +10668,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82082000": {
@@ -9074,7 +10880,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82083000": {
@@ -9085,28 +10898,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dùng cho dụng cụ nhà bếp hoặc cho máy dùng trong công nghiệp thực phẩm",
-      "en": null,
+      "en": "- For kitchen appliances or for machines used by the food industry",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -9160,7 +11004,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9277,9 +11133,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82084000": {
@@ -9484,7 +11353,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82089000": {
@@ -9495,28 +11371,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -9687,9 +11594,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ]
+          }
+        }
+      ]
     }
   },
   "82090000": {
@@ -9873,7 +11793,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82100000": {
@@ -9884,28 +11811,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Đồ dùng cơ khí hoạt động bằng tay, nặng 10 kg trở xuống, dùng để chế biến, pha chế hoặc phục vụ đồ ăn hoặc đồ uống",
-      "en": null,
+      "en": "Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -9928,6 +11886,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chế biến"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -9941,7 +11928,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10058,9 +12063,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82111000": {
@@ -10251,7 +12269,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119100": {
@@ -10310,6 +12335,35 @@
         "muc_dich_su_dung": [
           "nhà bếp",
           "thể thao (tất cả những loại dao này có thể có nhiều lưỡi"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -10323,7 +12377,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.11"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10442,7 +12508,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119250": {
@@ -10633,7 +12706,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119292": {
@@ -10824,7 +12904,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119299": {
@@ -11015,7 +13102,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119321": {
@@ -11206,7 +13300,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119329": {
@@ -11397,7 +13498,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119330": {
@@ -11588,7 +13696,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119390": {
@@ -11779,7 +13894,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119410": {
@@ -11970,7 +14092,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119490": {
@@ -12161,7 +14290,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82119500": {
@@ -12352,7 +14488,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "82121000": {
@@ -12363,28 +14506,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dao cạo",
-      "en": null,
+      "en": "- Razors",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -12403,6 +14577,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "dao cạo không dùng điện"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -12416,7 +14619,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -12533,9 +14754,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82122010": {
@@ -12546,28 +14784,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Lưỡi dao cạo kép",
-      "en": null,
+      "en": "- - Double-edged razor blades",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -12586,6 +14855,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "dao cạo không dùng điện"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -12599,7 +14897,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -12716,9 +15026,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82122090": {
@@ -12729,28 +15052,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -12769,6 +15123,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "dao cạo không dùng điện"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -12782,7 +15165,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -12899,9 +15294,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "82129000": {
@@ -12912,28 +15320,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Các bộ phận khác",
-      "en": null,
+      "en": "- Other parts",
       "dvt": "chiếc",
       "rates": {
         "tt": "25.5",
         "mfn": "17",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "25.5",
+            "mfn": "17",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -12952,6 +15391,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "dao cạo không dùng điện"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -12965,7 +15433,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.12",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.12"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -13082,9 +15562,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ]
+          }
+        }
+      ]
     }
   },
   "82130000": {
@@ -13095,28 +15588,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Kéo, kéo thợ may và các loại kéo tương tự, và lưỡi của chúng",
-      "en": null,
+      "en": "Scissors, tailors’ shears and similar shears, and blades therefor",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -13157,7 +15681,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.13",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.13"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -13274,9 +15810,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82141000": {
@@ -13287,28 +15848,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dao rọc giấy, dao mở thư, dao cào giấy, vót bút chì và lưỡi của các loại dao đó",
-      "en": null,
+      "en": "- Paper knives, letter openers, erasing knives, pencil sharpeners and blades therefor",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -13341,7 +15933,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -13458,9 +16062,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82142000": {
@@ -13471,28 +16096,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bộ đồ và dụng cụ cắt sửa móng tay hoặc móng chân (kể cả dũa móng)",
-      "en": null,
+      "en": "- Manicure or pedicure sets and instruments (including nail files)",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -13512,6 +16168,35 @@
         "muc_dich_su_dung": [
           "xén lông động vật",
           "kéo xén cơ khí của nhóm 84"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -13525,7 +16210,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -13642,9 +16345,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82149000": {
@@ -13655,28 +16379,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -13709,7 +16464,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.14",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.14"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -13826,9 +16593,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82151000": {
@@ -13839,28 +16623,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bộ sản phẩm có ít nhất một thứ đã được mạ kim loại quý",
-      "en": null,
+      "en": "- Sets of assorted articles containing at least one article plated with precious metal",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MM)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -13889,7 +16704,56 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -13902,7 +16766,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.15",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.15"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 4 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -14019,9 +16901,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MM)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82152000": {
@@ -14032,28 +16931,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bộ sản phẩm tổ hợp khác",
-      "en": null,
+      "en": "- Other sets of assorted articles",
       "dvt": "bộ",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "22.5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -14082,7 +17012,56 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -14095,7 +17074,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.15",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.15"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 4 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -14212,9 +17209,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "22.5"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82159100": {
@@ -14225,28 +17243,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Được mạ kim loại quý",
-      "en": null,
+      "en": "- - Plated with precious metal",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MM)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -14275,7 +17324,56 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -14288,7 +17386,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.15",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.15"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 4 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -14405,9 +17521,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MM)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "82159900": {
@@ -14418,28 +17551,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "22.5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT )",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Ngoài các mặt hàng như đèn hàn, bộ bệ rèn xách\ntay, các loại đá mài có lắp gá đỡ, bộ sửa móng tay\nhoặc móng chân, và các mặt hàng thuộc nhóm\n82.09, Chương này chỉ bao gồm các sản phẩm có\nlưỡi, cạnh sắc, bề mặt làm việc hoặc bộ phận làm\nviệc khác bằng:\n(a) Kim loại cơ bản;\n(b) Carbua kim loại hoặc gốm kim loại;\n(c) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp\nhoặc tái tạo) gắn với nền kim loại cơ bản, carbua\nkim loại hoặc gốm kim loại; hoặc\n(d) Vật liệu mài gắn với nền kim loại cơ bản, với\nđiều ",
@@ -14468,7 +17632,56 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -14481,7 +17694,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 82",
         "Chú giải HS 2017 — Nhóm 82.15",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 82.15"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 4 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -14598,9 +17823,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "22.5"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   }
 }

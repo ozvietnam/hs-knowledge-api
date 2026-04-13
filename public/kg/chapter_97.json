@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tranh vẽ, tranh phác họa và tranh bột màu",
-      "en": null,
+      "en": "- - Paintings, drawings and pastels",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -190,9 +221,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97012200": {
@@ -203,28 +247,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tranh khảm",
-      "en": null,
+      "en": "- - Mosaics",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -386,9 +461,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97012900": {
@@ -399,28 +487,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -582,9 +701,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97019100": {
@@ -595,28 +727,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tranh vẽ, tranh phác họa và tranh bột màu",
-      "en": null,
+      "en": "- - Paintings, drawings and pastels",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -778,9 +941,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97019200": {
@@ -791,28 +967,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tranh khảm",
-      "en": null,
+      "en": "- - Mosaics",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -974,9 +1181,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97019900": {
@@ -987,28 +1207,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -1170,9 +1421,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "1"
+            ]
+          }
+        }
+      ]
     }
   },
   "97021000": {
@@ -1183,28 +1447,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Có tuổi trên 100 năm",
-      "en": null,
+      "en": "- Of an age exceeding 100 years",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -1357,9 +1652,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "97029000": {
@@ -1370,28 +1678,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -1544,9 +1883,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "97031000": {
@@ -1736,7 +2088,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97039000": {
@@ -1926,7 +2285,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97040000": {
@@ -1937,28 +2303,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Tem bưu chính hoặc tem thuế, dấu in cước thay tem bưu chính, phong bì có tem đóng dấu ngày phát hành đầu tiên, các ấn phẩm bưu chính (ấn phẩm có in sẵn tem), và các ấn phẩm tương tự, đã hoặc chưa sử dụng, trừ loại thuộc nhóm 49.07",
-      "en": null,
+      "en": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07",
       "dvt": "chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tem bưu chính hoặc tem thuế chưa sử dụng,\nbưu thiếp (đã đóng sẵn tem) hoặc loại tương tự,\nthuộc nhóm 49.07;\n(b) Phông sân khấu, phông trường quay hoặc loại\ntương tự, bằng vải canvas đã sơn vẽ (nhóm 59.07)\ntrừ khi chúng có thể phân loại được vào nhóm\n97.06; hoặc\n(c) Ngọc trai, tự nhiên hoặc nuôi cấy, hoặc đá quý\nhoặc đá bán quý (thuộc các nhóm từ 71.01 đến\n71.03).\n2. Nhóm 97.01 không áp dụng cho tranh khảm\nđược tái sản xuất hàng loạt, đồ đúc hoặc tác phẩm\nthủ công",
@@ -2005,7 +2402,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 97",
         "Chú giải HS 2017 — Nhóm 97.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 97.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2122,9 +2531,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "97051000": {
@@ -2324,7 +2746,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97052100": {
@@ -2524,7 +2953,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97052200": {
@@ -2724,7 +3160,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97052900": {
@@ -2924,7 +3367,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97053100": {
@@ -3124,7 +3574,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97053900": {
@@ -3324,7 +3781,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97061000": {
@@ -3525,7 +3989,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "97069000": {
@@ -3726,7 +4197,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

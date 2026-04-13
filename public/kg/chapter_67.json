@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Da và các bộ phận khác của loài chim có lông vũ hoặc lông tơ, lông vũ, các phần của lông vũ, lông tơ và các sản phẩm làm từ chúng (trừ các mặt hàng thuộc nhóm 05.05 và các ống, lông cánh, lông đuôi đã chế biến)",
-      "en": null,
+      "en": "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes)",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -76,7 +107,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -193,9 +236,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "67021000": {
@@ -206,28 +262,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng plastic",
-      "en": null,
+      "en": "- Of plastics",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID, LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -244,7 +331,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -255,7 +371,31 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 67"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 3,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          },
+          {
+            "type": "C5",
+            "severity": "LOW",
+            "desc": "Có yêu cầu KTCN nhưng thiếu chú giải pháp lý",
+            "detail": "2 KTCN requirements"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -372,9 +512,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID, LA)"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "67029010": {
@@ -385,28 +542,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bằng giấy",
-      "en": null,
+      "en": "- - Of paper",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID, LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "30",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -423,7 +611,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -434,7 +651,31 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 67"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 3,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=30.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=30.0"
+          },
+          {
+            "type": "C5",
+            "severity": "LOW",
+            "desc": "Có yêu cầu KTCN nhưng thiếu chú giải pháp lý",
+            "detail": "2 KTCN requirements"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -551,9 +792,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID, LA)"
+            ],
+            "ahkfta": [
+              null,
+              "30"
+            ]
+          }
+        }
+      ]
     }
   },
   "67029020": {
@@ -564,28 +822,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bằng vật liệu dệt",
-      "en": null,
+      "en": "- - Of textile materials",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID, LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "30",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -602,7 +891,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -613,7 +931,31 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 67"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 3,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=30.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=30.0"
+          },
+          {
+            "type": "C5",
+            "severity": "LOW",
+            "desc": "Có yêu cầu KTCN nhưng thiếu chú giải pháp lý",
+            "detail": "2 KTCN requirements"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -730,9 +1072,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID, LA)"
+            ],
+            "ahkfta": [
+              null,
+              "30"
+            ]
+          }
+        }
+      ]
     }
   },
   "67029090": {
@@ -743,28 +1102,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID, LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "30",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -781,7 +1171,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -792,7 +1211,31 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 67"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 3,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=30.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=30.0"
+          },
+          {
+            "type": "C5",
+            "severity": "LOW",
+            "desc": "Có yêu cầu KTCN nhưng thiếu chú giải pháp lý",
+            "detail": "2 KTCN requirements"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -909,9 +1352,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID, LA)"
+            ],
+            "ahkfta": [
+              null,
+              "30"
+            ]
+          }
+        }
+      ]
     }
   },
   "67030000": {
@@ -922,28 +1382,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Tóc người, đã được chải, chuốt, tẩy hoặc xử lý bằng cách khác; lông cừu hoặc lông động vật khác hoặc các loại vật liệu dệt khác, được chế biến để dùng làm tóc giả hoặc sản phẩm tương tự",
-      "en": null,
+      "en": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -971,6 +1462,45 @@
         "muc_dich_su_dung": [
           "làm tóc giá và các sản phẩm tương tự",
           "kéo sợi"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -984,7 +1514,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cat_giam_ktcn"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1101,9 +1649,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "67041100": {
@@ -1114,28 +1675,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bộ tóc giả hoàn chỉnh",
-      "en": null,
+      "en": "- - Complete wigs",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -1223,6 +1815,35 @@
           "lễ hội",
           "nha khoa (nhóm 90",
           "vẽ) hoặc của nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1236,7 +1857,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1353,9 +1992,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "67041900": {
@@ -1366,28 +2022,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -1475,6 +2162,35 @@
           "lễ hội",
           "nha khoa (nhóm 90",
           "vẽ) hoặc của nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1488,7 +2204,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1605,9 +2339,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "67042000": {
@@ -1618,28 +2369,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng tóc người",
-      "en": null,
+      "en": "- Of human hair",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -1727,6 +2509,35 @@
           "lễ hội",
           "nha khoa (nhóm 90",
           "vẽ) hoặc của nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1740,7 +2551,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1857,9 +2686,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "67049000": {
@@ -1870,28 +2716,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng vật liệu khác",
-      "en": null,
+      "en": "- Of other materials",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)",
+        "aanzfta": "0",
+        "aifta": "15",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "5",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Vải lọc (íiltering hoặc straining) loại làm bằng\ntóc người (nhóm 59.11);\n(b) Các hoa văn trang trí bằng ren, đồ thêu hoặc vải\ndệt khác (Phần XI);\n(c) Giày, dép (Chương 64);\n(d) Mũ và các vật đội đầu khác hoặc lưới bao tóc\n(Chương 65);\n(e) Đồ chơi, dụng cụ, thiết bị thể thao hoặc các mặt\nhàng dùng trong lễ hội carnival (Chương 95); hoặc\n(f) Chổi phất trần, nùi bông thoa phấn bằng lông vũ\nhoặc mạng lọc bằng lông (Chương 96).\n2. Nhóm 67.01 không bao gồm:\n(a) Các sản",
@@ -1979,6 +2856,35 @@
           "lễ hội",
           "nha khoa (nhóm 90",
           "vẽ) hoặc của nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1992,7 +2898,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 67",
         "Chú giải HS 2017 — Nhóm 67.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 67.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2109,9 +3033,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)"
+            ],
+            "aifta": [
+              null,
+              "15"
+            ],
+            "ahkfta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   }
 }

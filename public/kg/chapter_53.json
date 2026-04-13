@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Lanh, dạng nguyên liệu thô hoặc đã ngâm",
-      "en": null,
+      "en": "- Flax, raw or retted",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -70,6 +101,47 @@
           "kéo lại thành sợi",
           "kéo sợi) thường được chải thô và không được chải kỹ",
           "nhồi hoặc để đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -83,7 +155,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -200,9 +284,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "53012100": {
@@ -276,6 +373,47 @@
           "kéo lại thành sợi",
           "kéo sợi) thường được chải thô và không được chải kỹ",
           "nhồi hoặc để đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -289,7 +427,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -408,7 +558,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53012900": {
@@ -482,6 +639,47 @@
           "kéo lại thành sợi",
           "kéo sợi) thường được chải thô và không được chải kỹ",
           "nhồi hoặc để đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -495,7 +693,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -614,7 +824,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53013000": {
@@ -688,6 +905,35 @@
           "kéo lại thành sợi",
           "kéo sợi) thường được chải thô và không được chải kỹ",
           "nhồi hoặc để đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -701,7 +947,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -820,7 +1078,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53021000": {
@@ -831,28 +1096,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Gai dầu, dạng nguyên liệu thô hoặc đã ngâm",
-      "en": null,
+      "en": "- True hemp, raw or retted",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -894,6 +1190,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "kéo thành sợi (có dạng hoặc không có dạng cúi sợi (sliver) hoặc dạng sợi thô (roving))"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -907,7 +1244,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1024,9 +1373,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "53029000": {
@@ -1037,28 +1399,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -1100,6 +1493,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "kéo thành sợi (có dạng hoặc không có dạng cúi sợi (sliver) hoặc dạng sợi thô (roving))"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -1113,7 +1547,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1230,9 +1676,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "53031000": {
@@ -1296,6 +1755,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ ra rằng chúng được dùng như là như các nguyên liệu dệt (ví dụ: khi chúng được ép"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -1309,7 +1809,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1428,7 +1940,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53039000": {
@@ -1492,6 +2011,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ ra rằng chúng được dùng như là như các nguyên liệu dệt (ví dụ: khi chúng được ép"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -1505,7 +2065,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1624,7 +2196,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53050010": {
@@ -1693,7 +2272,48 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1706,7 +2326,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1825,7 +2457,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53050021": {
@@ -1894,7 +2533,48 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1907,7 +2587,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2026,7 +2718,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53050022": {
@@ -2095,7 +2794,48 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2108,7 +2848,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2227,7 +2979,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53050023": {
@@ -2296,7 +3055,48 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2309,7 +3109,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2428,7 +3240,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53050090": {
@@ -2497,7 +3316,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2510,7 +3358,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2629,7 +3489,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53061000": {
@@ -2684,7 +3551,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2697,7 +3593,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2816,7 +3724,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53062000": {
@@ -2871,7 +3786,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2884,7 +3828,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3003,7 +3959,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53071000": {
@@ -3056,7 +4019,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -3069,7 +4061,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3188,7 +4192,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53072000": {
@@ -3241,7 +4252,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -3254,7 +4294,30 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.07"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "3846/TB-TCHQ",
+          "ngay": "11/06/2019",
+          "hang_hoa": "theo khai báo:",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 3846/TB-TCHQ\nHà Nội, ngày 11 tháng 6 năm 2019\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-3846-tb-tchq-2019-phan-loai-hang-hoa-la-day-thung-bang-soi-day-297130-d6.html"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3373,7 +4436,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53081000": {
@@ -3440,6 +4510,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ khâu (trong sản xuất sản phẩm giày hoặc da)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3453,7 +4552,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3572,7 +4683,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53082000": {
@@ -3639,6 +4757,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ khâu (trong sản xuất sản phẩm giày hoặc da)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3652,7 +4799,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3771,7 +4930,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53089010": {
@@ -3838,6 +5004,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ khâu (trong sản xuất sản phẩm giày hoặc da)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3851,7 +5046,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3970,7 +5177,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53089090": {
@@ -4037,6 +5251,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "chỉ khâu (trong sản xuất sản phẩm giày hoặc da)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4050,7 +5293,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.08",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.08"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4169,7 +5424,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53091100": {
@@ -4225,6 +5487,65 @@
         "muc_dich_su_dung": [
           "ga trải giường",
           "bọc đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4238,7 +5559,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.09"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4357,7 +5690,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53091900": {
@@ -4413,6 +5753,65 @@
         "muc_dich_su_dung": [
           "ga trải giường",
           "bọc đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4426,7 +5825,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.09"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4545,7 +5956,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53092100": {
@@ -4601,6 +6019,65 @@
         "muc_dich_su_dung": [
           "ga trải giường",
           "bọc đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4614,7 +6091,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.09"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4733,7 +6222,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53092900": {
@@ -4744,28 +6240,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/m/m2",
       "rates": {
         "tt": "18",
         "mfn": "12",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "6",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "18",
+            "mfn": "12",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -4789,6 +6316,65 @@
         "muc_dich_su_dung": [
           "ga trải giường",
           "bọc đệm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4802,7 +6388,30 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.09",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.09"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "3989/TB-TCHQ",
+          "ngay": "17/06/2019",
+          "hang_hoa": "theo khai báo:",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 3989/TB-TCHQ\nHà Nội, ngày 17 tháng 6 năm 2019\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-3989-tb-tchq-2019-phan-loai-hang-hoa-la-vai-det-thoi-065-linen-296997-d6.html"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4919,9 +6528,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "6"
+            ],
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "53101010": {
@@ -4977,6 +6603,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bao tải hoặc vỏ bao bì"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -4990,7 +6675,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5109,7 +6806,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53101090": {
@@ -5165,6 +6869,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bao tải hoặc vỏ bao bì"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5178,7 +6941,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5297,7 +7072,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53109000": {
@@ -5353,6 +7135,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bao tải hoặc vỏ bao bì"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5366,7 +7207,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 53",
         "Chú giải HS 2017 — Nhóm 53.10",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.10"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5485,7 +7338,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53110010": {
@@ -5548,6 +7408,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "phân loại các sợi"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5564,7 +7483,19 @@
         "Chú giải HS 2017 — Nhóm 53.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.11",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5683,7 +7614,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "53110020": {
@@ -5694,28 +7632,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vải bố (burlap) từ xơ chuối abaca (SEN)",
-      "en": null,
+      "en": "- Burlap of abaca",
       "dvt": "kg/m/m2",
       "rates": {
         "tt": "18",
         "mfn": "12",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "18",
+            "mfn": "12",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -5746,6 +7715,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "phân loại các sợi"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5762,7 +7790,19 @@
         "Chú giải HS 2017 — Nhóm 53.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.11",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5879,9 +7919,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   },
   "53110090": {
@@ -5892,28 +7945,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/m/m2",
       "rates": {
         "tt": "18",
         "mfn": "12",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "2",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân (42/2019/TT-BCT, 33/2025/TT-BCT); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "18",
+            "mfn": "12",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": null,
@@ -5944,6 +8028,65 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "phân loại các sợi"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH mua bán, trao đổi qua cửa khẩu phụ, lối mở biên giới của thương nhân",
+            "van_ban": "33/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -5960,7 +8103,19 @@
         "Chú giải HS 2017 — Nhóm 53.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 53.11",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 5 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cua_khau_phu, cua_khau_phu, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6077,9 +8232,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "2"
+            ]
+          }
+        }
+      ]
     }
   }
 }

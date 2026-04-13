@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Nguồn gốc chỉ từ thực vật",
-      "en": null,
+      "en": "- Of solely vegetable origin",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học\nriêng biệt (trừ những mặt hàng đã ghi trong các\nChú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ\nphận quang học) mỗi tinh thể nặng từ 2,5g trở lên,\nthuộc nhóm 38.24; các bộ phận quang học bằng\nkali clorua (nhóm 90.01).\n2. Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau\nđây, với điều kiện không được tạo thành các hình\ndạng hoặc đóng gói the",
@@ -201,9 +232,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "31010092": {
@@ -214,28 +258,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Nguồn gốc từ động vật (trừ phân chim, dơi), đã qua xử lý hóa học",
-      "en": null,
+      "en": "- - Of animal origin (other than guano), chemically treated",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học\nriêng biệt (trừ những mặt hàng đã ghi trong các\nChú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ\nphận quang học) mỗi tinh thể nặng từ 2,5g trở lên,\nthuộc nhóm 38.24; các bộ phận quang học bằng\nkali clorua (nhóm 90.01).\n2. Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau\nđây, với điều kiện không được tạo thành các hình\ndạng hoặc đóng gói the",
@@ -408,9 +483,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "31010099": {
@@ -421,28 +509,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học\nriêng biệt (trừ những mặt hàng đã ghi trong các\nChú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ\nphận quang học) mỗi tinh thể nặng từ 2,5g trở lên,\nthuộc nhóm 38.24; các bộ phận quang học bằng\nkali clorua (nhóm 90.01).\n2. Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau\nđây, với điều kiện không được tạo thành các hình\ndạng hoặc đóng gói the",
@@ -615,9 +734,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "31021000": {
@@ -628,28 +760,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Urê, có hoặc không ở trong dung dịch nước",
-      "en": null,
+      "en": "- Urea, whether or not in aqueous solution",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); NL làm thuốc XK, NK là dược chất và BTP thuốc (09/2024/TT-BYT-DM7)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -674,7 +837,48 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Y tế"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -687,7 +891,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 31",
         "Chú giải HS 2017 — Nhóm 31.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 31.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -822,9 +1038,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31022100": {
@@ -835,28 +1076,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Amoni sulphat",
-      "en": null,
+      "en": "- - Ammonium sulphate",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1011,9 +1283,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31022900": {
@@ -1024,28 +1309,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1200,9 +1516,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31023000": {
@@ -1213,28 +1542,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Amoni nitrat, có hoặc không ở trong dung dịch nước",
-      "en": null,
+      "en": "- Ammonium nitrate, whether or not in aqueous solution",
       "dvt": "kg",
       "rates": {
         "tt": "4.5",
         "mfn": "3",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0/5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HH NK phải làm thủ tục HQ tại CK nhập (23/2019/QĐ-TTg); Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất (113/2017/NĐ-CP PL4); Hàng hóa KTCN về chất lượng SP HH nhóm 2 (1182/QĐ-BCT-PL1-2021)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "4.5",
+            "mfn": "3",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1259,7 +1619,44 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          },
+          {
+            "mo_ta": "Hóa chất nguy hiểm phải xây dựng KH phòng ngừa, ứng phó sự cố hóa chất",
+            "van_ban": "113/2017/NĐ-CP",
+            "danh_muc": "PL4",
+            "co_quan": "BCT",
+            "loai": "hoa_chat",
+            "tier": 2,
+            "loai_ten": "Hóa chất nguy hiểm, hóa chất cấm",
+            "don_vi": "Cục Hóa chất"
+          },
+          {
+            "mo_ta": "Hàng hóa KTCN về chất lượng SP HH nhóm 2",
+            "van_ban": "1182/QĐ-BCT",
+            "danh_muc": "PL1",
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "TTg"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1272,7 +1669,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 31",
         "Chú giải HS 2017 — Nhóm 31.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 31.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hoa_chat, attp_bct"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1389,9 +1798,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "0/5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31024000": {
@@ -1402,28 +1824,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hỗn hợp của amoni nitrat với canxi carbonat hoặc các chất vô cơ khác không phải phân bón",
-      "en": null,
+      "en": "- Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1461,6 +1914,17 @@
         "TT31/2022/TT-BTC — Chú giải Chương 31",
         "Chú giải HS 2017 — Nhóm 31.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 31.02"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "5244/TB-TCHQ",
+          "ngay": "07/09/2018",
+          "hang_hoa": "theo khai báo:",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 5244/TB-TCHQ\nHà Nội, ngày 07 tháng 9 năm 2018\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-5244-tb-tchq-tong-cuc-hai-quan-298548-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -1578,9 +2042,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31025000": {
@@ -1591,28 +2068,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Natri nitrat",
-      "en": null,
+      "en": "- Sodium nitrate",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1767,9 +2275,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31026000": {
@@ -1780,28 +2301,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Muối kép và hỗn hợp của canxi nitrat và amoni nitrat ",
-      "en": null,
+      "en": "- Double salts and mixtures of calcium nitrate and ammonium nitrate",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -1956,9 +2508,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31028000": {
@@ -1969,28 +2534,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hỗn hợp urê và amoni nitrat ở trong dung dịch nước hoặc dung dịch amoniac",
-      "en": null,
+      "en": "- Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -2145,9 +2741,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31029000": {
@@ -2158,28 +2767,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác, kể cả hỗn hợp chưa được chi tiết trong các phân nhóm trước",
-      "en": null,
+      "en": "- Other, including mixtures not specified in the foregoing subheadings",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -2334,9 +2974,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31031110": {
@@ -2347,28 +3000,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại dùng làm thức ăn chăn nuôi (SEN)",
-      "en": null,
+      "en": "- - - Feed grade",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -2529,9 +3213,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31031190": {
@@ -2542,28 +3267,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -2724,9 +3480,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31031910": {
@@ -2737,28 +3534,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại dùng làm thức ăn chăn nuôi (SEN)",
-      "en": null,
+      "en": "- - - Feed grade",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -2919,9 +3747,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31031990": {
@@ -2932,28 +3801,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3114,9 +4014,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31039010": {
@@ -3127,28 +4068,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Phân phosphat đã nung (SEN)",
-      "en": null,
+      "en": "- - Calcined phosphatic fertilisers",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3309,9 +4281,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31039090": {
@@ -3322,28 +4335,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3504,9 +4548,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31042000": {
@@ -3517,28 +4574,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Kali clorua ",
-      "en": null,
+      "en": "- Potassium chloride",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3692,9 +4780,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31043000": {
@@ -3705,28 +4806,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Kali sulphat",
-      "en": null,
+      "en": "- Potassium sulphate",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3880,9 +5012,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31049000": {
@@ -3893,28 +5038,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -3951,6 +5127,17 @@
         "TT31/2022/TT-BTC — Chú giải Chương 31",
         "Chú giải HS 2017 — Nhóm 31.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 31.04"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2481/TB-TCHQ",
+          "ngay": "20/04/2020",
+          "hang_hoa": "theo khai báo: Phân bón lá Kali trung vi lượng Synux M; 30% K",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2481/TB-TCHQ\nHà Nội, ngày 20 tháng 4 năm 2020\nTHÔNG BÁO\nVỀ KẾT QUẢ PHÂN LOẠI ĐỐI VỚI HÀNG HÓA XUẤT KHẨ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2481-tb-tchq-2020-ket-qua-phan-loai-hang-hoa-xuat-khau-nhap-khau-292778-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -4068,9 +5255,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31051010": {
@@ -4081,28 +5281,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- -  Supephosphat và phân phosphat đã nung",
-      "en": null,
+      "en": "- - Superphosphates and calcined phosphatic fertilisers",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "6",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -4296,9 +5527,46 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "6"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31051020": {
@@ -4309,28 +5577,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Phân khoáng hoặc phân hóa học có chứa hai hoặc ba trong số các nguyên tố cấu thành phân bón là nitơ, phospho và kali",
-      "en": null,
+      "en": "- - Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "1",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "6",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -4394,6 +5693,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -4524,9 +5839,46 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "1"
+            ],
+            "ahkfta": [
+              null,
+              "6"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ]
+          }
+        }
+      ]
     }
   },
   "31051090": {
@@ -4537,28 +5889,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -4622,6 +6005,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -4752,9 +6151,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31052000": {
@@ -4765,28 +6185,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "-  Phân khoáng hoặc phân hóa học có chứa ba nguyên tố cấu thành phân bón là nitơ, phospho và kali",
-      "en": null,
+      "en": "- Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "1",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,7",
+        "ukvfta": "0,7",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -4850,6 +6301,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -4980,9 +6447,46 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "1"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,7"
+            ],
+            "ukvfta": [
+              null,
+              "0,7"
+            ]
+          }
+        }
+      ]
     }
   },
   "31053000": {
@@ -4993,28 +6497,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "-  Diamoni hydro orthophosphat (diamoni phosphat)",
-      "en": null,
+      "en": "- Diammonium hydrogenorthophosphate (diammonium phosphate)",
       "dvt": "kg",
       "rates": {
         "tt": "9",
         "mfn": "6",
         "vat": "5/8/10",
         "acfta": "5",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "9",
+            "mfn": "6",
+            "vat": "5/8/10",
+            "acfta": "5",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -5078,6 +6613,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -5208,9 +6759,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "31054000": {
@@ -5221,28 +6793,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Amoni dihydro orthophosphat (monoamoni phosphat) và hỗn hợp của nó với diamoni hydro orthophosphat (diamoni phosphat)",
-      "en": null,
+      "en": "- Ammonium dihydrogenorthophosphate (monoammonium phosphate) and mixtures thereof with diammonium hydrogenorthophosphate (diammonium phosphate)",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "0",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -5306,6 +6909,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -5436,9 +7055,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "31055100": {
@@ -5449,28 +7081,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Chứa nitrat và phosphat",
-      "en": null,
+      "en": "- - Containing nitrates and phosphates",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -5534,6 +7197,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -5664,9 +7343,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31055900": {
@@ -5677,28 +7373,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -5762,6 +7489,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -5892,9 +7635,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   },
   "31056000": {
@@ -6122,7 +7878,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "31059000": {
@@ -6133,28 +7896,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": "5",
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Áp thuế tự vệ đối với Phân bón (Nhiều nước) (715/QĐ-BCT-2020)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Máu động vật thuộc nhóm 05.11;\n(b) Các hợp chất đã được xác định về mặt hoá học riêng biệt (trừ những mặt hàng đã ghi\ntrong các Chú giải 2(a), 3(a), 4(a) hoặc 5 dưới đây); hoặc\n(c) Các tinh thể kali clorua nuôi cấy (trừ các bộ phận quang học) mỗi tinh thể nặng từ 2,5g\ntrở lên, thuộc nhóm 38.24; các bộ phận quang học bằng kali clorua (nhóm 90.01).\n2.- Nhóm 31.02 chỉ áp dụng cho các mặt hàng sau đây, với điều kiện không được tạo thành các\nhình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Natri nitrat, tinh khiết hoặc không tinh khiết;\n(ii) Amoni nitrat, tinh khiết hoặc không tinh khiết;\n(iii) Muối kép, tinh khiết hoặc không tinh khiết, của amoni sulphat và amoni nitrat;\n(iv) Amoni sulphat, tinh khiết hoặc không tinh khiết;\n(v) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và amoni\nnitrat;\n(vi) Muối kép (tinh khiết hoặc không tinh khiết) hoặc hỗn hợp canxi nitrat và magie\nnitrat;\n(vii) Canxi xyanamit, tinh khiết hoặc không tinh khiết hoặc được xử lý với dầu;\n(viii) Urê, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại nào đã mô tả trong mục (a) trên được pha trộn với nhau.\n(c) Phân bón chứa amoni clorua hoặc các loại bất kỳ đã mô tả trong mục (a) hoặc (b) trên\nđây được pha trộn với đá phấn, thạch cao hoặc các chất vô cơ không phải là phân bón.\n(d) Phân bón dạng lỏng gồm những mặt hàng ghi trong mục (a)(ii) hoặc (viii) kể trên, hoặc\nhỗn hợp của những mặt hàng này, ở dạng dung dịch nước hoặc dạng dung dịch\namoniac.\n3.- Nhóm 31.03 chỉ áp dụng cho các mặt hàng dưới đây, với điều kiện không được tạo thành\ncác hình dạng hoặc đóng gói theo cách thức đã được mô tả trong nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Xỉ bazơ;\n(ii) Phosphat tự nhiên thuộc nhóm 25.10, đã nung hoặc xử lý thêm bằng nhiệt để loại\nbỏ tạp chất;\n(iii) Supephosphat (đơn, kép hoặc ba);\n(iv) Canxi hydro orthophosphat có hàm lượng flo từ 0,2% trở lên tính trên trọng lượng\nsản phẩm khô khan nước.\n(b) Phân bón gồm bất kỳ các loại được mô tả ở mục (a) trên đây đã pha trộn với nhau, nhưng\nkhông xem xét đến giới hạn về hàm lượng flo.\n(c) Phân bón chứabất kỳ các loại được mô tả trong mục (a) hoặc (b) trên đây, nhưng không\nxem xét đến giới hạn về hàm lượng flo, được trộn với đá phấn, thạch cao hoặc các chất\nvô cơ khác không phải là phân bón.\n242\n4.- Nhóm 31.04 chỉ áp dụng cho các loại mặt hàng dưới đây, với điều kiện là chúng không được\ntạo thành các hình dạng hoặc đóng gói theo cách thức được mô tả ở nhóm 31.05:\n(a) Mặt hàng đáp ứng một trong các mô tả sau:\n(i) Muối kali tự nhiên dạng thô (ví dụ, carnallite, kainite và sylvite);\n(ii) Kali clorua, tinh khiết hoặc không tinh khiết, trừ loại ghi trong Chú giải 1(c) ở\ntrên;\n(iii) Kali sulphat, tinh khiết hoặc không tinh khiết;\n(iv) Magiê kali sulphat, tinh khiết hoặc không tinh khiết.\n(b) Phân bón gồm bất kỳ các loại đã mô tả trong mục (a) trên đây được pha trộn với nhau.\n5. Amoni dihydroorthophosphat (monoamoni phosphat) và diamoni hydroorthophosphat\n(diamoni phosphat), tinh khiết hoặc không tinh khiết, và hỗn hợp của 2 loại đó, được xếp\nvào nhóm 31.05.\n6. Theo mục đích của nhóm 31.05, khái niệm \"phân bón khác\" chỉ áp dụng cho các sản phẩm\nđược sử dụng như phân bón và chứa ít nhất một trong các nguyên tố cấu thành cơ bản của\nphân bón như nitơ, phospho hoặc kali.",
@@ -6218,6 +8012,22 @@
         "muc_dich_su_dung": [
           "tạo màu mọi chất liệu hoặc dùng như là nguyên liệu trong việc sản xuất các chế phẩm màu",
           "sản xuất sơn"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Áp thuế tự vệ đối với Phân bón (Nhiều nước)",
+            "van_ban": "715/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "attp_bct",
+            "tier": 4,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Công Thương)",
+            "don_vi": "Vụ Khoa học Công nghệ"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
         ]
       },
       "phan_biet": [],
@@ -6231,6 +8041,26 @@
         "TT31/2022/TT-BTC — Chú giải Chương 31",
         "Chú giải HS 2017 — Nhóm 31.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 31.05"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "308/TB-TCHQ",
+          "ngay": "10/04/2020",
+          "hang_hoa": "theo khai báo: Phân bón hỗn hợp NK YUROKA 21-21 (thành phần N: 21%, K2",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2\n308/TB-TCHQ\nHà Nội, ngày 10\ntháng 4 năm 2020\nTHÔNG BÁO\nVỀ KẾT QUẢ PHÂN LOẠI ĐỐI VỚI HÀNG HÓA XUẤT KH",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2308-tb-tchq-2020-phan-loai-phan-bon-hon-hop-nk-yuroka-21-21-292882-d6.html"
+        },
+        {
+          "so_hieu": "52/TB-TCHQ",
+          "ngay": "01/04/2020",
+          "hang_hoa": "theo khai báo: Phân bón lá hỗn hợp NK River-K; 12%N; 43%K2O, 2%MgO. Dạng bột, đóng gói: 25kgs/bao. Hàng phù hợp quyết định 1062/QĐ-BVTV-PB. Hàng mới 100% (mục 3 tờ khai hải quan)",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2\n1\n52/TB-TCHQ\nHà Nội, ngày 01 tháng 4 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất k",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2152-tb-tchq-2020-phan-loai-phan-bon-la-hon-hop-nk-river-k-293363-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -6348,9 +8178,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "xk": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   }
 }

@@ -68,6 +68,35 @@
           "tạo ra các sản phẩm thực phẩm cô đặc và dược phẩm",
           "việc chế biến thực phẩm hoặc như là chất keo hồ",
           "ngành dược"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -81,7 +110,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BYT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: duoc_pham, duoc_pham"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -200,7 +241,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35019010": {
@@ -404,7 +452,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35019020": {
@@ -608,7 +663,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35021100": {
@@ -662,6 +724,25 @@
         "muc_dich_su_dung": [
           "làm các sản phẩm keo hồ",
           "việc phòng bệnh và chữa bệnh và huyết thanh cho người (Chương 30)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -794,7 +875,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35021900": {
@@ -848,6 +936,25 @@
         "muc_dich_su_dung": [
           "làm các sản phẩm keo hồ",
           "việc phòng bệnh và chữa bệnh và huyết thanh cho người (Chương 30)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -980,7 +1087,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35022000": {
@@ -1034,6 +1148,25 @@
         "muc_dich_su_dung": [
           "làm các sản phẩm keo hồ",
           "việc phòng bệnh và chữa bệnh và huyết thanh cho người (Chương 30)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -1166,7 +1299,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35029000": {
@@ -1352,7 +1492,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35030041": {
@@ -1557,7 +1704,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35030049": {
@@ -1627,6 +1781,35 @@
           "công nghiệp in",
           "chế tạo plastic (gelatin được làm cứng) và dùng để sản xuất ra hàng hóa",
           "ngành dược"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -1643,7 +1826,19 @@
         "Chú giải HS 2017 — Nhóm 35.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.03",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BYT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: duoc_pham, duoc_pham"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1762,7 +1957,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35030050": {
@@ -1967,7 +2169,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35030061": {
@@ -2172,7 +2381,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35030069": {
@@ -2377,7 +2593,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35040000": {
@@ -2467,6 +2690,37 @@
         "muc_dich_su_dung": [
           "nuôi cấy vi khuẩn",
           "xác định tanin trong nguyên liệu tanin tự nhiên và trong chiết xuất tanin thực vật"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          },
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT",
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn",
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -2480,6 +2734,26 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.04"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2654/TB-TCHQ",
+          "ngay": "31/05/2023",
+          "hang_hoa": ": S",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2654/TB-TCHQ\nHà Nội, ngày 31 tháng 5 năm 2023\nTHÔNG BÁO\nVề kết quả xác định trước mã số\nTỔNG CỤC TRƯỞN",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2654-tb-tchq-2023-xac-dinh-ma-so-supro-548-ip-dbb-isolated-soy-protein-293030-d6.html"
+        },
+        {
+          "so_hieu": "6256/TB-TCHQ",
+          "ngay": "24/10/2018",
+          "hang_hoa": "theo khai báo: Lactoferrin, quy cách đóng gói: 5kg/bao, Nguyên liệu sản xuất sữa (mục 1 tờ khai hải quan)",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n6256/TB-TCHQ\nHà Nội\n, ngày\n24\ntháng\n10\nnăm\n2018\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất k",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-6256-tb-tchq-tong-cuc-hai-quan-298265-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -2797,7 +3071,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35051010": {
@@ -2808,28 +3089,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Dextrin; tinh bột tan hoặc tinh bột đã rang",
-      "en": null,
+      "en": "- - Dextrins; soluble or roasted starches",
       "dvt": "kg",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng (15/2024/TT-BYT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -2863,6 +3175,25 @@
         "muc_dich_su_dung": [
           "sản xuất khuôn đúc lõi cáp điện)",
           "bột bao tay phẫu thuật"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -2993,9 +3324,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KR)"
+            ]
+          }
+        }
+      ]
     }
   },
   "35051090": {
@@ -3006,28 +3350,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng (15/2024/TT-BYT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -3061,6 +3436,25 @@
         "muc_dich_su_dung": [
           "sản xuất khuôn đúc lõi cáp điện)",
           "bột bao tay phẫu thuật"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -3074,6 +3468,26 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.05"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "1671\n/TB-TCHQ",
+          "ngay": "17/03/2020",
+          "hang_hoa": "theo khai báo: Unifilma HVY-Dextrin(5cartonx",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n1671\n/TB-TCHQ\nHà Nội, ngày 17 tháng 3 năm 2020\nTHÔNG BÁO\nVề\nkết quả phân loại đối với hàng hóa xuất kh",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-1671-tb-tchq-2020-phan-loai-unifilma-hvy-dextrin-294114-d6.html"
+        },
+        {
+          "so_hieu": "1673/TB-TCHQ",
+          "ngay": "17/03/2020",
+          "hang_hoa": "theo khai báo: Rheopearl HC-Dextrin(5cartonx",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 1673/TB-TCHQ\nHà Nội, ngày 17 tháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-1673-tb-tchq-2020-phan-loai-rheopearl-hc-dextrin-294111-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -3191,9 +3605,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KR)"
+            ]
+          }
+        }
+      ]
     }
   },
   "35052000": {
@@ -3204,28 +3631,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Keo",
-      "en": null,
+      "en": "- Glues",
       "dvt": "kg",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -3389,9 +3847,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KR)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "35061000": {
@@ -3402,28 +3877,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Các sản phẩm phù hợp dùng như keo hoặc như các chất kết dính, đã đóng gói để bán lẻ như keo hoặc như các chất kết dính, khối lượng tịnh không quá 1kg",
-      "en": null,
+      "en": "- Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg",
       "dvt": "kg",
       "rates": {
         "tt": "21",
         "mfn": "14",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "3",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "21",
+            "mfn": "14",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -3478,6 +3984,17 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.06"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2440/TB-TCHQ",
+          "ngay": "17/04/2020",
+          "hang_hoa": "theo khai báo: Gel silicon dùng để dính bụi, hiệu Zm, mới 100% (mục 5 tờ khai hải quan)",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2440/TB-TCHQ\nHà Nội, ngày\n17\ntháng\n4\nnăm\n2020\nTHÔNG BÁO\nVỀ KẾT QUẢ PHÂN LOẠI ĐỐI VỚI HÀNG HÓA XUẤT KHẨ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2440-tb-tchq-2020-ket-qua-phan-loai-hang-hoa-xuat-khau-nhap-khau-292800-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -3749,9 +4266,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "3"
+            ]
+          }
+        }
+      ]
     }
   },
   "35069110": {
@@ -3762,28 +4292,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Chất kết dính dạng free-film trong suốt quang học và chất kết dính dạng lỏng có thể đóng rắn trong suốt quang học chỉ được sử dụng hoặc được sử dụng chủ yếu để sản xuất màn hình dẹt hoặc màn hình cảm ứng (SEN)",
-      "en": null,
+      "en": "- - - Optically clear free-film adhesives and optically clear curable liquid adhesives of a kind used solely or principally for the manufacture of flat panel displays or touch-sensitive screen panels",
       "dvt": "kg",
       "rates": {
         "tt": "21",
         "mfn": "14",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "14",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "21",
+            "mfn": "14",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -3958,9 +4519,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "14"
+            ]
+          }
+        }
+      ]
     }
   },
   "35069190": {
@@ -3971,28 +4557,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "kg",
       "rates": {
         "tt": "21",
         "mfn": "14",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "14",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "21",
+            "mfn": "14",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -4167,9 +4784,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "14"
+            ]
+          }
+        }
+      ]
     }
   },
   "35069900": {
@@ -4180,28 +4822,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg",
       "rates": {
         "tt": "21",
         "mfn": "14",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "5",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "5",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "21",
+            "mfn": "14",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -4256,6 +4929,17 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.06"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2263/TB-TCHQ",
+          "ngay": "09/04/2020",
+          "hang_hoa": "th",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nB\nỘ\nTÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2263/TB-TCHQ\nHà Nội, ngày 09 tháng 4 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất kh",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2263-tb-tchq-2020-phan-loai-chat-tao-ket-dinh-de-ghep-mang-muc-in-292933-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -4373,9 +5057,38 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "5"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aifta": [
+              null,
+              "5"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "35071000": {
@@ -4596,7 +5309,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "35079000": {
@@ -4607,28 +5327,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/lít",
       "rates": {
         "tt": "4.5",
         "mfn": "3",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng (15/2024/TT-BYT); NL làm thuốc XK, NK là dược chất và BTP thuốc (09/2024/TT-BYT-DM7); NL làm thuốc XK, NK là dược chất và BTP thuốc (09/2024/TT-BYT-DM7)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "4.5",
+            "mfn": "3",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh\nhoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc\nChương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).\n2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải\nvới hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
@@ -4685,6 +5436,45 @@
           "ngâm hoặc giặt và các sản phẩm khác thuộc Chương 34",
           "tẩy lớp hồ vải",
           "miêu tả cả nhựa đã được làm khô của cây đu đủ (Carica papay"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -4698,7 +5488,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 35",
         "Chú giải HS 2017 — Nhóm 35.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 35.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BYT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: attp_byt, duoc_pham, duoc_pham"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4833,9 +5635,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ]
+          }
+        }
+      ]
     }
   }
 }

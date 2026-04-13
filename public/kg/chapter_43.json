@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của loài chồn vizôn, da nguyên con, có hoặc không có đầu, đuôi hoặc bàn chân",
-      "en": null,
+      "en": "- Of mink, whole, with or without head, tail or paws",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch (01/2024/TT-BNNPTNT M1)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -57,7 +88,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -187,9 +237,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43013000": {
@@ -200,28 +263,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của các giống cừu như: Astrakhan, Broadtail, Caracul, Ba Tư và các giống cừu tương tự, cừu Ấn Độ, Trung Quốc, Mông Cổ hoặc Tây Tạng, da nguyên con, có hoặc không có đầu, đuôi hoặc bàn chân",
-      "en": null,
+      "en": "- Of lamb, the following: Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch (01/2024/TT-BNNPTNT M1)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -250,7 +344,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -380,9 +493,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43016000": {
@@ -393,28 +519,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của loài cáo, da nguyên con, có hoặc không có đầu, đuôi hoặc bàn chân",
-      "en": null,
+      "en": "- Of fox, whole, with or without head, tail or paws",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch (01/2024/TT-BNNPTNT M1)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -443,7 +600,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -573,9 +749,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43018000": {
@@ -586,28 +775,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của loài động vật khác, da nguyên con, có hoặc không có đầu, đuôi hoặc bàn chân",
-      "en": null,
+      "en": "- Other furskins, whole, with or without head, tail or paws",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch (01/2024/TT-BNNPTNT M1)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -636,7 +856,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -766,9 +1005,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43019000": {
@@ -779,28 +1031,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đầu, đuôi, bàn chân và các mẩu hoặc các mảnh cắt khác, thích hợp cho việc thuộc da lông",
-      "en": null,
+      "en": "- Heads, tails, paws and other pieces or cuttings, suitable for furriers' use",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch (01/2024/TT-BNNPTNT M1)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -829,7 +1112,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Động vật, sản phẩm động vật trên cạn phải kiểm dịch",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M1",
+            "co_quan": "BNNPTNT",
+            "loai": "kiem_dich_dong_vat",
+            "tier": 3,
+            "loai_ten": "Kiểm dịch động vật và sản phẩm động vật trên cạn",
+            "don_vi": "Cục Thú y"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -959,9 +1261,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43021100": {
@@ -972,28 +1287,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Của loài chồn vizôn",
-      "en": null,
+      "en": "- - Of mink",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -1034,6 +1380,20 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.02"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "1113/TB-TCHQ",
+          "ngay": "19/03/2024",
+          "hang_hoa": "vỏ đựng bút\r\n    cảm ứng (mặt ngoài bằng da) đựng và bảo vệ bút cảm ứng, là phụ kiện dùng cho điện thoại",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-1113-TB-TCHQ-2024-ket-qua-xac-dinh-truoc-ma-so-ASSY-CASE-Q5-PEN-603307.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.8942,
+          "match_type": "auto"
+        }
       ]
     },
     "regulatory_layer": {
@@ -1151,9 +1511,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43021900": {
@@ -1164,28 +1537,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -1343,9 +1747,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ]
+          }
+        }
+      ]
     }
   },
   "43022000": {
@@ -1537,7 +1954,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "43023000": {
@@ -1729,7 +2153,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "43031000": {
@@ -1740,28 +2171,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Hàng may mặc và đồ phụ trợ quần áo",
-      "en": null,
+      "en": "- Articles of apparel and clothing accessories",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0 (-KH)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0 (-KH)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -1789,7 +2251,46 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1802,7 +2303,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1919,9 +2432,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "43039020": {
@@ -1932,28 +2462,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Sản phẩm dùng cho mục đích công nghiệp",
-      "en": null,
+      "en": "- - Articles for industrial uses",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -1981,7 +2542,46 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1994,7 +2594,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cat_giam_ktcn"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2111,9 +2729,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "43039090": {
@@ -2124,28 +2755,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "15",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -2173,7 +2835,46 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2186,7 +2887,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cat_giam_ktcn"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2303,9 +3016,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "15"
+            ]
+          }
+        }
+      ]
     }
   },
   "43040010": {
@@ -2316,28 +3042,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Da lông nhân tạo",
-      "en": null,
+      "en": "- Artificial fur",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -2398,6 +3155,35 @@
           "tết bện",
           "máy móc và thiết bị và đồ dùng của thợ đóng xe);",
           "các sản phẩm thuộc nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2411,7 +3197,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2528,9 +3332,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "43040020": {
@@ -2541,28 +3362,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Sản phẩm dùng cho mục đích công nghiệp",
-      "en": null,
+      "en": "- Articles for industrial uses",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -2623,6 +3475,35 @@
           "tết bện",
           "máy móc và thiết bị và đồ dùng của thợ đóng xe);",
           "các sản phẩm thuộc nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2636,7 +3517,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2753,9 +3652,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "43040091": {
@@ -2766,28 +3682,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Túi thể thao",
-      "en": null,
+      "en": "- - Sports bags",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2); DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành (765/QĐ-BCT ngày 29/03/2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -2848,6 +3795,45 @@
           "tết bện",
           "máy móc và thiết bị và đồ dùng của thợ đóng xe);",
           "các sản phẩm thuộc nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM mặt hàng đã được cắt giảm kiểm tra chuyên ngành",
+            "van_ban": "765/QĐ-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cat_giam_ktcn",
+            "tier": 4,
+            "loai_ten": "Danh mục đã được cắt giảm kiểm tra chuyên ngành",
+            "don_vi": "Bộ Công Thương"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -2861,7 +3847,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd, cat_giam_ktcn"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2978,9 +3982,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   },
   "43040099": {
@@ -2991,28 +4012,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc/m2",
       "rates": {
         "tt": "37.5",
         "mfn": "25",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "25",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); HH tạm ngừng KD TNTX CK (08/2023/TT-BCT - PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "37.5",
+            "mfn": "25",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1.- Trong toàn bộ Danh mục những nội dung liên quan đến “da lông”, trừ da lông sống thuộc\nnhóm 43.01, áp dụng cho da sống còn lông của các loài động vật, đã thuộc hoặc chuội.\n2.- Chương này không bao gồm:\n(a) Da chim hoặc các phần của da chim, có lông vũ hoặc lông tơ (nhóm 05.05 hay 67.01);\n(b) Da sống, còn lông, thuộc Chương 41 (xem Chú giải 1(c) Chương đó);\n(c) Găng tay, găng hở ngón và găng tay bao, bằng da thuộc và da lông hoặc bằng da thuộc\nvà da lông nhân tạo (nhóm 42.03);\n(d) Các vật phẩm thuộc Chương 64;\n(e) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; hoặc\n(f) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể\nthao).\n3.- Nhóm 43.03 kể cả da lông và các phần da lông, được ghép cùng với vật liệu khác, và da\nlông và các phần da lông, được may lại với nhau tạo thành quần áo hay các chi tiết hoặc phụ\ntrợ quần áo hoặc dưới dạng sản phẩm khác.\n4.- Hàng may mặc và phụ trợ quần áo (trừ các sản phẩm mà phần Chú giải 2 đã loại trừ) được lót\nbằng da lông hoặc da lông nhân tạo hoặc ở mặt ngoài được đính da lông hoặc da lông nhân tạo\ntrừ đồ trang trí thuần túy được xếp vào nhóm 43.03 hay 43.04 tùy theo từng trường hợp.\n5.- Trong toàn bộ Danh mục cụm từ “da lông nhân tạo” là loại giả da lông gồm lông cừu, lông\nđộng vật hay các loại sợi khác được gắn hoặc may lên da thuộc, lên vải dệt hoặc lên các loại\nvật liệu khác, nhưng không bao gồm giả da lông làm bằng cách dệt thoi hay dệt kim (thông\nthường, thuộc nhóm 58.01 hay 60.01).",
@@ -3073,6 +4125,35 @@
           "tết bện",
           "máy móc và thiết bị và đồ dùng của thợ đóng xe);",
           "các sản phẩm thuộc nhóm 96"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "HH tạm ngừng KD TNTX CK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL2",
+            "co_quan": "BCT",
+            "loai": "tam_ngung_kd",
+            "tier": 3,
+            "loai_ten": "Hàng hóa tạm ngừng kinh doanh tạm nhập tái xuất chuyển khẩu",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -3086,7 +4167,51 @@
         "TT31/2022/TT-BTC — Chú giải Chương 43",
         "Chú giải HS 2017 — Nhóm 43.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 43.04"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "3937\n/TB-TCHQ",
+          "ngay": "09/08/2021",
+          "hang_hoa": "theo cấu tạo, công dụng: Bảng hiển thị điện t Bảng hiển thị điện t",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n3937\n/TB-TCHQ\nHà Nội, ngày 09 tháng 8 năm 2021\nTHÔNG BÁO\nĐính chính thông báo kết quả xác định trước m",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-3937-tb-tchq-2021-dinh-chinh-thong-bao-ket-qua-xac-dinh-truoc-ma-so-295049-d6.html",
+          "vector_matched": true,
+          "match_confidence": 0.7633,
+          "match_type": "suggested"
+        },
+        {
+          "so_hieu": "4032/TB-TCHQ",
+          "ngay": "02/08/2023",
+          "hang_hoa": "Thẻ theo dõi vị trí đồ vật thông minh Trace Tag Thẻ theo dõi vị\r\n    trí đồ vật thông minh Trace Tag, dùng quản lý và theo dõi tài sản. Sản phẩm\r\n    ",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-4032-TB-TCHQ-2023-xac-dinh-truoc-ma-so-The-theo-doi-vi-tri-do-vat-thong-minh-Trace-Tag-575091.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.7125,
+          "match_type": "suggested"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: hang_tieu_dung, tam_ngung_kd"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=25.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=25.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3203,9 +4328,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "25"
+            ]
+          }
+        }
+      ]
     }
   }
 }

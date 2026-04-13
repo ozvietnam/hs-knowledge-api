@@ -57,6 +57,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -189,7 +205,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89011020": {
@@ -250,6 +273,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -382,7 +421,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89011060": {
@@ -443,6 +489,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -575,7 +637,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89011070": {
@@ -636,6 +705,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -768,7 +853,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89011080": {
@@ -829,6 +921,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -961,7 +1069,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89011090": {
@@ -1022,6 +1137,22 @@
         "muc_dich_su_dung": [
           "vận chuyển một số hàng nhất định",
           "vận chuyển hàng hoá"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "HH NK phải làm thủ tục HQ tại CK nhập",
+            "van_ban": "23/2019/QĐ-TTg",
+            "danh_muc": null,
+            "co_quan": "TTg",
+            "loai": "thu_tuc_ck_nhap",
+            "tier": 4,
+            "loai_ten": "Hàng hóa phải làm thủ tục hải quan tại cửa khẩu nhập",
+            "don_vi": "Tổng cục Hải quan"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "TTg"
         ]
       },
       "phan_biet": [],
@@ -1154,7 +1285,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89012050": {
@@ -1165,28 +1303,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) không quá 5.000",
-      "en": null,
+      "en": "- - Of a gross tonnage not exceeding 5,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -1228,7 +1397,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1345,9 +1526,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89012071": {
@@ -1358,28 +1552,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 5.000 nhưng không quá 20.000",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 5,000 but not exceeding 20,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "3",
         "mfn": "2",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "3",
+            "mfn": "2",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -1421,7 +1646,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1538,9 +1775,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89012072": {
@@ -1551,28 +1801,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 20.000 nhưng không quá 30.000",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 20,000 but not exceeding 30,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "3",
         "mfn": "2",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "3",
+            "mfn": "2",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -1614,7 +1895,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1731,9 +2024,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89012073": {
@@ -1744,28 +2050,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 30.000 nhưng không quá 50.000",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 30,000 but not exceeding 50,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "3",
         "mfn": "2",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "3",
+            "mfn": "2",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -1807,7 +2144,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1924,9 +2273,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89012080": {
@@ -2000,7 +2362,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2119,7 +2493,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89013050": {
@@ -2193,7 +2574,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2312,7 +2705,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89013070": {
@@ -2386,7 +2786,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2505,7 +2917,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89013080": {
@@ -2579,7 +2998,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2698,7 +3129,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89019011": {
@@ -2772,7 +3210,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2891,7 +3341,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89019012": {
@@ -2965,7 +3422,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3084,7 +3553,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89019014": {
@@ -3158,7 +3634,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3277,7 +3765,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89019031": {
@@ -3288,28 +3783,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) không quá 26 ",
-      "en": null,
+      "en": "- - - Of a gross tonnage not exceeding 26",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -3351,7 +3877,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3468,9 +4006,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89019032": {
@@ -3481,28 +4032,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 26 nhưng không quá 500 ",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 26 but not exceeding 500",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -3544,7 +4126,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3661,9 +4255,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89019033": {
@@ -3674,28 +4281,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 500 nhưng không quá 1.000 ",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 500 but not exceeding 1,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -3737,7 +4375,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3854,9 +4504,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89019034": {
@@ -3867,28 +4530,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 1.000 nhưng không quá 4.000 ",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 1,000 but not exceeding 4,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -3930,7 +4624,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4047,9 +4753,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89019035": {
@@ -4060,28 +4779,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Tổng dung tích (gross tonnage) trên 4.000 nhưng không quá 5.000",
-      "en": null,
+      "en": "- - - Of a gross tonnage exceeding 4,000 but not exceeding 5,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -4123,7 +4873,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4240,9 +5002,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89019036": {
@@ -4316,7 +5091,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4435,7 +5222,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89019037": {
@@ -4509,7 +5303,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4628,7 +5434,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89020031": {
@@ -4639,28 +5452,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) không quá 26 ",
-      "en": null,
+      "en": "- - Of a gross tonnage not exceeding 26",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -4814,9 +5658,62 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020032": {
@@ -4827,28 +5724,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 26 nhưng dưới 40 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 26 but less than 40",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5002,9 +5930,62 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020033": {
@@ -5015,28 +5996,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) từ 40 trở lên nhưng không quá 101",
-      "en": null,
+      "en": "- - Of a gross tonnage of 40 or more but not exceeding 101",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5190,9 +6202,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020034": {
@@ -5203,28 +6260,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 101 nhưng không quá 250 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 101 but not exceeding 250",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5378,9 +6466,46 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020035": {
@@ -5391,28 +6516,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 250 nhưng không quá 1.000",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 250 but not exceeding 1,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "5",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5566,9 +6722,42 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "5"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "1"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020036": {
@@ -5579,28 +6768,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 1.000 nhưng không quá 4.000 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 1,000 but not exceeding 4,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "5",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5754,9 +6974,42 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "5"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "1"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020037": {
@@ -5767,28 +7020,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 4.000",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 4,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -5942,9 +7226,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020041": {
@@ -5955,28 +7252,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) không quá 26 ",
-      "en": null,
+      "en": "- - Of a gross tonnage not exceeding 26",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -6130,9 +7458,62 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020042": {
@@ -6143,28 +7524,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 26 nhưng dưới 40 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 26 but less than 40",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -6318,9 +7730,62 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020043": {
@@ -6331,28 +7796,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) từ 40 trở lên nhưng không quá 101",
-      "en": null,
+      "en": "- - Of a gross tonnage of 40 or more but not exceeding 101",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "5",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -6506,9 +8002,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "5"
+            ],
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020044": {
@@ -6519,28 +8060,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 101 nhưng không quá 250 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 101 but not exceeding 250",
       "dvt": "chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "10",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "3,6",
+        "ukvfta": "3,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -6694,9 +8266,46 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aanzfta": [
+              null,
+              "10"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "3,6"
+            ],
+            "ukvfta": [
+              null,
+              "3,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020045": {
@@ -6707,28 +8316,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 250 nhưng không quá 1.000",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 250 but not exceeding 1,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "5",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -6882,9 +8522,42 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "5"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "1"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020046": {
@@ -6895,28 +8568,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 1.000 nhưng không quá 4.000 ",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 1,000 but not exceeding 4,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "5",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "1",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -7070,9 +8774,38 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "1"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "89020047": {
@@ -7083,28 +8816,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tổng dung tích (gross tonnage) trên 4.000",
-      "en": null,
+      "en": "- - Of a gross tonnage exceeding 4,000",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -7258,9 +9022,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89031100": {
@@ -7328,7 +9105,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7447,7 +9236,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89031200": {
@@ -7515,7 +9311,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7634,7 +9442,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89031900": {
@@ -7702,7 +9517,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -7821,7 +9648,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89032100": {
@@ -7889,7 +9723,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8008,7 +9854,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89032200": {
@@ -8076,7 +9929,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8195,7 +10060,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89032300": {
@@ -8263,7 +10135,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8382,7 +10266,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89033100": {
@@ -8450,7 +10341,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8569,7 +10472,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89033200": {
@@ -8637,7 +10547,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8756,7 +10678,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89033300": {
@@ -8824,7 +10753,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -8943,7 +10884,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89039300": {
@@ -9011,7 +10959,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9130,7 +11090,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89039900": {
@@ -9198,7 +11165,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9317,7 +11296,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89040010": {
@@ -9384,7 +11370,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9503,7 +11501,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89040032": {
@@ -9570,7 +11575,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9689,7 +11706,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89040033": {
@@ -9756,7 +11780,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -9875,7 +11911,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89040034": {
@@ -9942,7 +11985,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10061,7 +12116,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89040035": {
@@ -10128,7 +12190,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10247,7 +12321,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89051000": {
@@ -10314,7 +12395,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10433,7 +12526,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89052000": {
@@ -10444,28 +12544,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dàn khoan hoặc dàn sản xuất nổi hoặc nửa nổi nửa chìm",
-      "en": null,
+      "en": "- Floating or submersible drilling or production platforms",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-ID)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -10500,7 +12631,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10617,9 +12760,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-ID)"
+            ]
+          }
+        }
+      ]
     }
   },
   "89059010": {
@@ -10630,28 +12786,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Ụ nổi sửa chữa tàu",
-      "en": null,
+      "en": "- - Floating docks",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -10686,7 +12873,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -10803,9 +13002,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89059090": {
@@ -10872,7 +13084,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -11009,7 +13233,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89061000": {
@@ -11020,28 +13251,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Tàu chiến",
-      "en": null,
+      "en": "- Warships",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP); Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn\nthiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời,\nhoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời,\nđược phân loại vào nhóm 89.06 nêu không có đặc\ntrưng cơ bản của một loại tàu cụ thê.\nMã hàng\nMô tả hàng hóa\nChapter 89\nShips, boats and íloating structures\nNote.\n1. A hull, an unfinished or incomplete vessel,\nassembled, unassembled or disassembled, or a\ncomplete vessel unassembled or disassembled,\nis to be classified in heading 89.06 if it does\nnot h",
@@ -11083,6 +13345,25 @@
           "việc chuyên chở hàng hóa bằng đường thủy các chất lỏng và hàng hoá khác bao gồm ống mềm được gia cố",
           "vận chuyển người hoặc hàng hoá) (nhóm 89",
           "đỡ các cầu tạm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -11213,9 +13494,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "89069010": {
@@ -11302,7 +13596,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -11421,7 +13727,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89069020": {
@@ -11508,7 +13821,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -11627,7 +13952,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89069090": {
@@ -11714,7 +14046,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -11833,7 +14177,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89071000": {
@@ -12038,7 +14389,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89079010": {
@@ -12124,7 +14482,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -12243,7 +14613,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89079090": {
@@ -12329,7 +14706,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 89",
         "Chú giải HS 2017 — Nhóm 89.07",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 89.07"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -12448,7 +14837,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "89080000": {
@@ -12636,7 +15032,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

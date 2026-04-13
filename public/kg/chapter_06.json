@@ -7,31 +7,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Củ, thân củ, rễ củ, thân ống và thân rễ, ở dạng ngủ",
-      "en": null,
+      "en": "- Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant",
       "dvt": "kg/củ",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Chương 7 và thân rễ của gừng (nhóm 09.10).\n\nThân và rễ rau diếp xoăn cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
       "chu_giai_dong": null,
@@ -52,6 +83,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "trang trí (ví dụ thân rễ cây"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -65,7 +137,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -182,9 +266,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06012010": {
@@ -195,31 +292,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Cây rau diếp xoăn",
-      "en": null,
+      "en": "- - Chicory plants",
       "dvt": "kg/cây",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Chương 7 và thân rễ của gừng (nhóm 09.10).\n\nThân và rễ rau diếp xoăn cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
       "chu_giai_dong": null,
@@ -240,6 +368,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "trang trí (ví dụ thân rễ cây"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -253,7 +422,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -370,9 +551,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06012020": {
@@ -383,31 +577,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Rễ rau diếp xoăn",
-      "en": null,
+      "en": "- - Chicory roots",
       "dvt": "kg/cây",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Chương 7 và thân rễ của gừng (nhóm 09.10).\n\nThân và rễ rau diếp xoăn cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
       "chu_giai_dong": null,
@@ -428,6 +653,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "trang trí (ví dụ thân rễ cây"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -441,7 +707,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -558,9 +836,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06012090": {
@@ -571,31 +862,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/cây",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Chương 7 và thân rễ của gừng (nhóm 09.10).\n\nThân và rễ rau diếp xoăn cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
       "chu_giai_dong": null,
@@ -616,6 +938,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "trang trí (ví dụ thân rễ cây"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -629,7 +992,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -746,9 +1121,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06021010": {
@@ -759,31 +1147,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Của cây phong lan",
-      "en": null,
+      "en": "- - Of orchids",
       "dvt": "kg/cành",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HH là mẫu vật thực vật rừng nguy cấp, quý hiếm; thực vật thuộc các phụ lục CITES (17/2023/TT-BNNPTNT); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -802,7 +1221,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "thực vật thuộc các phụ lục CITES",
+            "van_ban": "17/2023/TT-BNNPTNT",
+            "danh_muc": null,
+            "co_quan": "BNNPTNT",
+            "loai": "lam_san_cites",
+            "tier": 3,
+            "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+            "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -815,7 +1263,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: lam_san_cites, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -932,9 +1392,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06021020": {
@@ -945,31 +1418,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Của cây cao su",
-      "en": null,
+      "en": "- - Of rubber trees",
       "dvt": "kg/cành",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -988,7 +1492,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1118,9 +1641,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06021090": {
@@ -1131,31 +1667,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/cành",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12); Nguồn gen cây trồng cấm XK (01/2024/TT-BNNPTNT M12)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -1174,7 +1741,116 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1187,7 +1863,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 10 loại kiểm tra khác nhau",
+            "detail": "Types: thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1304,9 +1992,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06022000": {
@@ -1341,7 +2042,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -1360,7 +2061,96 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1373,7 +2163,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 8 loại kiểm tra khác nhau",
+            "detail": "Types: thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1492,7 +2294,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06023000": {
@@ -1503,31 +2312,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Cây đỗ quyên và cây azalea (cây khô - họ đỗ quyên), đã hoặc không ghép cành",
-      "en": null,
+      "en": "- Rhododendrons and azaleas, grafted or not",
       "dvt": "kg/cây",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -1546,7 +2386,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1676,9 +2535,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "06024000": {
@@ -1713,7 +2585,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -1732,7 +2604,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1864,7 +2755,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029010": {
@@ -1899,7 +2797,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -1918,7 +2816,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "thực vật thuộc các phụ lục CITES",
+            "van_ban": "17/2023/TT-BNNPTNT",
+            "danh_muc": null,
+            "co_quan": "BNNPTNT",
+            "loai": "lam_san_cites",
+            "tier": 3,
+            "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+            "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1934,7 +2861,19 @@
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: lam_san_cites, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2053,7 +2992,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029020": {
@@ -2088,7 +3034,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -2107,7 +3053,36 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "thực vật thuộc các phụ lục CITES",
+            "van_ban": "17/2023/TT-BNNPTNT",
+            "danh_muc": null,
+            "co_quan": "BNNPTNT",
+            "loai": "lam_san_cites",
+            "tier": 3,
+            "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+            "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2123,7 +3098,19 @@
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: lam_san_cites, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2242,7 +3229,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029040": {
@@ -2277,7 +3271,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -2296,7 +3290,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2431,7 +3444,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029050": {
@@ -2466,7 +3486,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -2485,7 +3505,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2620,7 +3659,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029060": {
@@ -2655,7 +3701,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -2674,7 +3720,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2809,7 +3874,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06029090": {
@@ -2844,7 +3916,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.\n\nCác loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự. Nhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12. o o   o",
       "chu_giai_dong": null,
@@ -2863,7 +3935,56 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "thực vật thuộc các phụ lục CITES",
+            "van_ban": "17/2023/TT-BNNPTNT",
+            "danh_muc": null,
+            "co_quan": "BNNPTNT",
+            "loai": "lam_san_cites",
+            "tier": 3,
+            "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+            "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          },
+          {
+            "mo_ta": "Nguồn gen cây trồng cấm XK",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M12",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2879,7 +4000,19 @@
         "Chú giải HS 2017 — Nhóm 06.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.02",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 4 loại kiểm tra khác nhau",
+            "detail": "Types: lam_san_cites, thuc_an_chan_nuoi, thuc_an_chan_nuoi, thuc_an_chan_nuoi"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2998,7 +4131,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "06031100": {
@@ -3009,31 +4149,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoa hồng",
-      "en": null,
+      "en": "- - Roses",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA, KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3051,6 +4222,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3064,7 +4276,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3181,9 +4411,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA, KR)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06031200": {
@@ -3194,31 +4441,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoa cẩm chướng",
-      "en": null,
+      "en": "- - Carnations",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA, KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3236,6 +4514,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3249,7 +4568,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3366,9 +4703,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA, KR)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06031300": {
@@ -3379,31 +4733,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Phong lan",
-      "en": null,
+      "en": "- - Orchids",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA )",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); HH là mẫu vật thực vật rừng nguy cấp, quý hiếm; thực vật thuộc các phụ lục CITES (17/2023/TT-BNNPTNT); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3421,6 +4806,57 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "thực vật thuộc các phụ lục CITES",
+            "van_ban": "17/2023/TT-BNNPTNT",
+            "danh_muc": null,
+            "co_quan": "BNNPTNT",
+            "loai": "lam_san_cites",
+            "tier": 3,
+            "loai_ten": "Mẫu vật CITES — động vật rừng nguy cấp, quý, hiếm",
+            "don_vi": "Cơ quan Quản lý CITES Việt Nam"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3434,7 +4870,31 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 3,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BNNPTNT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: lam_san_cites, thuc_an_chan_nuoi"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3551,9 +5011,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA )"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06031400": {
@@ -3564,31 +5041,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Hoa cúc",
-      "en": null,
+      "en": "- - Chrysanthemums",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA, KR)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3606,6 +5114,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3619,7 +5168,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3736,9 +5303,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA, KR)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06031500": {
@@ -3749,31 +5333,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Họ hoa ly (Lilium spp.)",
-      "en": null,
+      "en": "- - Lilies (Lilium spp.)",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA )",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3791,6 +5406,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3804,7 +5460,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3921,9 +5595,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA )"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06031900": {
@@ -3934,31 +5625,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, LA )",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -3976,6 +5698,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -3989,7 +5752,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4106,9 +5887,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, LA )"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06039000": {
@@ -4119,31 +5917,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-LA)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_dong": null,
@@ -4161,6 +5990,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bào chế dược phẩm"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -4174,7 +6044,39 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.03"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "57/TB-TCHQ",
+          "ngay": "04/01/2023",
+          "hang_hoa": "MS Hoof Clean MS HoofClean\r\n    là một sản phẩm chăm sóc móng thân thiện với môi trường giúp giữ da móng khỏe\r\n    mạnh để ngăn ngừa nhiễm trùng. MS H",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-57-TB-TCHQ-2023-ket-qua-xac-dinh-truoc-ma-so-doi-voi-MS-Hoof-Clean-550529.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.719,
+          "match_type": "suggested"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4291,9 +6193,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-LA)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06042010": {
@@ -4304,31 +6223,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Rêu và địa y",
-      "en": null,
+      "en": "- - Mosses and lichens",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này cũng loại trừ những cây con và các bộ phận của chúng (bao gồm cả cỏ, rêu và địa y) chủ yếu dùng làm nước hoa, trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự (nhóm 12.11) hoặc để tết bện (nhóm 14.01), miễn là chúng ở dạng không thích hợp để làm bó hoa hoặc để trang trí. Nhóm này cũng loại trừ những tác phẩm ghép và phù điêu trang trí tương tự của nhóm 97.01.\n\n\nChương 7: Rau và một số loại củ, thân củ và rễ ăn được\nChú giải. 1.- Chương này không bao gồm các sản phẩm thức ăn cho gia súc thuộc nhóm 12.14. 2.- Trong các nhóm 07.09, 07.10, 07.11 và 07.12, từ “rau” bao gồm các loại ăn được: nấm, nấm cục (nấm củ), ôliu, nụ bạch hoa, bí, bí ngô, cà tím, ngô ngọt (Zea mays var. saccharata), quả ớt thuộc chi Capsicum hoặc thuộc chi Pimenta, rau thì là, rau mùi tây, rau mùi, rau ngải giấm, cải xoong và kinh giới ngọt (Majorana hortensis hoặc Origanum majorana). 3.- Nhóm 07.12 bao gồm tất cả các loại rau khô từ các loại rau thuộc các nhóm từ 07.01 đến 07.11, trừ:\n(a) các loại rau đậu khô, đã bóc vỏ (nhóm 07.13);\n(b) ngô ngọt ở các dạng được nêu trong các nhóm từ 11.02 đến 11.04;\n(c) bột, bột thô, bột mịn, mảnh lát, hạt và viên của khoai tây (nhóm 11.05);\n(d) bột, bột thô và bột mịn của các loại rau đậu khô thuộc nhóm 07.13 (nhóm 11.06).\n\n4.- Tuy nhiên, Chương này không bao gồm các loại ớt thuộc chi Capsicum hoặc chi Pimenta được làm khô hoặc xay hoặc nghiền (nhóm 09.04).\n5. - Nhóm 07.11 áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi sử dụng (ví dụ: bảo quản bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc ngâm trong dung dịch bảo quản khác), với điều kiện chúng không phù hợp dùng ngay được khi ở dạng đó.\n\nTỔNG QUÁT Chương này bao gồm các loại rau, kể cả các loại được nêu trong Chú giải 2 của Chương, ở dạng tươi, ướp lạnh, đông lạnh (đã hoặc chưa được hấp chín hoặc luộc chín trong nước) được bảo quản hoặc làm khô tạm thời (bao gồm cả khử nước, làm bay ",
       "chu_giai_dong": null,
@@ -4383,6 +6333,25 @@
           "nước hoa",
           "thực phẩm hay để gieo trồng (ví dụ: khoai tây",
           "cấy trồng lại (nhóm 06"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -4396,7 +6365,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4513,9 +6494,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06042090": {
@@ -4526,31 +6524,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này cũng loại trừ những cây con và các bộ phận của chúng (bao gồm cả cỏ, rêu và địa y) chủ yếu dùng làm nước hoa, trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự (nhóm 12.11) hoặc để tết bện (nhóm 14.01), miễn là chúng ở dạng không thích hợp để làm bó hoa hoặc để trang trí. Nhóm này cũng loại trừ những tác phẩm ghép và phù điêu trang trí tương tự của nhóm 97.01.\n\n\nChương 7: Rau và một số loại củ, thân củ và rễ ăn được\nChú giải. 1.- Chương này không bao gồm các sản phẩm thức ăn cho gia súc thuộc nhóm 12.14. 2.- Trong các nhóm 07.09, 07.10, 07.11 và 07.12, từ “rau” bao gồm các loại ăn được: nấm, nấm cục (nấm củ), ôliu, nụ bạch hoa, bí, bí ngô, cà tím, ngô ngọt (Zea mays var. saccharata), quả ớt thuộc chi Capsicum hoặc thuộc chi Pimenta, rau thì là, rau mùi tây, rau mùi, rau ngải giấm, cải xoong và kinh giới ngọt (Majorana hortensis hoặc Origanum majorana). 3.- Nhóm 07.12 bao gồm tất cả các loại rau khô từ các loại rau thuộc các nhóm từ 07.01 đến 07.11, trừ:\n(a) các loại rau đậu khô, đã bóc vỏ (nhóm 07.13);\n(b) ngô ngọt ở các dạng được nêu trong các nhóm từ 11.02 đến 11.04;\n(c) bột, bột thô, bột mịn, mảnh lát, hạt và viên của khoai tây (nhóm 11.05);\n(d) bột, bột thô và bột mịn của các loại rau đậu khô thuộc nhóm 07.13 (nhóm 11.06).\n\n4.- Tuy nhiên, Chương này không bao gồm các loại ớt thuộc chi Capsicum hoặc chi Pimenta được làm khô hoặc xay hoặc nghiền (nhóm 09.04).\n5. - Nhóm 07.11 áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi sử dụng (ví dụ: bảo quản bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc ngâm trong dung dịch bảo quản khác), với điều kiện chúng không phù hợp dùng ngay được khi ở dạng đó.\n\nTỔNG QUÁT Chương này bao gồm các loại rau, kể cả các loại được nêu trong Chú giải 2 của Chương, ở dạng tươi, ướp lạnh, đông lạnh (đã hoặc chưa được hấp chín hoặc luộc chín trong nước) được bảo quản hoặc làm khô tạm thời (bao gồm cả khử nước, làm bay ",
       "chu_giai_dong": null,
@@ -4605,6 +6634,25 @@
           "nước hoa",
           "thực phẩm hay để gieo trồng (ví dụ: khoai tây",
           "cấy trồng lại (nhóm 06"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -4618,7 +6666,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4735,9 +6795,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06049010": {
@@ -4748,31 +6821,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Rêu và địa y",
-      "en": null,
+      "en": "- - Mosses and lichens",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này cũng loại trừ những cây con và các bộ phận của chúng (bao gồm cả cỏ, rêu và địa y) chủ yếu dùng làm nước hoa, trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự (nhóm 12.11) hoặc để tết bện (nhóm 14.01), miễn là chúng ở dạng không thích hợp để làm bó hoa hoặc để trang trí. Nhóm này cũng loại trừ những tác phẩm ghép và phù điêu trang trí tương tự của nhóm 97.01.\n\n\nChương 7: Rau và một số loại củ, thân củ và rễ ăn được\nChú giải. 1.- Chương này không bao gồm các sản phẩm thức ăn cho gia súc thuộc nhóm 12.14. 2.- Trong các nhóm 07.09, 07.10, 07.11 và 07.12, từ “rau” bao gồm các loại ăn được: nấm, nấm cục (nấm củ), ôliu, nụ bạch hoa, bí, bí ngô, cà tím, ngô ngọt (Zea mays var. saccharata), quả ớt thuộc chi Capsicum hoặc thuộc chi Pimenta, rau thì là, rau mùi tây, rau mùi, rau ngải giấm, cải xoong và kinh giới ngọt (Majorana hortensis hoặc Origanum majorana). 3.- Nhóm 07.12 bao gồm tất cả các loại rau khô từ các loại rau thuộc các nhóm từ 07.01 đến 07.11, trừ:\n(a) các loại rau đậu khô, đã bóc vỏ (nhóm 07.13);\n(b) ngô ngọt ở các dạng được nêu trong các nhóm từ 11.02 đến 11.04;\n(c) bột, bột thô, bột mịn, mảnh lát, hạt và viên của khoai tây (nhóm 11.05);\n(d) bột, bột thô và bột mịn của các loại rau đậu khô thuộc nhóm 07.13 (nhóm 11.06).\n\n4.- Tuy nhiên, Chương này không bao gồm các loại ớt thuộc chi Capsicum hoặc chi Pimenta được làm khô hoặc xay hoặc nghiền (nhóm 09.04).\n5. - Nhóm 07.11 áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi sử dụng (ví dụ: bảo quản bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc ngâm trong dung dịch bảo quản khác), với điều kiện chúng không phù hợp dùng ngay được khi ở dạng đó.\n\nTỔNG QUÁT Chương này bao gồm các loại rau, kể cả các loại được nêu trong Chú giải 2 của Chương, ở dạng tươi, ướp lạnh, đông lạnh (đã hoặc chưa được hấp chín hoặc luộc chín trong nước) được bảo quản hoặc làm khô tạm thời (bao gồm cả khử nước, làm bay ",
       "chu_giai_dong": null,
@@ -4827,6 +6931,25 @@
           "nước hoa",
           "thực phẩm hay để gieo trồng (ví dụ: khoai tây",
           "cấy trồng lại (nhóm 06"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -4840,7 +6963,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -4957,9 +7092,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ],
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   },
   "06049090": {
@@ -4970,31 +7122,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/cành",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "4",
+        "vncu": "0",
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Kiểm dịch thực vật (01/2024/TT-BNNPTNT M9)",
       "canh_bao_cs": true,
       "muc_canh_bao": "ORANGE",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Ngoài phần 2 của tên nhóm 06.01, Chương này\nchỉ bao gồm cây sống và các sản phẩm (kể cả cây\ngiống từ hạt) thường được cung cấp bởi người\ntrồng hoa hoặc người làm vườn ươm cây để trồng\nhoặc trang trí; tuy nhiên Chương này không bao\ngồm khoai tây, hành tây, hành, hẹ, tỏi hoặc các sản\nphẩm khác thuộc Chương 7.\n2. Khi xem xét một mặt hàng nào đó trong nhóm\n06.03 hoặc 06.04 phải kể đến những mặt hàng như\nlẵng hoa, bó hoa, vòng hoa và các sản phẩm tương\ntự được làm toàn bộ hoặc một phần bằng các vậ",
+      "chu_giai_chuong": "1.- Ngoài phần 2 của tên nhóm 06.01, Chương này chỉ bao gồm cây sống và các sản phẩm (kể\ncả cây giống từ hạt) thường được cung cấp bởi người trồng hoa hoặc người làm vườn ươm\ncây để trồng hay trang trí; tuy nhiên Chương này không bao gồm khoai tây, hành tây,\nhành, hẹ, tỏi hoặc các sản phẩm khác thuộc Chương 7.\n2.- Khi xem xét một mặt hàng nào đó trong nhóm 06.03 hoặc 06.04 phải kể đến những mặt\nhàng như lẵng hoa, bó hoa, vòng hoa và các sản phẩm tương tự được làm toàn bộ hoặc\nmột phần bằng các vật liệu nêu trong nhóm, không tính đến những đồ phụ trợ làm bằng\nvật liệu khác. Tuy nhiên, các nhóm này không bao gồm các tác phẩm ghép hay phù điêu\ntrang trí tương tự thuộc nhóm 97.01.",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Nhóm này cũng loại trừ những cây con và các bộ phận của chúng (bao gồm cả cỏ, rêu và địa y) chủ yếu dùng làm nước hoa, trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự (nhóm 12.11) hoặc để tết bện (nhóm 14.01), miễn là chúng ở dạng không thích hợp để làm bó hoa hoặc để trang trí. Nhóm này cũng loại trừ những tác phẩm ghép và phù điêu trang trí tương tự của nhóm 97.01.\n\n\nChương 7: Rau và một số loại củ, thân củ và rễ ăn được\nChú giải. 1.- Chương này không bao gồm các sản phẩm thức ăn cho gia súc thuộc nhóm 12.14. 2.- Trong các nhóm 07.09, 07.10, 07.11 và 07.12, từ “rau” bao gồm các loại ăn được: nấm, nấm cục (nấm củ), ôliu, nụ bạch hoa, bí, bí ngô, cà tím, ngô ngọt (Zea mays var. saccharata), quả ớt thuộc chi Capsicum hoặc thuộc chi Pimenta, rau thì là, rau mùi tây, rau mùi, rau ngải giấm, cải xoong và kinh giới ngọt (Majorana hortensis hoặc Origanum majorana). 3.- Nhóm 07.12 bao gồm tất cả các loại rau khô từ các loại rau thuộc các nhóm từ 07.01 đến 07.11, trừ:\n(a) các loại rau đậu khô, đã bóc vỏ (nhóm 07.13);\n(b) ngô ngọt ở các dạng được nêu trong các nhóm từ 11.02 đến 11.04;\n(c) bột, bột thô, bột mịn, mảnh lát, hạt và viên của khoai tây (nhóm 11.05);\n(d) bột, bột thô và bột mịn của các loại rau đậu khô thuộc nhóm 07.13 (nhóm 11.06).\n\n4.- Tuy nhiên, Chương này không bao gồm các loại ớt thuộc chi Capsicum hoặc chi Pimenta được làm khô hoặc xay hoặc nghiền (nhóm 09.04).\n5. - Nhóm 07.11 áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi sử dụng (ví dụ: bảo quản bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc ngâm trong dung dịch bảo quản khác), với điều kiện chúng không phù hợp dùng ngay được khi ở dạng đó.\n\nTỔNG QUÁT Chương này bao gồm các loại rau, kể cả các loại được nêu trong Chú giải 2 của Chương, ở dạng tươi, ướp lạnh, đông lạnh (đã hoặc chưa được hấp chín hoặc luộc chín trong nước) được bảo quản hoặc làm khô tạm thời (bao gồm cả khử nước, làm bay ",
       "chu_giai_dong": null,
@@ -5049,6 +7232,25 @@
           "nước hoa",
           "thực phẩm hay để gieo trồng (ví dụ: khoai tây",
           "cấy trồng lại (nhóm 06"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -5062,7 +7264,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 6",
         "Chú giải HS 2017 — Nhóm 06.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 06.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C4",
+            "severity": "MEDIUM",
+            "desc": "FTA=0% nhưng MFN=20.0% (chênh lệch lớn)",
+            "detail": "ACFTA=0, EVFTA=None, MFN=20.0"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -5179,9 +7393,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "4"
+            ]
+          }
+        }
+      ]
     }
   }
 }

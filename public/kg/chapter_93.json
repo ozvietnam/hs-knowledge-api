@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Vũ khí pháo binh (ví dụ, súng, súng cối và súng moóc trê)",
-      "en": null,
+      "en": "- Artillery weapons (for example, guns, howitzers and mortars)",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -52,6 +83,25 @@
         "muc_dich_su_dung": [
           "quân đội như súng trường và carbin",
           "diệt cỏ (nhóm 84"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -182,9 +232,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93012000": {
@@ -195,28 +290,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bệ phóng tên lửa; súng phun lửa; súng phóng lựu đạn; ống phóng ngư lôi và các loại súng phóng tương tự",
-      "en": null,
+      "en": "- Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP); DM SPHH nhóm 2 (9981/QĐ-BCA 2019); SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023); SP HH nhóm 2 (9981/QĐ-BCA 2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -240,6 +366,56 @@
         "muc_dich_su_dung": [
           "quân đội như súng trường và carbin",
           "diệt cỏ (nhóm 84"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          },
+          {
+            "mo_ta": "DM SPHH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SP HH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BCA",
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -253,7 +429,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 93",
         "Chú giải HS 2017 — Nhóm 93.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 93.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCA yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: chat_luong_nhom_2_bca, chat_luong_nhom_2_bca, chat_luong_nhom_2_bca"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -370,9 +558,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93019000": {
@@ -383,28 +616,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -428,6 +692,25 @@
         "muc_dich_su_dung": [
           "quân đội như súng trường và carbin",
           "diệt cỏ (nhóm 84"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -558,9 +841,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93020000": {
@@ -571,28 +899,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Súng lục ổ quay và súng lục, trừ các loại thuộc nhóm 93.03 hoặc 93.04",
-      "en": null,
+      "en": "Revolvers and pistols, other than those of heading 93.03 or 93.04",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP); DM SPHH nhóm 2 (9981/QĐ-BCA 2019); SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023); SP HH nhóm 2 (9981/QĐ-BCA 2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -619,7 +978,57 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          },
+          {
+            "mo_ta": "DM SPHH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SP HH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BCA",
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -632,7 +1041,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 93",
         "Chú giải HS 2017 — Nhóm 93.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 93.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCA yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: chat_luong_nhom_2_bca, chat_luong_nhom_2_bca, chat_luong_nhom_2_bca"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -749,9 +1170,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93031000": {
@@ -762,28 +1228,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Súng cầm tay nạp đạn phía nòng",
-      "en": null,
+      "en": "- Muzzle-loading firearms",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -951,9 +1448,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93032010": {
@@ -964,28 +1506,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Súng shotgun săn (SEN)",
-      "en": null,
+      "en": "- - Hunting shotguns",
       "dvt": "chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "6,1; M: 9,2",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -1156,9 +1729,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "6,1; M: 9,2"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93032090": {
@@ -1169,28 +1787,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -1228,6 +1877,22 @@
           "giết súc vật (nhóm 93",
           "phóng mũi lao được nối với một sợi dây nhằm bắt cá",
           "báo động (ví dụ như ở các trạm cứu nạn)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCA"
         ]
       },
       "phan_biet": [],
@@ -1361,9 +2026,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93033010": {
@@ -1374,28 +2080,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Súng trường săn",
-      "en": null,
+      "en": "- - Hunting rifles",
       "dvt": "chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "6,1; M: 9,2",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -1563,9 +2300,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "6,1; M: 9,2"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93033090": {
@@ -1576,28 +2358,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -1635,6 +2448,22 @@
           "giết súc vật (nhóm 93",
           "phóng mũi lao được nối với một sợi dây nhằm bắt cá",
           "báo động (ví dụ như ở các trạm cứu nạn)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCA"
         ]
       },
       "phan_biet": [],
@@ -1765,9 +2594,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93039010": {
@@ -1778,28 +2648,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Súng lục bắn pháo hiệu và các loại khác được thiết kế chỉ để phóng pháo hiệu có cỡ nòng từ 20 mm trở lên nhưng trừ cỡ 23 mm và 26,5 mm",
-      "en": null,
+      "en": "- - Very pistols and other devices designed to project only signal flares with a calibre of 20 mm or more but excluding 23 mm and 26.5 mm",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -1967,9 +2868,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93039090": {
@@ -1980,28 +2926,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -2039,6 +3016,22 @@
           "giết súc vật (nhóm 93",
           "phóng mũi lao được nối với một sợi dây nhằm bắt cá",
           "báo động (ví dụ như ở các trạm cứu nạn)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCA"
         ]
       },
       "phan_biet": [],
@@ -2169,9 +3162,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93040010": {
@@ -2182,28 +3220,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Súng hơi, hoạt động với áp suất dưới 7 kgf/cm2",
-      "en": null,
+      "en": "- Air guns, operating at a pressure of less than 7 kgf/cm2",
       "dvt": "chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "6,1; M: 9,2",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "10,9",
+        "ukvfta": "10,9",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -2364,9 +3433,66 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "6,1; M: 9,2"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "10,9"
+            ],
+            "ukvfta": [
+              null,
+              "10,9"
+            ]
+          }
+        }
+      ]
     }
   },
   "93040090": {
@@ -2377,28 +3503,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM SPHH nhóm 2 (9981/QĐ-BCA 2019); SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023); SP HH nhóm 2 (9981/QĐ-BCA 2019)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -2429,6 +3586,42 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "cảnh sát"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM SPHH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SP HH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCA"
         ]
       },
       "phan_biet": [],
@@ -2442,7 +3635,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 93",
         "Chú giải HS 2017 — Nhóm 93.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 93.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCA yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: chat_luong_nhom_2_bca, chat_luong_nhom_2_bca, chat_luong_nhom_2_bca"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2559,9 +3764,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93051000": {
@@ -2572,28 +3818,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của súng lục ổ quay hoặc súng lục",
-      "en": null,
+      "en": "- Of revolvers or pistols",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -2636,6 +3913,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -2766,9 +4062,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93052000": {
@@ -2779,28 +4120,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Của súng shotgun hoặc súng trường thuộc nhóm 93.03",
-      "en": null,
+      "en": "- Of shotguns or rifles of heading 93.03",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -2843,6 +4215,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -2973,9 +4364,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059110": {
@@ -2986,28 +4418,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
-      "en": null,
+      "en": "- - - Of leather or of textile material",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -3050,6 +4513,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -3183,9 +4665,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059190": {
@@ -3196,28 +4723,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -3260,6 +4818,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -3393,9 +4970,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059911": {
@@ -3406,28 +5028,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
-      "en": null,
+      "en": "- - - - Of leather or of textile material",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -3470,6 +5123,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -3603,9 +5275,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059919": {
@@ -3616,28 +5329,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -3680,6 +5424,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -3813,9 +5576,50 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059991": {
@@ -3826,28 +5630,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Bằng da thuộc hoặc vật liệu dệt (SEN)",
-      "en": null,
+      "en": "- - - - Of leather or of textile material",
       "dvt": "chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "5,4; M: 8,1",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "10,9",
+        "ukvfta": "10,9",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -3890,6 +5725,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -4023,9 +5877,66 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "5,4; M: 8,1"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "10,9"
+            ],
+            "ukvfta": [
+              null,
+              "10,9"
+            ]
+          }
+        }
+      ]
     }
   },
   "93059999": {
@@ -4036,28 +5947,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "45",
         "mfn": "30",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "5,4; M: 8,1",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "10,9",
+        "ukvfta": "10,9",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "45",
+            "mfn": "30",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -4100,6 +6042,25 @@
           "súng thể thao hay súng bắn bia",
           "máy bay (nhóm 90",
           "vũ khí (nhóm 90"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [],
@@ -4233,9 +6194,66 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "5,4; M: 8,1"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "10,9"
+            ],
+            "ukvfta": [
+              null,
+              "10,9"
+            ]
+          }
+        }
+      ]
     }
   },
   "93062100": {
@@ -4246,28 +6264,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Đạn cát tút (cartridge)",
-      "en": null,
+      "en": "- - Cartridges",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -4311,6 +6360,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -4443,9 +6511,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93062900": {
@@ -4456,28 +6569,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -4521,6 +6665,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -4653,9 +6816,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063011": {
@@ -4666,28 +6874,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Đạn cỡ .22",
-      "en": null,
+      "en": "- - - .22 calibre cartridges",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -4731,6 +6970,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -4863,9 +7121,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063019": {
@@ -4876,28 +7179,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -4941,6 +7275,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -5073,9 +7426,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063020": {
@@ -5086,28 +7484,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Đạn dùng cho súng bắn đinh hoặc dụng cụ tương tự hoặc cho súng bắn gia súc giết mổ và các bộ phận của chúng",
-      "en": null,
+      "en": "- - Cartridges for riveting or similar tools or for captive-bolt humane killers; parts thereof",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -5151,6 +7580,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -5283,9 +7731,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063030": {
@@ -5296,28 +7789,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Dùng cho súng thể thao, súng săn hoặc súng bắn bia, súng trường và súng cacbin, trừ súng shotgun",
-      "en": null,
+      "en": "- - For sporting, hunting or target-shooting guns, rifles and carbines, other than shotguns",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP); SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -5361,6 +7885,36 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          },
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BCA",
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -5493,9 +8047,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063091": {
@@ -5506,28 +8105,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Đạn cỡ 22",
-      "en": null,
+      "en": "- - - .22 calibre cartridges",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -5571,6 +8201,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -5703,9 +8352,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93063099": {
@@ -5716,28 +8410,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -5781,6 +8506,25 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -5913,9 +8657,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93069010": {
@@ -5926,28 +8715,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Bom, lựu đạn, ngư lôi, mìn, tên lửa và các loại đạn dược tương tự và bộ phận của chúng",
-      "en": null,
+      "en": "- - Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)*; DM SPHH nhóm 2 (9981/QĐ-BCA 2019); SPHH có khả năng gây mất an toàn (6266/QĐ-BCA 2023); SP HH nhóm 2 (9981/QĐ-BCA 2019)*",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -5991,6 +8811,56 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          },
+          {
+            "mo_ta": "DM SPHH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SPHH có khả năng gây mất an toàn",
+            "van_ban": "6266/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SP HH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BCA",
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -6006,7 +8876,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 93",
         "Chú giải HS 2017 — Nhóm 93.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 93.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCA yêu cầu 3 loại kiểm tra khác nhau",
+            "detail": "Types: chat_luong_nhom_2_bca, chat_luong_nhom_2_bca, chat_luong_nhom_2_bca"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6123,9 +9005,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93069090": {
@@ -6136,28 +9063,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Cấm XK, NK thuộc QLCN của BQP (173/2018/TT-BQP)*; DM SPHH nhóm 2 (9981/QĐ-BCA 2019); SP HH nhóm 2 (9981/QĐ-BCA 2019)*",
       "canh_bao_cs": true,
       "muc_canh_bao": "RED",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -6201,6 +9159,46 @@
           "ngư lôi",
           "tên lửa",
           "đạn hay các bộ phận của đạn (ví dụ cho các ngòi nổ) (các nhóm từ 91"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Cấm XK, NK thuộc QLCN của BQP",
+            "van_ban": "173/2018/TT-BQP",
+            "danh_muc": null,
+            "co_quan": "BQP",
+            "loai": "cam_xnk_bqp",
+            "tier": 3,
+            "loai_ten": "Cấm XK, NK thuộc quản lý chuyên ngành của BQP",
+            "don_vi": "Bộ Tổng Tham mưu"
+          },
+          {
+            "mo_ta": "DM SPHH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          },
+          {
+            "mo_ta": "SP HH nhóm 2",
+            "van_ban": "9981/QĐ-BCA",
+            "danh_muc": null,
+            "co_quan": "BCA",
+            "loai": "chat_luong_nhom_2_bca",
+            "tier": 4,
+            "loai_ten": "Sản phẩm hàng hóa nhóm 2 thuộc BCA",
+            "don_vi": "Cục Cảnh sát PCCC&CNCH"
+          }
+        ],
+        "ktcn_muc_canh_bao": "RED",
+        "ktcn_co_quan": [
+          "BCA",
+          "BQP"
+        ],
+        "agency_authority": [
+          "Bộ Quốc phòng"
         ]
       },
       "phan_biet": [
@@ -6216,7 +9214,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 93",
         "Chú giải HS 2017 — Nhóm 93.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 93.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCA yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: chat_luong_nhom_2_bca, chat_luong_nhom_2_bca"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -6333,9 +9343,54 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "93070000": {
@@ -6346,28 +9401,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Kiếm, đoản kiếm, lưỡi lê, giáo và các loại vũ khí tương tự và bộ phận của chúng, vỏ và bao cho chúng",
-      "en": null,
+      "en": "Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor",
       "dvt": "chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "0",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0,9; M: 1,3",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Hàng hoá thuộc Chương 36 (ví dụ, ngòi nổ, kíp\nnổ, pháo hiệu);\n(b) Các bộ phận có công dụng chung, như đã định\nnghĩa trong Chú giải 2 Phần XV, bằng kim loại cơ\nbản (Phần XV), hoặc các hàng hóa tương tự bằng\nplastic (Chương 39);\n(c) Xe chiến đấu bọc thép (nhóm 87.10);\n(d) Kính ngắm hoặc thiết bị quang học khác phù\nhợp để sử dụng với vũ khí, trừ loại đã được lắp với\nsúng cầm tay hoặc loại được thiết kế phù hợp và đi\ncùng với súng cầm tay (Chương 90);\n(e) Cung, tên, ",
@@ -6581,9 +9667,66 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "0,9; M: 1,3"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   }
 }

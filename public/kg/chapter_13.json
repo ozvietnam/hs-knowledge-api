@@ -7,31 +7,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Gôm Ả rập",
-      "en": null,
+      "en": "- Gum Arabic",
       "dvt": "kg",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "5/8/10",
         "acfta": "0 (-MM)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới (42/2019/TT-BCT & 34/2025/TT-BCT ); Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng (15/2024/TT-BYT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "5/8/10",
+            "acfta": "0 (-MM)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(I) Nhựa cánh kiến đỏ. Nhựa cánh kiến đỏ là chất nhựa do loại côn trùng có cùng họ với sâu yên chi (rệp son) và sâu kemet tạo ra trên một số cây ở vùng nhiệt đới. Một số thương phẩm quan trọng nhất là:\n(A) Nhựa cánh kiến đỏ dạng thỏi (lắc thỏi), thường gồm các cành trên đó có lớp màng dày hoặc mỏng nhựa cánh kiến; nó có màu đỏ sẫm và là loại nhựa cánh kiến đỏ có mầu đậm nhất.\n(B) Nhựa cánh kiến đỏ dạng hạt (lắc hạt), là loại cánh kiến đỏ được nghiền sau khi tách ra khỏi cành, thông thường người ra rửa để loại bỏ chất phẩm màu của cánh kiến đỏ.\n(C) Nhựa cánh kiến đỏ dạng phiến mỏng, còn gọi là cánh kiến đỏ dạng lá, lắc phiến hoặc lắc bản (shellac) thu được từ quá trình làm nóng chảy và lọc để tinh chế gôm. Nó có dạng các phiến mỏng, trong suốt và có màu hổ phách hoặc hơi đỏ. Sản phẩm tương tự ở dạng hình đĩa được gọi là “cánh kiến cúc áo”. Nhựa cánh kiến đỏ dạng phiến mỏng được được sử dụng rộng rãi trong quá trình sản xuất sáp dán, vecni và dùng trong kỹ thuật điện.\n(D) Nhựa cánh kiến đỏ dạng khối (hay là cánh kiến ngọc hồng lựu) thu được chủ yếu từ các phế liệu trong quá trình chế biến nhựa cánh kiến đỏ dạng phiến mỏng. Nhựa cánh kiến đỏ cũng có thể được tẩy mầu hoặc tẩy trắng và đôi khi ở dạng các nùi được xoắn. Nhựa của một số cây phương Đông có thể đông lại, tạo thành một mảng bền khi ở ngoài không khí (như \"sơn mài Trung Quốc\", \"sơn mài Nhật Bản\"...) bị loại trừ (nhóm 13.02). (II) Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu. Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu là chất được tiết ra từ thực vật, có thể bị đông khi để ngoài không khí. Các thuật ngữ này được sử dụng rộng rãi. Các sản phẩm này có các đặc tính khác biệt như sau:\n\n(A) Gôm thật không mùi, không vị và ít nhiều hòa tan trong nước, tạo thành chất dính. Chúng cháy mà không tan chảy và không mùi.\n(B) Nhựa cây không tan trong nước, có mùi nhẹ, là chất dẫn điện kém và có khả năng nhiễm điện âm. Chúng mềm đi và chảy ra hầu như hoàn toàn khi dùng nhiệt, và khi được đốt cháy chúng phát lửa có khói v",
       "chu_giai_dong": null,
@@ -74,6 +105,47 @@
         "muc_dich_su_dung": [
           "kỹ thuật điện",
           "sản xuất rượu bia và các chế phẩm tương tự làm từ colophan (Chương 38)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -87,7 +159,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 13",
         "Chú giải HS 2017 — Nhóm 13.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -204,9 +288,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ]
+          }
+        }
+      ]
     }
   },
   "13019030": {
@@ -241,7 +338,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(I) Nhựa cánh kiến đỏ. Nhựa cánh kiến đỏ là chất nhựa do loại côn trùng có cùng họ với sâu yên chi (rệp son) và sâu kemet tạo ra trên một số cây ở vùng nhiệt đới. Một số thương phẩm quan trọng nhất là:\n(A) Nhựa cánh kiến đỏ dạng thỏi (lắc thỏi), thường gồm các cành trên đó có lớp màng dày hoặc mỏng nhựa cánh kiến; nó có màu đỏ sẫm và là loại nhựa cánh kiến đỏ có mầu đậm nhất.\n(B) Nhựa cánh kiến đỏ dạng hạt (lắc hạt), là loại cánh kiến đỏ được nghiền sau khi tách ra khỏi cành, thông thường người ra rửa để loại bỏ chất phẩm màu của cánh kiến đỏ.\n(C) Nhựa cánh kiến đỏ dạng phiến mỏng, còn gọi là cánh kiến đỏ dạng lá, lắc phiến hoặc lắc bản (shellac) thu được từ quá trình làm nóng chảy và lọc để tinh chế gôm. Nó có dạng các phiến mỏng, trong suốt và có màu hổ phách hoặc hơi đỏ. Sản phẩm tương tự ở dạng hình đĩa được gọi là “cánh kiến cúc áo”. Nhựa cánh kiến đỏ dạng phiến mỏng được được sử dụng rộng rãi trong quá trình sản xuất sáp dán, vecni và dùng trong kỹ thuật điện.\n(D) Nhựa cánh kiến đỏ dạng khối (hay là cánh kiến ngọc hồng lựu) thu được chủ yếu từ các phế liệu trong quá trình chế biến nhựa cánh kiến đỏ dạng phiến mỏng. Nhựa cánh kiến đỏ cũng có thể được tẩy mầu hoặc tẩy trắng và đôi khi ở dạng các nùi được xoắn. Nhựa của một số cây phương Đông có thể đông lại, tạo thành một mảng bền khi ở ngoài không khí (như \"sơn mài Trung Quốc\", \"sơn mài Nhật Bản\"...) bị loại trừ (nhóm 13.02). (II) Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu. Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu là chất được tiết ra từ thực vật, có thể bị đông khi để ngoài không khí. Các thuật ngữ này được sử dụng rộng rãi. Các sản phẩm này có các đặc tính khác biệt như sau:\n\n(A) Gôm thật không mùi, không vị và ít nhiều hòa tan trong nước, tạo thành chất dính. Chúng cháy mà không tan chảy và không mùi.\n(B) Nhựa cây không tan trong nước, có mùi nhẹ, là chất dẫn điện kém và có khả năng nhiễm điện âm. Chúng mềm đi và chảy ra hầu như hoàn toàn khi dùng nhiệt, và khi được đốt cháy chúng phát lửa có khói v",
       "chu_giai_dong": null,
@@ -284,6 +381,35 @@
         "muc_dich_su_dung": [
           "kỹ thuật điện",
           "sản xuất rượu bia và các chế phẩm tương tự làm từ colophan (Chương 38)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -297,7 +423,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 13",
         "Chú giải HS 2017 — Nhóm 13.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -416,7 +554,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13019040": {
@@ -451,7 +596,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(I) Nhựa cánh kiến đỏ. Nhựa cánh kiến đỏ là chất nhựa do loại côn trùng có cùng họ với sâu yên chi (rệp son) và sâu kemet tạo ra trên một số cây ở vùng nhiệt đới. Một số thương phẩm quan trọng nhất là:\n(A) Nhựa cánh kiến đỏ dạng thỏi (lắc thỏi), thường gồm các cành trên đó có lớp màng dày hoặc mỏng nhựa cánh kiến; nó có màu đỏ sẫm và là loại nhựa cánh kiến đỏ có mầu đậm nhất.\n(B) Nhựa cánh kiến đỏ dạng hạt (lắc hạt), là loại cánh kiến đỏ được nghiền sau khi tách ra khỏi cành, thông thường người ra rửa để loại bỏ chất phẩm màu của cánh kiến đỏ.\n(C) Nhựa cánh kiến đỏ dạng phiến mỏng, còn gọi là cánh kiến đỏ dạng lá, lắc phiến hoặc lắc bản (shellac) thu được từ quá trình làm nóng chảy và lọc để tinh chế gôm. Nó có dạng các phiến mỏng, trong suốt và có màu hổ phách hoặc hơi đỏ. Sản phẩm tương tự ở dạng hình đĩa được gọi là “cánh kiến cúc áo”. Nhựa cánh kiến đỏ dạng phiến mỏng được được sử dụng rộng rãi trong quá trình sản xuất sáp dán, vecni và dùng trong kỹ thuật điện.\n(D) Nhựa cánh kiến đỏ dạng khối (hay là cánh kiến ngọc hồng lựu) thu được chủ yếu từ các phế liệu trong quá trình chế biến nhựa cánh kiến đỏ dạng phiến mỏng. Nhựa cánh kiến đỏ cũng có thể được tẩy mầu hoặc tẩy trắng và đôi khi ở dạng các nùi được xoắn. Nhựa của một số cây phương Đông có thể đông lại, tạo thành một mảng bền khi ở ngoài không khí (như \"sơn mài Trung Quốc\", \"sơn mài Nhật Bản\"...) bị loại trừ (nhóm 13.02). (II) Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu. Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu là chất được tiết ra từ thực vật, có thể bị đông khi để ngoài không khí. Các thuật ngữ này được sử dụng rộng rãi. Các sản phẩm này có các đặc tính khác biệt như sau:\n\n(A) Gôm thật không mùi, không vị và ít nhiều hòa tan trong nước, tạo thành chất dính. Chúng cháy mà không tan chảy và không mùi.\n(B) Nhựa cây không tan trong nước, có mùi nhẹ, là chất dẫn điện kém và có khả năng nhiễm điện âm. Chúng mềm đi và chảy ra hầu như hoàn toàn khi dùng nhiệt, và khi được đốt cháy chúng phát lửa có khói v",
       "chu_giai_dong": null,
@@ -494,6 +639,59 @@
         "muc_dich_su_dung": [
           "kỹ thuật điện",
           "sản xuất rượu bia và các chế phẩm tương tự làm từ colophan (Chương 38)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT",
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn",
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -507,7 +705,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 13",
         "Chú giải HS 2017 — Nhóm 13.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C1",
+            "severity": "MEDIUM",
+            "desc": "Nhiều bộ quản lý (3 bộ)",
+            "detail": "Agencies: Bộ Công Thương, Bộ Nông nghiệp và Phát triển Nông thôn, Bộ Y tế"
+          },
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -626,7 +842,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13019090": {
@@ -661,7 +884,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(I) Nhựa cánh kiến đỏ. Nhựa cánh kiến đỏ là chất nhựa do loại côn trùng có cùng họ với sâu yên chi (rệp son) và sâu kemet tạo ra trên một số cây ở vùng nhiệt đới. Một số thương phẩm quan trọng nhất là:\n(A) Nhựa cánh kiến đỏ dạng thỏi (lắc thỏi), thường gồm các cành trên đó có lớp màng dày hoặc mỏng nhựa cánh kiến; nó có màu đỏ sẫm và là loại nhựa cánh kiến đỏ có mầu đậm nhất.\n(B) Nhựa cánh kiến đỏ dạng hạt (lắc hạt), là loại cánh kiến đỏ được nghiền sau khi tách ra khỏi cành, thông thường người ra rửa để loại bỏ chất phẩm màu của cánh kiến đỏ.\n(C) Nhựa cánh kiến đỏ dạng phiến mỏng, còn gọi là cánh kiến đỏ dạng lá, lắc phiến hoặc lắc bản (shellac) thu được từ quá trình làm nóng chảy và lọc để tinh chế gôm. Nó có dạng các phiến mỏng, trong suốt và có màu hổ phách hoặc hơi đỏ. Sản phẩm tương tự ở dạng hình đĩa được gọi là “cánh kiến cúc áo”. Nhựa cánh kiến đỏ dạng phiến mỏng được được sử dụng rộng rãi trong quá trình sản xuất sáp dán, vecni và dùng trong kỹ thuật điện.\n(D) Nhựa cánh kiến đỏ dạng khối (hay là cánh kiến ngọc hồng lựu) thu được chủ yếu từ các phế liệu trong quá trình chế biến nhựa cánh kiến đỏ dạng phiến mỏng. Nhựa cánh kiến đỏ cũng có thể được tẩy mầu hoặc tẩy trắng và đôi khi ở dạng các nùi được xoắn. Nhựa của một số cây phương Đông có thể đông lại, tạo thành một mảng bền khi ở ngoài không khí (như \"sơn mài Trung Quốc\", \"sơn mài Nhật Bản\"...) bị loại trừ (nhóm 13.02). (II) Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu. Gôm tự nhiên, nhựa cây, nhựa gôm và nhựa dầu là chất được tiết ra từ thực vật, có thể bị đông khi để ngoài không khí. Các thuật ngữ này được sử dụng rộng rãi. Các sản phẩm này có các đặc tính khác biệt như sau:\n\n(A) Gôm thật không mùi, không vị và ít nhiều hòa tan trong nước, tạo thành chất dính. Chúng cháy mà không tan chảy và không mùi.\n(B) Nhựa cây không tan trong nước, có mùi nhẹ, là chất dẫn điện kém và có khả năng nhiễm điện âm. Chúng mềm đi và chảy ra hầu như hoàn toàn khi dùng nhiệt, và khi được đốt cháy chúng phát lửa có khói v",
       "chu_giai_dong": null,
@@ -704,6 +927,57 @@
         "muc_dich_su_dung": [
           "kỹ thuật điện",
           "sản xuất rượu bia và các chế phẩm tương tự làm từ colophan (Chương 38)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          },
+          {
+            "mo_ta": "Dược liệu làm thuốc XK, NK",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM11",
+            "co_quan": "BYT",
+            "loai": "duoc_lieu",
+            "tier": 3,
+            "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -717,7 +991,25 @@
         "TT31/2022/TT-BTC — Chú giải Chương 13",
         "Chú giải HS 2017 — Nhóm 13.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 2,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          },
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BYT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: attp_byt, duoc_lieu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -836,7 +1128,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021110": {
@@ -847,31 +1146,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bột thuốc phiện (Pulvis opii)",
-      "en": null,
+      "en": "- - - Pulvis opii",
       "dvt": "kg",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0,9; M: 1,3",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -1077,9 +1407,70 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "0,9; M: 1,3"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "13021190": {
@@ -1090,31 +1481,62 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "kg",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "*",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "*",
+        "ajcep": "*",
+        "vjepa": "*",
+        "akfta": "*",
+        "aanzfta": "*",
+        "aifta": "*",
+        "vkfta": "5",
+        "vcfta": "*",
+        "eaeu": "*",
+        "cptpp": "0,9; M: 1,3",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "1,8",
+        "ukvfta": "1,8",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "*",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -1320,9 +1742,70 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "atiga": [
+              null,
+              "*"
+            ],
+            "ajcep": [
+              null,
+              "*"
+            ],
+            "vjepa": [
+              null,
+              "*"
+            ],
+            "akfta": [
+              null,
+              "*"
+            ],
+            "aanzfta": [
+              null,
+              "*"
+            ],
+            "aifta": [
+              null,
+              "*"
+            ],
+            "vkfta": [
+              null,
+              "5"
+            ],
+            "vcfta": [
+              null,
+              "*"
+            ],
+            "eaeu": [
+              null,
+              "*"
+            ],
+            "cptpp": [
+              null,
+              "0,9; M: 1,3"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "1,8"
+            ],
+            "ukvfta": [
+              null,
+              "1,8"
+            ]
+          }
+        }
+      ]
     }
   },
   "13021200": {
@@ -1357,7 +1840,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -1433,6 +1916,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Các chất chiết xuất từ dược liệu, tinh dầu làm thuốc XK, NK",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM12",
+            "co_quan": "BYT",
+            "loai": "duoc_lieu",
+            "tier": 3,
+            "loai_ten": "Dược liệu, tinh dầu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -1565,7 +2067,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021300": {
@@ -1600,7 +2109,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -1808,7 +2317,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021400": {
@@ -1843,7 +2359,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -2051,7 +2567,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021920": {
@@ -2086,7 +2609,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -2294,7 +2817,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021940": {
@@ -2329,7 +2859,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -2537,7 +3067,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021950": {
@@ -2572,7 +3109,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -2780,7 +3317,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13021990": {
@@ -2815,7 +3359,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -2891,6 +3435,35 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          },
+          {
+            "mo_ta": "NL làm thuốc XK, NK là dược chất và BTP thuốc",
+            "van_ban": "09/2024/TT-BYT",
+            "danh_muc": "DM7",
+            "co_quan": "BYT",
+            "loai": "duoc_pham",
+            "tier": 3,
+            "loai_ten": "Dược phẩm, nguyên liệu làm thuốc",
+            "don_vi": "Cục Quản lý Dược"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -2904,7 +3477,39 @@
         "TT31/2022/TT-BTC — Chú giải Chương 13",
         "Chú giải HS 2017 — Nhóm 13.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.02"
-      ]
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2966/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "SOLUBLL SOY FIBER TJ 700",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 2966/TB\n-\nTCHQ\nHà\nNội, ngày 2\n0 tháng\n7 năm 2022\nTHÔNG BÁO\nVề kết quả xác định trước mã số\nTỔNG CỤC TR",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2966-tb-tchq-2022-ket-qua-xac-dinh-ma-so-solubll-soy-fiber-tj-700-294318-d6.html"
+        },
+        {
+          "so_hieu": "3336/TB-TCHQ",
+          "ngay": "13/06/2018",
+          "hang_hoa": "theo khai báo: Cordyceps Cephalosporium Mycelia Powder (Đông trùng hạ thảo, chiết xuất). Nguyên liệu sản xuất thực phẩm chức năng. Batch no: CP20170301. Hạn sử dụng: 03/2019",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 3336/TB-TCHQ\nHà Nội, ngày 13 tháng 6 năm 2018\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-3336-tb-tchq-tong-cuc-hai-quan-298892-d6.html"
+        }
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BYT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: attp_byt, duoc_pham"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3023,7 +3628,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13022000": {
@@ -3058,7 +3670,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -3134,6 +3746,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -3266,7 +3897,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023100": {
@@ -3301,7 +3939,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -3377,6 +4015,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -3509,7 +4166,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023200": {
@@ -3544,7 +4208,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -3620,6 +4284,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -3752,7 +4435,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023911": {
@@ -3787,7 +4477,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -3863,6 +4553,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -3998,7 +4707,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023912": {
@@ -4033,7 +4749,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -4109,6 +4825,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -4125,6 +4860,17 @@
         "Chú giải HS 2017 — Nhóm 13.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 13.02",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "6336/TB-TCHQ",
+          "ngay": "29/10/2018",
+          "hang_hoa": "theo khai báo: Chất làm cô đặc từ rong biển (CARRAGEENAN- 20kgs/bao). Hàng mới 100% (Mục 4).",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n6336/TB-TCHQ\nHà Nội\n, ngày\n29\ntháng\n10\nnăm\n2018\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất k",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-6336-tb-tchq-tong-cuc-hai-quan-298228-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -4244,7 +4990,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023913": {
@@ -4279,7 +5032,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -4355,6 +5108,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -4490,7 +5262,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023919": {
@@ -4525,7 +5304,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -4601,6 +5380,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -4736,7 +5534,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "13023990": {
@@ -4771,7 +5576,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Không kể những đề cập khác, nhóm 13.02 áp\ndụng cho các chất chiết xuất từ cây cam thảo và\ncây kim cúc, cây hublong (hoa bia), cây lô hội và\ncây thuốc phiện.\nNhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng\ntrên 10% tính theo khối lượng là đường sucroza\nhoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hoặc chè\nparagoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật\nđể làm đồ uống ",
+      "chu_giai_chuong": "1. Ngoài các mặt hàng khác, nhóm 13.02 áp dụng cho các chất chiết xuất từ cây cam thảo và cây kim cúc, cây hublong (hoa bia), cây lô hội và cây thuốc phiện. Nhóm này không áp dụng cho:\n(a) Chất chiết xuất từ cây cam thảo có hàm lượng trên 10% tính theo trọng lượng là đường sucroza hoặc được đóng gói như kẹo (nhóm 17.04);\n(b) Chất chiết xuất từ malt (nhóm 19.01);\n(c) Chất chiết xuất từ cà phê, chè hay chè paragoay (nhóm 21.01);\n(d) Các chất nhựa hoặc chất chiết xuất từ thực vật để làm đồ uống có cồn (Chương 22);\n(e) Long não (camphor), glycyrrhizin hay các sản phẩm khác thuộc nhóm 29.14 hoặc 29.38;\n(f) Dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng (nhóm 29.39);\n(g) Dược phẩm thuộc nhóm 30.03 hoặc 30.04 hoặc thuốc thử nhóm máu (nhóm 30.06);\n(h) Chất chiết xuất làm thuốc nhuộm hoặc thuộc da (nhóm 32.01 hoặc 32.03); (ij) Tinh dầu, thể rắn, nguyên chất, chất tựa nhựa, nhựa dầu, nước cất tinh dầu hoặc dung dịch nước của tinh dầu hoặc các chế phẩm dựa trên chất thơm sử dụng để sản xuất đồ uống (Chương 33); hoặc\n\n\n(k) Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa chicle hoặc các loại nhựa tự nhiên tương tự (nhóm 40.01).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Nhựa và các chiết xuất từ thực vật. Nhóm này bao gồm nhựa thực vật (sản phẩm thực vật thường thu được từ sự rỉ tự nhiên hoặc bị rạch), và các chiết xuất (sản phẩm thực vật chiết xuất từ nguyên liệu có nguồn gốc từ thực vật bằng dung môi) miễn là các chất chiết xuất này không được chi tiết hoặc được ghi tại các nhóm chi tiết hơn của Danh mục (xem danh sách loại trừ ở cuối phần (A) của phần Chú giải này). Nhựa và các chiết xuất này khác với tinh dầu, chất tựa nhựa và nhựa dầu đã chiết thuộc nhóm 33.01, ở chỗ, ngoài các thành phần thơm dễ bay hơi, chúng có chứa các thành phần khác của cây với tỉ lệ cao hơn nhiều (ví dụ, chất diệp lục, chất tanin, chất đắng, carbohydrate và các chất được chiết xuất khác).\n\nNhựa và các chiết xuất được phân loại vào nhóm này bao gồm:\n(1) Thuốc phiện, nhựa khô của quả nang chưa chín của cây anh túc (Papaver somniferum) thu được từ vết rạch, hoặc chiết xuất, từ thân hoặc vỏ hạt. Thuốc phiện thường ở dưới dạng viên hoặc bánh có hình dạng và kích cỡ khác nhau. Tuy nhiên, dịch chiết đậm đặc từ thân cây anh túc có chứa hàm lượng alkaloid từ 50% trở lên tính theo trọng lượng thì bị loại trừ khỏi nhóm này (xem Chú giải 1(f) của Chương này).\n(2) Cam thảo chiết xuất từ rễ khô của cây thuộc họ Leguminosae (Glycyrrhiza glabra) bằng nước nóng dưới áp suất và sau đó cô đặc. Chất chiết xuất này có thể dưới dạng chất lỏng hoặc hình khối, bánh, thỏi, lát hoặc bột. (Chất cam thảo chứa hàm lượng đường sucroza trên 10% tính theo trọng lượng, hoặc được đóng gói (tức là, được chế biến) dưới dạng kẹo đường với hàm lượng đường bất kỳ, bị loại trừ, xem nhóm 17.04).\n(3) Chiết xuất từ hublong (hoa bia).\n(4) Chiết xuất từ cây kim cúc, chủ yếu thu được từ hoa của các loài cây kim cúc khác nhau (ví dụ, Chrysanthemum cinerariaefolium) bằng cách chiết xuất với dung môi hữu cơ như chất hexan thông thường hoặc \"ete của dầu mỏ\".\n(5) Chiết xuất từ rễ cây có chứa chất rotenone (dây mật, cubé, timbo, barbasco,...)\n\n(6) Chiết xuất và cồn của bất kỳ cây nào họ Cannabis (gai",
       "chu_giai_dong": null,
@@ -4847,6 +5652,25 @@
           "chế biến \"trà sâm\" hoặc đồ uống từ sâm bị loại trừ (nhóm 21",
           "thuốc và thuộc da",
           "lớp phủ hoặc trang trí các đồ vật khác nhau (tráp"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Thực phẩm, phụ gia thực phẩm và bao gói, dụng cụ chưa đựng",
+            "van_ban": "15/2024/TT-BYT",
+            "danh_muc": null,
+            "co_quan": "BYT",
+            "loai": "attp_byt",
+            "tier": 3,
+            "loai_ten": "An toàn thực phẩm (quản lý của Bộ Y tế)",
+            "don_vi": "Cục An toàn thực phẩm"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BYT"
+        ],
+        "agency_authority": [
+          "Bộ Y tế"
         ]
       },
       "phan_biet": [],
@@ -4982,7 +5806,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

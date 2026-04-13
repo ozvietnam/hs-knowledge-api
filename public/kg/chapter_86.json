@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại chạy bằng nguồn điện bên ngoài",
-      "en": null,
+      "en": "- Powered from an external source of electricity",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -63,7 +94,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -180,9 +223,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86012000": {
@@ -193,28 +249,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại chạy bằng ắc qui điện",
-      "en": null,
+      "en": "- Powered by electric accumulators",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -249,7 +336,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -366,9 +465,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86021000": {
@@ -379,28 +491,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đầu máy diesel truyền động điện (1)",
-      "en": null,
+      "en": "- Diesel-electric locomotives",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -441,7 +584,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -558,9 +713,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86029000": {
@@ -571,28 +739,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -633,7 +832,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.02",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.02"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -750,9 +961,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86031000": {
@@ -763,28 +987,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại chạy bằng nguồn điện bên ngoài",
-      "en": null,
+      "en": "- Powered from an external source of electricity",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -816,7 +1071,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -933,9 +1200,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86039000": {
@@ -946,28 +1226,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -999,7 +1310,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.03"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1116,9 +1439,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86040000": {
@@ -1129,28 +1465,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Xe bảo dưỡng hoặc phục vụ dùng trong đường sắt hoặc đường tàu điện, loại tự hành hoặc không (ví dụ, toa xưởng, xe gắn cần cẩu, máy chèn đường, máy đặt ray, toa xe thử nghiệm(1) và xe kiểm tra đường ray)",
-      "en": null,
+      "en": "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -1195,7 +1562,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.04"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1312,9 +1691,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86050000": {
@@ -1325,28 +1717,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Toa xe chở khách(1) không tự hành dùng cho đường sắt hoặc đường tàu điện; toa xe hành lý(1), toa xe bưu vụ(1) và toa xe chuyên dùng khác cho đường sắt hoặc đường tàu điện, không tự hành (trừ các loại thuộc nhóm 86.04)",
-      "en": null,
+      "en": "Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 86.04)",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -1392,7 +1815,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.05",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.05"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "HHNK phải chứng nhận trước khi thông quan (12/2022/TT-BGTVT PL1); Chứng nhận chất lượng ATKT và BVMT trước TQ (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1509,9 +1944,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86061000": {
@@ -1594,7 +2042,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1713,7 +2173,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86063000": {
@@ -1796,7 +2263,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1915,7 +2394,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86069100": {
@@ -1998,7 +2484,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2117,7 +2615,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86069200": {
@@ -2200,7 +2705,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2319,7 +2836,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86069900": {
@@ -2402,7 +2926,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 86",
         "Chú giải HS 2017 — Nhóm 86.06",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 86.06"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2521,7 +3057,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86071100": {
@@ -2581,7 +3124,19 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 86"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2700,7 +3255,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86071200": {
@@ -2760,7 +3322,19 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 86"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -2879,7 +3453,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86071900": {
@@ -2890,28 +3471,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác, kể cả các bộ phận",
-      "en": null,
+      "en": "- - Other, including parts",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -3056,9 +3668,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "86072100": {
@@ -3118,7 +3743,19 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 86"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3237,7 +3874,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86072900": {
@@ -3416,7 +4060,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86073000": {
@@ -3476,7 +4127,19 @@
       },
       "nguon_phap_ly": [
         "TT31/2022/TT-BTC — Chú giải Chương 86"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C3",
+            "severity": "LOW",
+            "desc": "Có chính sách nhưng thiếu thông tin KTCN cụ thể",
+            "detail": "Chứng nhận chất lượng ATKT và BVMT sau TQ, trước khi đưa ra thị trường (12/2022/TT-BGTVT và 62/2024/TT-BGTVT)"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -3595,7 +4258,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86079100": {
@@ -3774,7 +4444,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86079900": {
@@ -3953,7 +4630,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86080020": {
@@ -4167,7 +4851,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86080090": {
@@ -4381,7 +5072,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "86090010": {
@@ -4392,28 +5090,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Bằng kim loại cơ bản",
-      "en": null,
+      "en": "- Of base metal",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -4576,9 +5305,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ]
+          }
+        }
+      ]
     }
   },
   "86090090": {
@@ -4589,28 +5331,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Tà vẹt đường ray đường sắt hoặc tàu điện bằng\ngỗ hoặc bằng bê tông, hoặc đường ray dẫn bằng bê\ntông của tàu chạy trên đệm không khí (nhóm 44.06\nhoặc 68.10);\n(b) Vật liệu xây dựng đường ray đường sắt hoặc\ntàu điện bằng sắt hoặc thép thuộc nhóm 73.02;\nhoặc\n(c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao\nthông bằng điện thuộc nhóm 85.30.\n2. Nhóm 86.07, không kể những đề cập khác, áp\ndụng cho:\n(a) Trục, bánh xe, bộ trục bánh xe (1) (bánh răng\ntruyền động), đai bá",
@@ -4773,9 +5546,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ]
+          }
+        }
+      ]
     }
   }
 }

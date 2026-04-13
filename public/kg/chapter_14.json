@@ -31,7 +31,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -70,6 +70,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -83,7 +124,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 14",
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -202,7 +255,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14012010": {
@@ -237,7 +297,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -276,6 +336,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -292,7 +393,19 @@
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -411,7 +524,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14012021": {
@@ -446,7 +566,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -485,6 +605,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -501,7 +650,19 @@
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -620,7 +781,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14012029": {
@@ -655,7 +823,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -694,6 +862,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -710,7 +907,19 @@
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -829,7 +1038,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14012030": {
@@ -864,7 +1080,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -903,6 +1119,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -919,7 +1164,19 @@
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1038,7 +1295,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14012090": {
@@ -1073,7 +1337,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -1112,6 +1376,35 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương"
         ]
       },
       "phan_biet": [],
@@ -1128,7 +1421,19 @@
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1247,7 +1552,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14019000": {
@@ -1282,7 +1594,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "Ngoài các mặt hàng khác, nhóm này bao gồm các nguyên liệu thô sau:\n(1) Tre, loài cỏ đặc biệt, mọc rất phổ biến ở một số vùng và đặc biệt là ở Trung Quốc, Nhật Bản và Ấn Độ. Tre có thân rỗng, rất nhẹ, mặt ngoài bóng, một số có rãnh khía giữa hai đốt. Tre (đã hoặc chưa chẻ, cắt thành đoạn, cắt dọc, tiện tròn đầu, chuội, chống cháy, đánh bóng hoặc nhuộm) thuộc nhóm này.\n\n\n\n\n\n(2) Song, mây là thân của loại cây họ cọ có thân leo thường thuộc họ Calamus và chủ yếu ở các vùng Nam á. Chúng có thân dẻo, hình trụ, đặc và đường kính từ 0,3-6cm và có màu từ vàng đến nâu; chúng có thể có bề mặt xỉn hoặc bóng. Sản phẩm phân loại trong nhóm này gồm cả lõi song, mây và vỏ song cứng; nhóm cũng bao gồm các sợi song, mây dài có được từ việc chẻ dọc các lõi hoặc các khúc song, mây hoặc toàn bộ cây song, mây.\n\n\n(3) Sậy và cói , bấc, là tên gọi chung của các cây thân thảo sống nơi ẩm ướt, cả trong vùng ôn đới và nhiệt đới. Sậy là loại cây có thân cứng hơn, thẳng và ruột rỗng, có đốt ở từng đoạn đều nhau, đánh dấu chỗ lá mọc. Trong số các loại cây này phải kể đến: cây cói sống ở vùng đầm lầy (Scirpus lacustris), sậy thông thường và sậy đầm lầy (Arundo donax và Phragmites communis), cũng như nhiều loại cây sậy loài Ceperus (Cyperus tegetiformis, cỏ chiếu Trung Quốc) hoặc loài Juncus (Juncus effusus- cây cói chiếu Nhật Bản).\n\n(4) Cây liễu gai (trắng, vàng, xanh hoặc đỏ), là cành non hoặc cành cây mềm dẻo, dài của một số loại cây liễu (Salix).\n\n(5) Cọ sợi, tên thương mại để chỉ các dải sợi được tách từ lá của một số loại cây cọ thuộc họ Raphia, trong họ này quan trọng nhất là loại Raphia ruffia sống chủ yếu ở Madagasca. Cọ sợi dùng để tết, bện và được sử dụng như các vật liệu buộc trong công việc làm vườn. Vải từ cọ sợi chưa xe sợi bị loại trừ (nhóm 46.01). Nhóm này bao gồm các loại lá và cỏ khác (ví dụ, các loại của Panama và latania) được sử dụng với cùng mục đích như cọ sợi và trong việc làm mũ, nón.\n(6) Rơm ngũ cốc, còn hoặc không còn bông, đã được làm sạch, chuội hoặc đã nhuộm (xem dưới",
       "chu_giai_dong": null,
@@ -1321,6 +1633,47 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "tết bện được xếp trong nhóm này cho dù đã hoặc chưa rửa sạch và thuộc dạng thô hoặc được chẻ"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "42/2019/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Hàng hóa được nhập khẩu dưới hình thức mua bán, trao đổi của cư dân biên giới",
+            "van_ban": "34/2025/TT-BCT",
+            "danh_muc": null,
+            "co_quan": "BCT",
+            "loai": "cua_khau_phu",
+            "tier": 3,
+            "loai_ten": "Hàng hóa mua bán qua cửa khẩu phụ, lối mở biên giới",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BCT",
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [],
@@ -1334,7 +1687,19 @@
         "TT31/2022/TT-BTC — Chú giải Chương 14",
         "Chú giải HS 2017 — Nhóm 14.01",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.01"
-      ]
+      ],
+      "conflict": {
+        "has_conflict": true,
+        "count": 1,
+        "items": [
+          {
+            "type": "C2",
+            "severity": "MEDIUM",
+            "desc": "BCT yêu cầu 2 loại kiểm tra khác nhau",
+            "detail": "Types: cua_khau_phu, cua_khau_phu"
+          }
+        ]
+      }
     },
     "regulatory_layer": {
       "hien_hanh": [],
@@ -1453,7 +1818,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14042000": {
@@ -1488,7 +1860,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -1560,6 +1932,25 @@
           "lót hoặc nhồi (ví dụ",
           "nhồi đồ đạc",
           "nhồi nh"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [
@@ -1694,7 +2085,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14049020": {
@@ -1729,7 +2127,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -1935,7 +2333,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14049030": {
@@ -1970,7 +2375,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -2042,6 +2447,25 @@
           "lót hoặc nhồi (ví dụ",
           "nhồi đồ đạc",
           "nhồi nh"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [
@@ -2176,7 +2600,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14049091": {
@@ -2211,7 +2642,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -2283,6 +2714,25 @@
           "lót hoặc nhồi (ví dụ",
           "nhồi đồ đạc",
           "nhồi nh"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [
@@ -2417,7 +2867,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14049092": {
@@ -2452,7 +2909,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -2524,6 +2981,25 @@
           "lót hoặc nhồi (ví dụ",
           "nhồi đồ đạc",
           "nhồi nh"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [
@@ -2658,7 +3134,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "14049099": {
@@ -2693,7 +3176,7 @@
       "version": 1
     },
     "legal_layer": {
-      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau\nđây đã được xêp trong Phần XI: vật liệu thực vật\nhoặc xơ từ nguyên liệu thực vật đã chê biên chủ\nyêu dùng cho ngành dệt, hoặc các vật liệu thực vật\nkhác, đã xử lý thích hợp chỉ để dùng làm vật liệu\ndệt.",
+      "chu_giai_chuong": "1. Chương này không bao gồm các sản phẩm sau đây đã được xếp trong Phần XI: vật liệu\nthực vật hoặc xơ từ nguyên liệu thực vật đã chế biến chủ yếu dùng cho ngành dệt, hoặc\ncác vật liệu thực vật khác, đã xử lý thích hợp chỉ để dùng làm vật liệu dệt.\n2. Ngoài các mặt hàng khác, nhóm 14.01 áp dụng cho các loại tre (đã hoặc chưa chẻ, xẻ\ndọc, cắt thành từng đoạn, tiện tròn đầu, tẩy trắng, chống cháy, đánh bóng hoặc nhuộm),\nliễu gai, sậy và các loại tương tựđã tách, lõi song mây hoặc song mây chẻ. Nhóm này\nkhông áp dụng cho nan gỗ (nhóm 44.04).\n3. Nhóm 14.04 không áp dụng cho sợi gỗ (nhóm 44.05) và túm hoặc búi đã làm sẵn dùng\nđể làm chổi hoặc bàn chải (nhóm 96.03).",
       "chu_giai_phan": "Chú giải.\n1. - Trong Phần này khái niệm “viên” có nghĩa là những sản phẩm được liên kết bằng cách\nnén trực tiếp hoặc thêm chất dính với hàm lượng không quá 3% tính theo trọng lượng.",
       "chu_giai_nhom": "(A) Xơ của cây bông. Hạt của một số loại cây bông, sau khi tách khỏi sợi bông bằng cách tỉa, vẫn còn phủ lông tơ mịn hình thành các sợi rất ngắn (thường có chiều dài dưới 5mm). Các sợi này được gọi là xơ của cây bông.\n\n\nCác xơ quá ngắn để kéo sợi được; hàm lượng cellulose rất cao của chúng khiến chúng thành một nguyên liệu thô lý tưởng để chế biến bột không khói và sản xuất sợi nhân tạo (ví dụ, rayon) hoặc plastic cellulose. Đôi khi chúng còn được sử dụng trong sản xuất một số loại giấy, khối lọc và được sử dụng như chất độn trong công nghiệp sản xuất cao su. Xơ của cây bông được phân loại ở nhóm này dù dùng vào mục đích gì và dù thô, được làm sạch, tẩy trắng, nhuộm hay được làm thành chất thấm hút. Chúng có thể ở dạng đống hoặc được ép mạnh thành hình tấm hoặc phiến.\n\nNhóm này không bao gồm:\n(a) Bông, y tế hoặc đóng gói bán lẻ dùng cho y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 30.05).\n\n(b) Các loại bông khác (nhóm 56.01).\n(B) Nguyên liệu thực vật thô loại chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da. Sản phẩm này chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da cả bằng cách trực tiếp hoặc trong sản xuất chiết xuất nhuộm hoặc thuộc da. Các nguyên liệu này có thể chưa được xử lý, đã làm sạch, làm khô, xay hoặc tán thành bột (đã hoặc chưa được ép). Các sản phẩm quan trọng hơn gồm:\n(1) Gỗ: gỗ cây sơn, gỗ hoàng mộc (bao gồm cả gỗ gọi là “gỗ hoàng mộc non”), gỗ huyết mộc, cây mẻ rừu, gỗ Brazin (kể cả gỗ Pernambouco và gỗ vang), gỗ dẻ, gỗ tinh dầu (gỗ đàn hương đỏ). Cần phải lưu ý rằng các loại gỗ chủ yếu dùng trong công nghệ nhuộm hoặc thuộc da chỉ được phân loại trong nhóm này nếu chúng ở dạng mảnh vụn, mảnh vỡ hoặc dạng bột. Còn ở các dạng khác, chúng bị loại trừ (Chương 44).\n(2) Vỏ cây: vỏ của cây sồi các loại (kể cả sồi đen (sồi nhuộm) và lớp vỏ thứ hai của cây sồi bần), vỏ cây dẻ, cây bulô trắng, cây sơn, “cây hoàng mộc”, cây keo (wattle), cây trinh nữ, cây đước, cây tùng hemlock và cây liễu.\n(3) Rễ cây và các loại tương tự: cây thiên thảo căn, cây chút chít c",
       "chu_giai_dong": null,
@@ -2765,6 +3248,25 @@
           "lót hoặc nhồi (ví dụ",
           "nhồi đồ đạc",
           "nhồi nh"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Kiểm dịch thực vật",
+            "van_ban": "01/2024/TT-BNNPTNT",
+            "danh_muc": "M9",
+            "co_quan": "BNNPTNT",
+            "loai": "thuc_an_chan_nuoi",
+            "tier": 3,
+            "loai_ten": "Thức ăn chăn nuôi, chất phụ gia",
+            "don_vi": "Cục Chăn nuôi"
+          }
+        ],
+        "ktcn_muc_canh_bao": "ORANGE",
+        "ktcn_co_quan": [
+          "BNNPTNT"
+        ],
+        "agency_authority": [
+          "Bộ Nông nghiệp và Phát triển Nông thôn"
         ]
       },
       "phan_biet": [
@@ -2780,6 +3282,26 @@
         "TT31/2022/TT-BTC — Chú giải Chương 14",
         "Chú giải HS 2017 — Nhóm 14.04",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 14.04"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "2037/TB-TCHQ",
+          "ngay": "30/03/2020",
+          "hang_hoa": "theo khai báo: Cuống chè khô, dùng làm gỗ ép, hàng đóng đồng nhất 40 kg/bao, do Trung Quốc sản xuất.",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố:\n2037/TB-TCHQ\nHà Nội, ngày 30 tháng 3 năm 2020\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất khẩ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-2037-tb-tchq-2020-phan-loai-cuong-che-kho-dung-lam-go-ep-293468-d6.html"
+        },
+        {
+          "so_hieu": "1455/TB-TCHQ",
+          "ngay": "23/06/2014",
+          "hang_hoa": "theo khai báo: Rêu khô (Dớn trắng dùng để trồng lan, sản phẩm chỉ qua giai đoạn sơ chế phơi khô và đóng túi, mỗi túi 5kg), hàng mới 100%, (Hàng hóa áp dụng theo thông tư",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nT\nỔ\nNG CỤC HẢI QUAN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: 1455/TB-TCHQ\nHà Nội, ngày\n3\n0 tháng 3 năm 2021\nTHÔNG BÁO\nVề kết quả phân loại đối với hàng hóa xuất ",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-1455-tb-tchq-2021-phan-loai-hang-hoa-xuat-khau-nhap-khau-la-reu-kho-295084-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -2899,7 +3421,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   }
 }

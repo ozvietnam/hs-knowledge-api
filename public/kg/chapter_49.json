@@ -7,28 +7,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dạng tờ đơn, có hoặc không gấp",
-      "en": null,
+      "en": "- In single sheets, whether or not folded",
       "dvt": "kg/cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0,6",
+        "ukvfta": "0,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -65,6 +96,25 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bài tập viết hoặc dạng bài tập khác (nhóm 49"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [],
@@ -195,9 +245,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "evfta": [
+              null,
+              "0,6"
+            ],
+            "ukvfta": [
+              null,
+              "0,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "49019100": {
@@ -208,28 +279,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Từ điển và bộ bách khoa toàn thư, và các phụ trương của chúng",
-      "en": null,
+      "en": "- - Dictionaries and encyclopaedias, and serial instalments thereof",
       "dvt": "kg/cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -266,6 +368,25 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bài tập viết hoặc dạng bài tập khác (nhóm 49"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [],
@@ -396,9 +517,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49019910": {
@@ -409,28 +543,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Sách giáo dục, kỹ thuật, khoa học, lịch sử hoặc văn hóa ",
-      "en": null,
+      "en": "- - - Educational, technical, scientific, historical or cultural books",
       "dvt": "cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -467,6 +632,25 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bài tập viết hoặc dạng bài tập khác (nhóm 49"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [],
@@ -597,9 +781,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49019990": {
@@ -610,28 +807,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "cuốn",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "*/5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "0,6",
+        "ukvfta": "0,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "*/5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -668,6 +896,25 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "bài tập viết hoặc dạng bài tập khác (nhóm 49"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [],
@@ -798,9 +1045,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "0,6"
+            ],
+            "ukvfta": [
+              null,
+              "0,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "49021000": {
@@ -987,7 +1255,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49029010": {
@@ -1177,7 +1452,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49029090": {
@@ -1367,7 +1649,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49030000": {
@@ -1378,28 +1667,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Sách tranh ảnh, sách vẽ hoặc sách tô màu cho trẻ em",
-      "en": null,
+      "en": "Children’s picture, drawing or colouring books",
       "dvt": "cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "*/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "*/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -1423,6 +1743,25 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "các bài tập viết hoặc bài tập khác"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -1438,6 +1777,20 @@
         "TT31/2022/TT-BTC — Chú giải Chương 49",
         "Chú giải HS 2017 — Nhóm 49.03",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 49.03"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "188/TB-TCHQ",
+          "ngay": "13/01/2023",
+          "hang_hoa": "MS GOLDDUST Bột hút ẩm vệ\r\n  sinh có khả năng hấp thụ độ âm cực mạnh, làm sạch môi trường và tạo mùi dễ chịu.\r\n  Sản phẩm này, với công thức đặc biệt,",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-188-TB-TCHQ-2023-ket-qua-xac-dinh-truoc-ma-so-doi-voi-MS-GOLDDUST-551568.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.7597,
+          "match_type": "suggested"
+        }
       ]
     },
     "regulatory_layer": {
@@ -1555,9 +1908,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49040000": {
@@ -1568,28 +1934,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bản nhạc, in hoặc viết tay, đã hoặc chưa đóng thành quyển hoặc minh họa tranh ảnh",
-      "en": null,
+      "en": "Music, printed or in manuscript, whether or not bound or illustrated",
       "dvt": "cuốn",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0,6",
+        "ukvfta": "0,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -1744,9 +2141,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "0,6"
+            ],
+            "ukvfta": [
+              null,
+              "0,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "49052000": {
@@ -1757,28 +2171,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Dạng quyển",
-      "en": null,
+      "en": "- In book form",
       "dvt": "cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -1810,7 +2255,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -1940,9 +2404,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49059000": {
@@ -1953,28 +2430,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "5/8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "5/8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -2006,7 +2514,26 @@
         "nguyen_ly_hoat_dong": null,
         "tinh_chat_vat_ly": null,
         "tinh_chat_hoa_hoc": null,
-        "muc_dich_su_dung": []
+        "muc_dich_su_dung": [],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
+        ]
       },
       "phan_biet": [],
       "sen": {
@@ -2136,9 +2663,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49060000": {
@@ -2149,28 +2689,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Các loại sơ đồ và bản vẽ cho kiến trúc, kỹ thuật, công nghiệp, thương mại, địa hình hoặc các mục đích tương tự, là bản gốc vẽ tay; văn bản viết tay; các bản sao chụp lại bằng giấy có phủ lớp chất nhạy và bằng giấy than của các loại kể trên",
-      "en": null,
+      "en": "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; hand-written texts; photographic reproductions on sensitised paper and carbon copies of the foregoing",
       "dvt": "kg/cuốn",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "*",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -2327,9 +2898,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "eaeu": [
+              null,
+              "*"
+            ]
+          }
+        }
+      ]
     }
   },
   "49070010": {
@@ -2537,7 +3121,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49070021": {
@@ -2548,28 +3139,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Tem bưu chính",
-      "en": null,
+      "en": "- - Postage stamps",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -2743,9 +3365,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49070029": {
@@ -2756,28 +3403,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "5",
         "mfn": "0",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0",
+        "ukvfta": "0",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "5",
+            "mfn": "0",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -2951,9 +3629,22 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ]
+          }
+        }
+      ]
     }
   },
   "49070050": {
@@ -3161,7 +3852,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49070060": {
@@ -3369,7 +4067,14 @@
       },
       "version": 1,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "verified_unchanged"
+        }
+      ]
     }
   },
   "49070090": {
@@ -3380,28 +4085,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -3575,9 +4311,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-MY)"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49081000": {
@@ -3588,28 +4349,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Đề can các loại (decalcomanias), dùng cho các sản phẩm thủy tinh",
-      "en": null,
+      "en": "- Transfers (decalcomanias), vitrifiable",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "7.5",
         "mfn": "5",
         "vat": "8/10",
         "acfta": "0",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "0",
+        "vncu": null,
+        "evfta": "0,6",
+        "ukvfta": "0,6",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "7.5",
+            "mfn": "5",
+            "vat": "8/10",
+            "acfta": "0",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -3766,9 +4558,26 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "evfta": [
+              null,
+              "0,6"
+            ],
+            "ukvfta": [
+              null,
+              "0,6"
+            ]
+          }
+        }
+      ]
     }
   },
   "49089000": {
@@ -3779,28 +4588,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- Loại khác",
-      "en": null,
+      "en": "- Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "22.5",
         "mfn": "15",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH, MY)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "22.5",
+            "mfn": "15",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -3957,9 +4797,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH, MY)"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49090000": {
@@ -3970,28 +4835,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Bưu thiếp in hoặc bưu ảnh; các loại thiếp in sẵn chứa lời chúc, thông điệp hoặc thông báo, có hoặc không có minh họa, có hoặc không có phong bì kèm theo hoặc phụ kiện trang trí",
-      "en": null,
+      "en": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -4154,9 +5050,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49100000": {
@@ -4167,28 +5088,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "Các loại lịch in, kể cả bloc lịch",
-      "en": null,
+      "en": "Calendars of any kind, printed, including calendar blocks",
       "dvt": "cuốn",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "5",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "Hàng tiêu dùng QSD cấp NK (08/2023/TT-BCT - PL1.I); DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -4219,6 +5171,37 @@
         "tinh_chat_hoa_hoc": null,
         "muc_dich_su_dung": [
           "đặt trên nền bằng bìa"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "Hàng tiêu dùng QSD cấp NK",
+            "van_ban": "08/2023/TT-BCT",
+            "danh_muc": "PL1.I",
+            "co_quan": "BCT",
+            "loai": "hang_tieu_dung",
+            "tier": 3,
+            "loai_ten": "Hàng tiêu dùng quản lý sử dụng cấp NK",
+            "don_vi": "Cục Xuất nhập khẩu"
+          },
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BCT",
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Công Thương",
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [],
@@ -4349,9 +5332,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "aifta": [
+              null,
+              "5"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49111010": {
@@ -4362,28 +5370,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Catalog chỉ liệt kê tên sách và các ấn phẩm về giáo dục, kỹ thuật, khoa học, lịch sử hoặc văn hóa",
-      "en": null,
+      "en": "- - Catalogues listing only educational, technical, scientific, historical or cultural books and publications",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -4449,6 +5488,25 @@
           "bàn chải (nhóm 05",
           "công nghệ ép dầu hoặc tương tự (nhóm 59",
           "làm sạch các kẽ răng (chỉ tơ nha khoa)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -4581,9 +5639,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49111090": {
@@ -4594,28 +5677,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - Loại khác",
-      "en": null,
+      "en": "- - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0(-KH)",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -4681,6 +5795,25 @@
           "bàn chải (nhóm 05",
           "công nghệ ép dầu hoặc tương tự (nhóm 59",
           "làm sạch các kẽ răng (chỉ tơ nha khoa)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -4813,9 +5946,34 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "akfta": [
+              null,
+              "0(-KH)"
+            ],
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119110": {
@@ -4826,28 +5984,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bản thiết kế",
-      "en": null,
+      "en": "- - - Designs",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -5045,9 +6234,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119121": {
@@ -5058,28 +6268,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Giải phẫu học và thực vật học",
-      "en": null,
+      "en": "- - - - Anatomical and botanical",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -5160,6 +6401,20 @@
         "TT31/2022/TT-BTC — Chú giải Chương 49",
         "Chú giải HS 2017 — Nhóm 49.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 49.11"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "4040/TB-TCHQ",
+          "ngay": "28/09/2022",
+          "hang_hoa": "Bảng mạch điều khiển của thiết bị lọc không khí Bảng mạch điều\r\n    khiển của thiết bị lọc không khí (bảng mạch chưa trải qua quá trình ghi dữ\r\n    li",
+          "noi_dung": "",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": null,
+          "url": "https://thuvienphapluat.vn/van-ban/Xuat-nhap-khau/Thong-bao-4040-TB-TCHQ-2022-ket-qua-xac-dinh-truoc-ma-so-bang-mach-dieu-khien-thiet-bi-loc-531205.aspx",
+          "vector_matched": true,
+          "match_confidence": 0.8237,
+          "match_type": "suggested"
+        }
       ]
     },
     "regulatory_layer": {
@@ -5277,9 +6532,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119129": {
@@ -5290,28 +6566,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -5377,6 +6684,25 @@
           "bàn chải (nhóm 05",
           "công nghệ ép dầu hoặc tương tự (nhóm 59",
           "làm sạch các kẽ răng (chỉ tơ nha khoa)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -5509,9 +6835,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119191": {
@@ -5522,28 +6869,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Giải phẫu học và thực vật học",
-      "en": null,
+      "en": "- - - - Anatomical and botanical",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "15",
         "mfn": "10",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "1,2",
+        "ukvfta": "1,2",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "15",
+            "mfn": "10",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -5741,9 +7119,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "1,2"
+            ],
+            "ukvfta": [
+              null,
+              "1,2"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119199": {
@@ -5754,28 +7153,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - - Loại khác",
-      "en": null,
+      "en": "- - - - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-KH, CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-KH, CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -5841,6 +7271,25 @@
           "bàn chải (nhóm 05",
           "công nghệ ép dầu hoặc tương tự (nhóm 59",
           "làm sạch các kẽ răng (chỉ tơ nha khoa)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -5973,9 +7422,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119910": {
@@ -5986,28 +7456,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Thẻ in sẵn cho đồ trang sức hoặc cho các đồ tư trang nhỏ trang điểm cá nhân hoặc đồ dùng cá nhân thường được mang theo trong ví, túi sách tay hoặc mang theo người (SEN)",
-      "en": null,
+      "en": "- - - Printed cards for jewellery or for small objects of personal adornment or articles of personal use normally carried in the pocket, handbag or on the person",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -6208,9 +7709,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119920": {
@@ -6221,28 +7743,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Nhãn đã được in để báo nguy hiểm dễ nổ trừ loại thuộc nhóm 48.21 (SEN)",
-      "en": null,
+      "en": "- - - Printed labels for explosives other than those of heading 48.21",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -6443,9 +7996,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119930": {
@@ -6456,28 +8030,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Bộ thẻ đã được in nội dung về giáo dục, kỹ thuật, khoa học, lịch sử hoặc văn hóa (SEN)",
-      "en": null,
+      "en": "- - - Educational, technical, scientific, historical or cultural material printed on a set of cards",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -6678,9 +8283,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119940": {
@@ -6691,28 +8317,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Ấn phẩm in cấp quyền truy cập, cài đặt, tái bản hoặc ấn phẩm in khác sử dụng phần mềm (bao gồm cả trò chơi), dữ liệu, nội dung internet (bao gồm cả nội dung trong trò chơi hoặc trong ứng dụng) hoặc các dịch vụ, hoặc dịch vụ viễn thông (bao gồm cả dịch vụ di động) (SEN)",
-      "en": null,
+      "en": "- - - Printed matter which grants the right to access, install, reproduce or otherwise use software (including games), data, internet content (including in-game or in-application content) or services, or telecommunications services (including mobile services)",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": null,
       "canh_bao_cs": false,
       "muc_canh_bao": "GREEN",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -6913,9 +8570,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   },
   "49119990": {
@@ -6926,28 +8604,59 @@
     "parent_hs": null,
     "fact_layer": {
       "vn": "- - - Loại khác",
-      "en": null,
+      "en": "- - - Other",
       "dvt": "kg/chiếc",
       "rates": {
         "tt": "30",
         "mfn": "20",
         "vat": "8/10",
         "acfta": "0 (-CN)",
-        "atiga": null,
-        "vjepa": null,
-        "vcfta": null,
-        "ukvfta": null,
-        "evfta": null,
+        "atiga": "0",
+        "ajcep": "0",
+        "vjepa": "0",
+        "akfta": "0",
+        "aanzfta": "0",
+        "aifta": "0",
+        "vkfta": "0",
+        "vcfta": "0",
+        "eaeu": "0",
+        "cptpp": "0",
+        "ahkfta": "*",
+        "vncu": null,
+        "evfta": "2,5",
+        "ukvfta": "2,5",
+        "xk": null,
         "bvmt": null,
         "giam_vat": null
       },
       "chinh_sach": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm (22/2018/TT-BTTTT-PL2); HH chỉ định cơ sỏ in, đúc tiền (07/2023/TT-NHNN)",
       "canh_bao_cs": true,
       "muc_canh_bao": "YELLOW",
-      "source_doc": "TT31/2022/TT-BTC",
-      "effective_date": "2022-06-08",
+      "source_doc": "BIEU THUE XNK 2026.01.06",
+      "effective_date": "2026-01-06",
       "expiration_date": null,
-      "version": 1
+      "version": 2,
+      "rates_history": [
+        {
+          "version": 1,
+          "source_doc": "TT31/2022/TT-BTC",
+          "effective_date": "2022-06-08",
+          "rates": {
+            "tt": "30",
+            "mfn": "20",
+            "vat": "8/10",
+            "acfta": "0 (-CN)",
+            "atiga": null,
+            "vjepa": null,
+            "vcfta": null,
+            "ukvfta": null,
+            "evfta": null,
+            "bvmt": null,
+            "giam_vat": null
+          },
+          "replaced_at": "2026-04-13"
+        }
+      ]
     },
     "legal_layer": {
       "chu_giai_chuong": "1. Chương này không bao gồm:\n(a) Phim tạo ảnh âm bản hoặc dương bản (Chương\n37);\n^\n(b) Bản đồ, sơ đồ hoặc quả địa cầu, dạng nổi, đã\nhoặc chưa in (nhóm 90.23);\n(c) Bộ bài để chơi hoặc hàng hoá khác thuộc\nChương 95; hoặc\n(d) Bản khắc, bản in và bản in lytô gốc (nhóm\n97.02), tem bưu chính hoặc tem thuế, dấu in cước\nthay tem bưu chính, phong bì có tem đóng dấu\nngày phát hành đầu tiên, ấn phẩm bưu chính hoặc\nnhững loại hàng hoá tương tự thuộc nhóm 97.04,\nđồ cổ có tuổi trên 100 năm hoặc các loại hàng ",
@@ -7013,6 +8722,25 @@
           "bàn chải (nhóm 05",
           "công nghệ ép dầu hoặc tương tự (nhóm 59",
           "làm sạch các kẽ răng (chỉ tơ nha khoa)"
+        ],
+        "ktcn": [
+          {
+            "mo_ta": "DM HH NK XK trong lĩnh vực phát hành xuất bản phẩm",
+            "van_ban": "22/2018/TT-BTTTT",
+            "danh_muc": "PL2",
+            "co_quan": "BTTTT",
+            "loai": "xuat_ban_pham",
+            "tier": 3,
+            "loai_ten": "Xuất bản phẩm, ấn phẩm NK",
+            "don_vi": "Cục Xuất bản, In và Phát hành"
+          }
+        ],
+        "ktcn_muc_canh_bao": "YELLOW",
+        "ktcn_co_quan": [
+          "BTTTT"
+        ],
+        "agency_authority": [
+          "Bộ Thông tin và Truyền thông"
         ]
       },
       "phan_biet": [
@@ -7031,6 +8759,17 @@
         "Chú giải HS 2017 — Nhóm 49.11",
         "Chú giải HS 2022 (CV 1810/TCHQ-TXNK 2024) — Nhóm 49.11",
         "SEN AHTN 2022 (CV 3866/TCHQ-TXNK 2023)"
+      ],
+      "case_history": [
+        {
+          "so_hieu": "821/TB-TCHQ",
+          "ngay": "13/02/2020",
+          "hang_hoa": "theo khai báo:",
+          "noi_dung": "Tình trạng hiệu lực:\nĐã biết\nHiệu lực: Đã biết\nTình trạng hiệu lực: Đã biết\nBỘ TÀI CHÍNH\nTỔNG CỤC HẢI QUAN\n_________\nSố: 821/TB-TCHQ\nCỘNG HÒA XÃ HỘI CHỦ NGHỈA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n__________________\nHà Nội, ngày\n13\ntháng 02 năm 2020\nTHÔNG BÁO\nV\nề kết quả phân loại đối với hàng hóa xu",
+          "co_tranh_chap": false,
+          "ma_hs_ban_dau": "",
+          "url": "https://luatvietnam.vn/xuat-nhap-khau/thong-bao-821-tb-tchq-2020-ket-qua-phan-loai-doi-voi-tam-nhan-dan-bang-cao-su-dung-de-dan-len-lop-xe-dap-389328-d6.html"
+        }
       ]
     },
     "regulatory_layer": {
@@ -7148,9 +8887,30 @@
         "logistics": false,
         "ai": false
       },
-      "version": 1,
+      "version": 2,
       "created_at": "2026-04-02T03:46:57Z",
-      "updated_at": "2026-04-02T03:46:57Z"
+      "updated_at": "2026-04-13T00:00:00Z",
+      "update_log": [
+        {
+          "date": "2026-04-13",
+          "source": "BIEU THUE XNK 2026.01.06",
+          "action": "rates_updated",
+          "diff": {
+            "ahkfta": [
+              null,
+              "*"
+            ],
+            "evfta": [
+              null,
+              "2,5"
+            ],
+            "ukvfta": [
+              null,
+              "2,5"
+            ]
+          }
+        }
+      ]
     }
   }
 }
