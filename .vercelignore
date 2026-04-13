@@ -1,0 +1,6 @@
+node_modules
+.next
+data/kg/*.bak
+data/kg/*.bak2026
+data/vector_embeddings.json
+nohup*.log
