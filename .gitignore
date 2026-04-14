@@ -2,11 +2,12 @@ node_modules/
 .next/
 .vercel/
 
-# Track data/kg/ nhưng bỏ qua file lớn
+# data/kg/ is local-only (public/kg/ is what gets served via GitHub raw CDN)
+data/kg/
 data/vector_embeddings.json
-data/kg/vector_embeddings.json
 nohup*.log
 data/orchestrator_state.json
 data/system_status.json
 data/scheduler.log
 *.bak
+.vercel
