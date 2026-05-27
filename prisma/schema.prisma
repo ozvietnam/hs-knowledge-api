@@ -1,0 +1,257 @@
+// HS Knowledge API — Prisma schema
+// Schema: hs_kb (share Supabase Postgres với ERP, isolate namespace)
+// Layer: L3 Hải Quan — Microservice expert system
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions", "multiSchema"]
+  output          = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  directUrl  = env("DIRECT_URL")
+  extensions = [pgvector(map: "vector")]
+  schemas    = ["hs_kb"]
+}
+
+// ============================================================================
+// Tầng 1 — Fact Layer: Biểu thuế 2026 (cùng schema vì ERP cũng query)
+// Migrate từ public.Tariff2026 sang hs_kb.tariff_2026
+// ============================================================================
+model Tariff2026 {
+  hsCode            String   @id @db.VarChar(12)
+  nameVi            String
+  nameEn            String?
+  unitVi            String?
+  unitEn            String?
+  taxNkTt           String?
+  taxNkPreferential String?
+  taxAcfta          String?
+  taxVat            String?
+  taxTtdb           String?
+  taxXk             String?
+  taxBvmt           String?
+  policyByHs        String?
+  vatReduction      String?
+  otherFtaRates     Json?
+
+  // Knowledge layer additions
+  discriminatingFeatures String[] // auto-promoted từ feedback (Phase 5)
+  embedding              Unsupported("vector(768)")?
+  embeddingModel         String?
+  embeddedAt             DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@schema("hs_kb")
+  @@map("tariff_2026")
+}
+
+// ============================================================================
+// Tầng 2 — Legal Layer: Chú giải HS code (SEN/SE notes)
+// Import từ kg_index.json + bao_gom_index.json (legacy data)
+// ============================================================================
+enum HsLevel {
+  SECTION
+  CHAPTER
+  HEADING
+  SUBHEADING
+  NATIONAL
+
+  @@schema("hs_kb")
+}
+
+enum HsNoteType {
+  GENERAL_NOTE
+  INCLUDES
+  EXCLUDES
+  DEFINITION
+  CLASSIFICATION_RULE
+  OTHER
+
+  @@schema("hs_kb")
+}
+
+model HsExplanatoryNote {
+  id          String     @id @default(cuid())
+  level       HsLevel
+  code        String
+  parentCode  String?
+  titleVi     String?
+  noteType    HsNoteType @default(GENERAL_NOTE)
+  noteVi      String     @db.Text
+  noteEn      String?    @db.Text
+  sourcePage  Int?
+  sourceFile  String?
+
+  discriminatingFeatures String[]
+
+  embedding      Unsupported("vector(768)")?
+  embeddingModel String?
+  embeddedAt     DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([level, code])
+  @@index([code])
+  @@index([parentCode])
+  @@schema("hs_kb")
+  @@map("hs_explanatory_note")
+}
+
+// ============================================================================
+// Tầng 4 — Precedent Layer: TB-TCHQ + tờ khai cũ
+// Import từ tb_tchq_index.json (legacy) + Excel tờ khai cũ (Phase 0)
+// ============================================================================
+enum HistoricalOutcome {
+  UNKNOWN
+  APPROVED
+  QUESTIONED
+  AMENDED
+  REJECTED
+
+  @@schema("hs_kb")
+}
+
+model HistoricalImportBatch {
+  id            String   @id @default(cuid())
+  name          String
+  sourceType    String // excel | pdf | tb_tchq_json | api
+  sourceFile    String
+  uploadedById  String?
+  uploadedAt    DateTime @default(now())
+  itemCount     Int      @default(0)
+  status        String
+  errorMessage  String?
+  columnMapping Json?
+
+  items HistoricalDeclarationItem[]
+
+  @@index([status])
+  @@index([uploadedAt(sort: Desc)])
+  @@schema("hs_kb")
+  @@map("historical_import_batch")
+}
+
+model HistoricalDeclarationItem {
+  id String @id @default(cuid())
+
+  source        String
+  importBatchId String?
+  importBatch   HistoricalImportBatch? @relation(fields: [importBatchId], references: [id], onDelete: SetNull)
+  sourceFile    String?
+  sourceRow     Int?
+
+  declarationNo   String?
+  declarationDate DateTime?
+  importerName    String?
+
+  productNameRaw String  @db.Text
+  brand          String?
+  model          String?
+  origin         String?
+  material       String?
+  condition      String?
+  technicalSpec  String? @db.Text
+  unit           String?
+
+  hsCode String @db.VarChar(12)
+
+  outcome     HistoricalOutcome @default(UNKNOWN)
+  outcomeNote String?           @db.Text
+
+  // Precedent source (TB-TCHQ specific)
+  tbTchqNumber String? // vd "6439/TB-TCHQ"
+
+  embedding      Unsupported("vector(768)")?
+  embeddingModel String?
+  embeddedAt     DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([hsCode])
+  @@index([importBatchId])
+  @@index([outcome])
+  @@schema("hs_kb")
+  @@map("historical_declaration_item")
+}
+
+// ============================================================================
+// Tầng 5 — Conflict Layer: HS dễ nhầm (import từ conflict_index.json)
+// NEW model — không có trong ERP, đặc biệt cho hs-kb service
+// ============================================================================
+enum HsConflictRisk {
+  GREEN // ít rủi ro
+  YELLOW
+  ORANGE
+  RED // rủi ro cao, nhiều precedent chất vấn
+
+  @@schema("hs_kb")
+}
+
+model HsConflict {
+  id           String         @id @default(cuid())
+  hsCode       String         @db.VarChar(12)
+  riskLevel    HsConflictRisk @default(GREEN)
+  confusedWith String[] // Các HS code dễ nhầm (ma_de_nham từ legacy)
+  reasonsVi    String[] // ly_do (legacy)
+  precedents   Json? // mau_thuan: list TB-TCHQ precedents
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([hsCode])
+  @@index([riskLevel])
+  @@schema("hs_kb")
+  @@map("hs_conflict")
+}
+
+// ============================================================================
+// Tầng 9 — AI Layer: Feedback từ director ERP
+// ============================================================================
+enum HsFeedbackType {
+  RETURNED_BY_DIRECTOR
+  DIRECTOR_HS_OVERRIDE
+  DIRECTOR_DESCRIPTION_EDIT
+  MANUAL_FEEDBACK
+
+  @@schema("hs_kb")
+}
+
+model HsKnowledgeFeedback {
+  id           String         @id @default(cuid())
+  feedbackType HsFeedbackType
+
+  // Source (from ERP — không FK vì ERP và service tách)
+  orderId           String?
+  orderItemId       String?
+  orderCode         String?
+  hsCodeAtTime      String?
+  customsDescAtTime String?
+  productNameAtTime String?
+  ministriesAtTime  String[]
+
+  directorNote   String? @db.Text
+  directorUserId String?
+
+  correctedHsCode String?
+  correctedDesc   String? @db.Text
+
+  embedding      Unsupported("vector(768)")?
+  embeddingModel String?
+  embeddedAt     DateTime?
+
+  createdAt DateTime @default(now())
+
+  @@index([feedbackType])
+  @@index([hsCodeAtTime])
+  @@index([createdAt(sort: Desc)])
+  @@index([orderItemId])
+  @@schema("hs_kb")
+  @@map("hs_knowledge_feedback")
+}

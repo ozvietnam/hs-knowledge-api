@@ -11,3 +11,13 @@ data/system_status.json
 data/scheduler.log
 *.bak
 .vercel
+
+# Next.js TS rewrite
+node_modules/
+.next/
+out/
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+/coverage

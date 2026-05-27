@@ -1,13 +1,34 @@
 {
   "name": "hs-knowledge-api",
-  "version": "1.0.0",
-  "description": "HS Code Knowledge Graph API — 9 tầng dữ liệu",
+  "version": "2.0.0",
+  "description": "HS Code Knowledge Graph API — Service độc lập cho ERP Oz (9 tầng dữ liệu, Vercel Next.js TS)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev"
   },
   "dependencies": {
-    "next": "14.2.3"
+    "next": "^15.5.15",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@prisma/client": "^6.19.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "prisma": "^6.19.3",
+    "typescript": "^5.9.0",
+    "vitest": "^2.1.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.5.15"
+  },
+  "engines": {
+    "node": ">=20.11.0 <21 || >=22.0.0"
   }
 }
