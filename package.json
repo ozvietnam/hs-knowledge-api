@@ -13,20 +13,21 @@
     "prisma:migrate": "prisma migrate dev"
   },
   "dependencies": {
+    "@prisma/client": "^6.19.3",
     "next": "^15.5.15",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "@prisma/client": "^6.19.3"
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.5.15",
     "prisma": "^6.19.3",
     "typescript": "^5.9.0",
-    "vitest": "^2.1.0",
-    "eslint": "^9.0.0",
-    "eslint-config-next": "^15.5.15"
+    "vitest": "^2.1.0"
   },
   "engines": {
     "node": ">=20.11.0 <21 || >=22.0.0"

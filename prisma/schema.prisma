@@ -196,7 +196,7 @@ enum HsConflictRisk {
 
 model HsConflict {
   id           String         @id @default(cuid())
-  hsCode       String         @db.VarChar(12)
+  hsCode       String         @unique @db.VarChar(12)
   riskLevel    HsConflictRisk @default(GREEN)
   confusedWith String[] // Các HS code dễ nhầm (ma_de_nham từ legacy)
   reasonsVi    String[] // ly_do (legacy)
