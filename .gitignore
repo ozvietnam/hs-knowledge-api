@@ -16,7 +16,11 @@ data/scheduler.log
 node_modules/
 .next/
 out/
-.env*.local
+# .env (root) chứa GEMINI_API_KEY + HS_KB_API_TOKEN + DATABASE_URL — KHÔNG commit
+.env
+.env.*
+!.env.local.example
+!.env.example
 *.tsbuildinfo
 next-env.d.ts
 .vercel
