@@ -56,8 +56,8 @@ describe("parseHistoricalExcel", () => {
   });
 
   it("defaults outcome to UNKNOWN if not mapped", () => {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const { outcome, ...mappingNoOutcome } = defaultMapping;
+    const { outcome: _outcome, ...mappingNoOutcome } = defaultMapping;
+    void _outcome;
     const result = parseHistoricalExcel(fixtureBuffer, mappingNoOutcome);
     expect(result.items[0]!.outcome).toBe("UNKNOWN");
   });
