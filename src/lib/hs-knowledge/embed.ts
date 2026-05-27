@@ -2,13 +2,21 @@
 // Module: hs-knowledge-embed
 // Ticket: SPR-W158-04
 //
-// Gemini text-embedding-004 client + retry + batch.
+// Gemini embedding client + retry + batch.
+// Default: gemini-embedding-001 — text-embedding-004 bị Google deprecate
+// cho new users từ 2026-05, hs-knowledge-api Vercel project là new user
+// → embedContent call fail 404 nếu dùng text-embedding-004.
+//
+// gemini-embedding-001 default output dim là 3072, ta override về 768 (cũ)
+// để khớp Prisma vector(768) column. Khi nào schema migration sang 3072
+// thì bump cả EMBED_DIM + outputDimensionality cùng lúc.
+//
 // Idempotent: only embed rows where embedding IS NULL.
 
 import { prisma } from "@/src/lib/prisma";
 
 const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta";
-const EMBED_MODEL = process.env.GEMINI_EMBEDDING_MODEL ?? "models/text-embedding-004";
+const EMBED_MODEL = process.env.GEMINI_EMBEDDING_MODEL ?? "models/gemini-embedding-001";
 const BATCH = parseInt(process.env.EMBED_BATCH_SIZE ?? "100", 10);
 const RATE_LIMIT_MS = parseInt(process.env.EMBED_RATE_LIMIT_MS ?? "4000", 10);
 
@@ -97,6 +105,7 @@ export async function geminiEmbed(text: string): Promise<number[]> {
     body: JSON.stringify({
       content: { parts: [{ text }] },
       taskType: "SEMANTIC_SIMILARITY",
+      outputDimensionality: EMBED_DIM, // khớp Prisma vector(768)
     }),
   });
   if (!res.ok) {
