@@ -6,14 +6,11 @@
 
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/src/lib/prisma";
-import { requireApiToken } from "@/src/lib/auth";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
-  const authFail = requireApiToken(req);
-  if (authFail) return authFail;
 
   // Parallel count cho mọi tầng
   const [
