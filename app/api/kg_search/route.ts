@@ -161,11 +161,11 @@ async function attachConflictRisk<
 >(rows: T[]): Promise<Array<T & { conflictRisk: string | null }>> {
   if (rows.length === 0) return [];
   const codes = rows.map((r) => r.hsCode);
-  const conflicts = await prisma.hsConflict.findMany({
+  const conflicts: Array<{ hsCode: string; riskLevel: string }> = await prisma.hsConflict.findMany({
     where: { hsCode: { in: codes } },
     select: { hsCode: true, riskLevel: true },
   });
-  const riskMap = new Map(conflicts.map((c) => [c.hsCode, c.riskLevel]));
+  const riskMap = new Map<string, string>(conflicts.map((c) => [c.hsCode, c.riskLevel]));
   return rows.map((r) => ({
     ...r,
     conflictRisk: riskMap.get(r.hsCode) ?? null,
