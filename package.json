@@ -4,11 +4,12 @@
   "description": "HS Code Knowledge Graph API — Service độc lập cho ERP Oz (9 tầng dữ liệu, Vercel Next.js TS)",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
+    "postinstall": "prisma generate",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev"
   },
