@@ -98,9 +98,9 @@ GEMINI_API_KEY=AIza...           # Reuse from ERP
 HS_KB_API_TOKEN=                 # Bearer token, ERP env cũng có cùng giá trị
 CRON_SECRET=                     # cho cron embed weekly
 GEMINI_EMBEDDING_MODEL=models/text-embedding-004
-GEMINI_RERANK_MODEL=models/gemini-2.0-flash
-GEMINI_DESCRIBE_MODEL=models/gemini-2.0-flash
-GEMINI_EXTRACT_MODEL=models/gemini-2.0-flash
+GEMINI_RERANK_MODEL=models/gemini-2.5-flash
+GEMINI_DESCRIBE_MODEL=models/gemini-2.5-flash
+GEMINI_EXTRACT_MODEL=models/gemini-2.5-flash
 EMBED_BATCH_SIZE=100
 EMBED_RATE_LIMIT_MS=4000
 ```

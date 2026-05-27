@@ -11,7 +11,8 @@ import { searchSimilarFeedback, type SimilarFeedback } from "@/src/lib/hs-knowle
 import type { SuggestEvidence } from "@/src/lib/hs-knowledge/suggest";
 
 const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta";
-const RERANK_MODEL = process.env.GEMINI_RERANK_MODEL ?? "models/gemini-2.0-flash";
+// Default: gemini-2.5-flash (gemini-2.0-flash bị Google deprecate cho new users từ 2026-05).
+const RERANK_MODEL = process.env.GEMINI_RERANK_MODEL ?? "models/gemini-2.5-flash";
 
 export type RerankedSuggestion = {
   hsCode: string;

@@ -11,7 +11,9 @@ import { withRetry } from "@/src/lib/hs-knowledge/embed";
 import { searchSimilarFeedback, type SimilarFeedback } from "@/src/lib/hs-knowledge/feedback";
 
 const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta";
-const DESCRIBE_MODEL = process.env.GEMINI_DESCRIBE_MODEL ?? "models/gemini-2.0-flash";
+// Default: gemini-2.5-flash (gemini-2.0-flash bị Google deprecate cho new users từ 2026-05).
+// Override qua env GEMINI_DESCRIBE_MODEL nếu muốn dùng model khác.
+const DESCRIBE_MODEL = process.env.GEMINI_DESCRIBE_MODEL ?? "models/gemini-2.5-flash";
 
 export type CustomsDescriptionInput = {
   hsCode: string; // 8-12 digits

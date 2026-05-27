@@ -10,7 +10,8 @@ import { prisma } from "@/src/lib/prisma";
 import { withRetry } from "@/src/lib/hs-knowledge/embed";
 
 const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta";
-const EXTRACT_MODEL = process.env.GEMINI_EXTRACT_MODEL ?? "models/gemini-2.0-flash";
+// Default: gemini-2.5-flash (gemini-2.0-flash bị Google deprecate cho new users từ 2026-05).
+const EXTRACT_MODEL = process.env.GEMINI_EXTRACT_MODEL ?? "models/gemini-2.5-flash";
 const DEFAULT_THRESHOLD = 3;
 
 export type CandidateFeature = {
