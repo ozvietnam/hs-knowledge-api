@@ -26,6 +26,7 @@
     "eslint": "^9.0.0",
     "eslint-config-next": "^15.5.15",
     "prisma": "^6.19.3",
+    "tsx": "^4.22.3",
     "typescript": "^5.9.0",
     "vitest": "^2.1.0"
   },
