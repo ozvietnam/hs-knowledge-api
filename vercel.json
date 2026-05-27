@@ -1,0 +1,19 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "crons": [
+    {
+      "path": "/api/cron/embed-knowledge-base",
+      "schedule": "0 3 * * 0"
+    },
+    {
+      "path": "/api/cron/extract-features-from-feedback",
+      "schedule": "0 4 * * *"
+    }
+  ],
+  "functions": {
+    "app/api/suggest/route.ts": { "maxDuration": 30 },
+    "app/api/describe/route.ts": { "maxDuration": 30 },
+    "app/api/cron/embed-knowledge-base/route.ts": { "maxDuration": 300 },
+    "app/api/cron/extract-features-from-feedback/route.ts": { "maxDuration": 300 }
+  }
+}
