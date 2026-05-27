@@ -30,7 +30,7 @@ Tầng 3, 6, 7, 8 dự kiến thêm ở phase sau khi có nhu cầu thực tế.
 
 ### Public (no auth)
 ```
-GET /api/_health
+GET /api/health
   → Health check: DB, pgvector, env vars
 ```
 
@@ -74,7 +74,7 @@ pnpm dev                           # http://localhost:3000
 
 Test:
 ```bash
-curl http://localhost:3000/api/_health
+curl http://localhost:3000/api/health
 # → { service: "hs-knowledge-api", status: "healthy", ... }
 
 curl -H "Authorization: Bearer $HS_KB_API_TOKEN" \

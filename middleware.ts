@@ -1,11 +1,13 @@
 // Layer: Infra
 // Module: edge-middleware
-// Auto-protect /api/* routes (trừ /api/_health) với Bearer token check.
+// Auto-protect /api/* routes (trừ /api/health) với Bearer token check.
 // Chạy ở Edge runtime trước khi route handler nhận request.
+// Note: dùng "/api/health" (không phải "_health") vì App Router treat
+// folder prefix `_` như private, exclude khỏi routing.
 
 import { NextRequest, NextResponse } from "next/server";
 
-const PUBLIC_PATHS = new Set(["/api/_health"]);
+const PUBLIC_PATHS = new Set(["/api/health"]);
 const CRON_PATHS = new Set([
   "/api/cron/embed-knowledge-base",
   "/api/cron/extract-features-from-feedback",

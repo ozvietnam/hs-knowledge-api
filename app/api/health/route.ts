@@ -1,6 +1,8 @@
 // Layer: Infra
 // Module: api-health
-// GET /api/_health — public health check (no auth)
+// GET /api/health — public health check (no auth)
+// Note: dùng "health" (không phải "_health") vì Next.js App Router treat
+// folder prefix `_` như private folder → exclude khỏi routing.
 
 import { NextResponse } from "next/server";
 import { prisma } from "@/src/lib/prisma";

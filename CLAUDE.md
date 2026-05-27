@@ -33,11 +33,11 @@ Phase: 7.x
 
 ## API contract (cho ERP gọi)
 
-Tất cả endpoint trừ `/api/_health` cần Bearer token (`HS_KB_API_TOKEN`).
+Tất cả endpoint trừ `/api/health` cần Bearer token (`HS_KB_API_TOKEN`).
 
 | Endpoint | Method | Mục đích |
 |----------|--------|----------|
-| `/api/_health` | GET | Health check (public) |
+| `/api/health` | GET | Health check (public) |
 | `/api/kg?hs=X` | GET | KG đầy đủ 9 tầng theo mã HS (legacy) |
 | `/api/kg_search?q=X` | GET | Tìm kiếm theo từ khoá |
 | `/api/kg_chapter?ch=X` | GET | List items theo chapter |
@@ -63,7 +63,7 @@ Response shape backward-compat với ERP HsTaxDialog.
 
 ```
 /app/api/            ← Next.js App Router endpoints (TS)
-  _health/
+  health/            ← KHÔNG dùng prefix `_` (App Router private folder)
   kg/                ← legacy 4 endpoint port sang TS
   kg_search/
   kg_chapter/
