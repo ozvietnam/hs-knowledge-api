@@ -14,8 +14,9 @@ Service độc lập của Oz Việt Nam — Knowledge graph + AI suggest/descri
 - Prisma 6 + Postgres (Supabase, **chung instance với ERP**)
 - Schema **`hs_kb`** riêng (tách namespace, không lẫn với schema `public` ERP)
 - pgvector + HNSW + tsvector
-- Gemini API (embedding-004 + Flash) — reuse `GEMINI_API_KEY` ERP
+- Gemini API (`gemini-embedding-001` + `gemini-2.5-flash`) — reuse `GEMINI_API_KEY` ERP. NOTE: text-embedding-004 + gemini-2.0-flash bị Google deprecate cho new API users từ 2026-05.
 - Vercel Functions cùng team `thangs-projects-4472c6e9`
+- Production: https://hs-knowledge-api.vercel.app (alias `hs-kb.uythacnhapkhau.com` — Phase 7.4 DNS pending)
 
 ## Workflow
 
@@ -97,7 +98,7 @@ DIRECT_URL=postgresql://...     # Direct connection (bypass pooler)
 GEMINI_API_KEY=AIza...           # Reuse from ERP
 HS_KB_API_TOKEN=                 # Bearer token, ERP env cũng có cùng giá trị
 CRON_SECRET=                     # cho cron embed weekly
-GEMINI_EMBEDDING_MODEL=models/text-embedding-004
+GEMINI_EMBEDDING_MODEL=models/gemini-embedding-001
 GEMINI_RERANK_MODEL=models/gemini-2.5-flash
 GEMINI_DESCRIBE_MODEL=models/gemini-2.5-flash
 GEMINI_EXTRACT_MODEL=models/gemini-2.5-flash
@@ -108,7 +109,11 @@ EMBED_RATE_LIMIT_MS=4000
 ## Migration history
 
 - v1.0 (2026-04-14): Python orchestrator + 4 endpoint Vercel functions (legacy/)
-- v2.0 (2026-05-27): Phase 7 rewrite Next.js TS + 3 endpoint mới (suggest/describe/feedback)
+- v2.0 (2026-05-27): Phase 7.1 rewrite Next.js TS + 3 endpoint mới (suggest/describe/feedback)
+- v2.1 (2026-05-27): Phase 7.1 hotfix — gemini-embedding-001 (text-embedding-004 deprecated cho new users), gemini-2.5-flash (gemini-2.0-flash deprecated)
+- v2.2 (2026-05-27): Phase 7.2 — ERP cutover HTTP client (`src/lib/hs-kb-client.ts`)
+- v2.3 (2026-05-27): Phase 7.3 — ERP cleanup HS lib + Prisma models (xoá ~7,700 dòng khỏi ERP)
+- v2.4 (2026-05-27): Phase 7.4 — Tariff Excel import script + custom domain + admin docs
 
 ## Tham chiếu ngoài
 
@@ -116,11 +121,38 @@ EMBED_RATE_LIMIT_MS=4000
 - 9-tầng architecture: legacy/README.md
 - Lifecycle review từ chatbot cũ: legacy/chatbot/REVIEW-DATA-LIFECYCLE.md
 
+## Admin CLI (CEO + Claude operations)
+
+```bash
+# Setup env (lần đầu mỗi session):
+set -a; source .env; set +a
+
+# 1. Import legacy JSON (one-time setup):
+pnpm tsx scripts/import-legacy-json.ts
+# → 3,446 notes + 1,058 hist + 57 conflict
+
+# 2. Import Tariff Excel 2026 (~12k mã HS):
+mkdir -p data && cp ~/Downloads/bieu-thue-2026.xlsx data/
+pnpm tsx scripts/import-tariff-excel.ts data/bieu-thue-2026.xlsx --dry-run  # kiểm tra mapping
+pnpm tsx scripts/import-tariff-excel.ts data/bieu-thue-2026.xlsx            # production
+# Custom column mapping nếu Excel khác chuẩn:
+#   pnpm tsx scripts/import-tariff-excel.ts data/X.xlsx --mapping=scripts/custom.json
+
+# 3. Smoke test endpoint:
+TOKEN=$(grep "^HS_KB_API_TOKEN=" .env | sed -E "s/^HS_KB_API_TOKEN=//; s/^['\"]?//; s/['\"]?$//")
+curl -H "Authorization: Bearer $TOKEN" https://hs-knowledge-api.vercel.app/api/kg_stats
+
+# 4. Rotate token: xem README "Rotate token" section
+```
+
+Detail trong `README.md` — section "Admin CLI workflow".
+
 ## Khi hết context / session mới
 
 Đọc theo thứ tự:
-1. `README.md` — picture tổng
+1. `README.md` — picture tổng + admin CLI workflow
 2. `CLAUDE.md` — file này
 3. `prisma/schema.prisma` — data model
-4. `legacy/README.md` — context 9-tầng cũ
-5. `app/api/*/route.ts` (mới nhất trước)
+4. `scripts/` — admin tooling (import-legacy-json.ts, import-tariff-excel.ts)
+5. `legacy/README.md` — context 9-tầng cũ (chỉ khi cần research)
+6. `app/api/*/route.ts` (mới nhất trước)
