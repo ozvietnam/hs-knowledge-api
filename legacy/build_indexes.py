@@ -1,7 +1,7 @@
 import json, glob, os, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-base = r'D:\CLAUDE DATA SHARE\hs-knowledge-api\public\kg'
+base = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'public', 'kg')
 chapters = sorted(glob.glob(os.path.join(base, 'chapter_*.json')))
 print(f'Found {len(chapters)} chapter files')
 

@@ -2,17 +2,7 @@
 // Tìm kiếm trong knowledge graph index — hỗ trợ tiếng Việt có dấu & không dấu
 
 import indexData from '../data/kg_index.json';
-
-/**
- * Strip Vietnamese diacritics: "bàn chải đánh răng" → "ban chai danh rang"
- */
-function removeDiacritics(str) {
-  return str
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/đ/g, 'd')
-    .replace(/Đ/g, 'D');
-}
+const { removeDiacritics } = require('../lib/utils');
 
 export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
